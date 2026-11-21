@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-21",
+  "scope": "credits and publication documentation only",
+  "historical_manifest": "resultados/diario_v022/continuidad_v0211.json",
+  "approved_metadata_changes": [
+    {
+      "path": "assets/DIGIDEX_MANIFEST.json",
+      "baseline_sha256": "e99b30d170f9d0ce74d03d0885108db61bd2729dc39835b55e93fa29490d68cc",
+      "publication_sha256": "1d1d4d6bf9327338b32fe91e19d91db6b4f13656d1aac41dc22e19c399a5c784",
+      "reason": "Credits/provenance metadata updated for public academic publication; image bytes unchanged"
+    },
+    {
+      "path": "assets/PLANTILLA_CREDITOS.md",
+      "baseline_sha256": "1ae9a031e15bbf58ed993e274dcb676abdf9c605ceb2eb16a36e42639e2ba821",
+      "publication_sha256": "48ccaa543fdf9eccf88ebfad594107a7e5bfa0d832d01b8205ac06178e4cd0ec",
+      "reason": "Credits/provenance metadata updated for public academic publication; image bytes unchanged"
+    },
+    {
+      "path": "assets/digimon/LEEME.txt",
+      "baseline_sha256": "99b022ae54d4ad41b647c3339c4ca1629d2ef9a4d329cf14d0c32c749cddcf35",
+      "publication_sha256": "9c5e20fc54a952bc87527e9df2325cd97490aa9494d984a22dff2c5c664fc44d",
+      "reason": "Credits/provenance metadata updated for public academic publication; image bytes unchanged"
+    }
+  ]
+}

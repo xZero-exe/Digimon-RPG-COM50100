@@ -1,0 +1,115 @@
+{
+  "status": "PASS",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "pygame": "2.6.1",
+  "headless": true,
+  "checks": [
+    "eight_paths_match_engine",
+    "map_asset_cached",
+    "all_regions_and_forms",
+    "each_click_matches_one_engine_sample",
+    "stale_double_click_ignored",
+    "agents_read_only",
+    "combat_animation_blocks_routes",
+    "narrative_leaves_map_visible",
+    "four_resolutions_and_route_clicks",
+    "fallback_remains_playable",
+    "render_preserves_episode_and_rng",
+    "ordered_history_drives_traveled_routes",
+    "no_overlapping_buttons"
+  ],
+  "screenshots": [
+    "00_inicio_con_narracion.png",
+    "informacion_riesgo_caverna.png",
+    "region_village.png",
+    "despejada_village.png",
+    "region_forest.png",
+    "despejada_forest.png",
+    "region_cave.png",
+    "despejada_cave.png",
+    "region_swamp.png",
+    "despejada_swamp.png",
+    "region_ruins.png",
+    "despejada_ruins.png",
+    "region_tower.png",
+    "despejada_tower.png",
+    "region_fortress.png",
+    "despejada_fortress.png",
+    "ruta_village_forest.png",
+    "ruta_village_cave.png",
+    "ruta_forest_swamp.png",
+    "ruta_cave_swamp.png",
+    "ruta_swamp_ruins.png",
+    "ruta_swamp_tower.png",
+    "ruta_ruins_fortress.png",
+    "ruta_tower_fortress.png",
+    "solo_lectura_dp.png",
+    "solo_lectura_mc.png",
+    "combate_bloquea_rutas.png",
+    "forma_0.png",
+    "forma_1.png",
+    "forma_2.png",
+    "forma_3.png",
+    "aviso_village.png",
+    "aviso_forest.png",
+    "aviso_cave.png",
+    "aviso_swamp.png",
+    "aviso_ruins.png",
+    "aviso_tower.png",
+    "aviso_fortress.png",
+    "ventana_1366x768.png",
+    "ventana_1024x768.png",
+    "ventana_800x600.png",
+    "ventana_1920x1080.png",
+    "respaldo_sin_imagen.png",
+    "Vista_Previa_Mapa_v017.png"
+  ],
+  "routes": [
+    {
+      "source": "VILLAGE",
+      "destination": "FOREST",
+      "action": "ruta_bosque"
+    },
+    {
+      "source": "VILLAGE",
+      "destination": "CAVE",
+      "action": "ruta_caverna"
+    },
+    {
+      "source": "FOREST",
+      "destination": "SWAMP",
+      "action": "avanzar"
+    },
+    {
+      "source": "CAVE",
+      "destination": "SWAMP",
+      "action": "avanzar"
+    },
+    {
+      "source": "SWAMP",
+      "destination": "RUINS",
+      "action": "avanzar"
+    },
+    {
+      "source": "SWAMP",
+      "destination": "TOWER",
+      "action": "ruta_torre"
+    },
+    {
+      "source": "RUINS",
+      "destination": "FORTRESS",
+      "action": "avanzar"
+    },
+    {
+      "source": "TOWER",
+      "destination": "FORTRESS",
+      "action": "avanzar"
+    }
+  ],
+  "preview": {
+    "seed": 42,
+    "turns": 5,
+    "mode": "manual with saved DP actions",
+    "purpose": "GUI demonstration, not a new learning experiment"
+  }
+}

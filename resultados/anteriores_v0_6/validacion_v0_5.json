@@ -1,0 +1,28 @@
+{
+  "dp": {
+    "episodes": 500,
+    "wins": 472,
+    "rate": 0.944,
+    "reward": 136.718,
+    "turns": 14.818,
+    "visited_states": 4705,
+    "evolution_policy_states": {
+      "0": 513,
+      "1": 485,
+      "2": 161
+    }
+  },
+  "mc": {
+    "episodes": 500,
+    "wins": 472,
+    "rate": 0.944,
+    "reward": 134.062,
+    "turns": 15.528,
+    "visited_states": 2768,
+    "evolution_policy_states": {
+      "0": 96,
+      "1": 127,
+      "2": 92
+    }
+  }
+}

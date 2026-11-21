@@ -1,0 +1,14 @@
+{
+  "baseline": "v0.16",
+  "unchanged_files": 463,
+  "changed_existing_files": [
+    "JUGAR_WINDOWS.bat",
+    "README.md",
+    "VALIDAR_WINDOWS.bat",
+    "pyproject.toml",
+    "src/digimon_rl/gui/app.py",
+    "src/digimon_rl/gui/sprites.py"
+  ],
+  "missing_files": [],
+  "engine_policies_original_assets_and_combat_feedback_byte_identical": true
+}

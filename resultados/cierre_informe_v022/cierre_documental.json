@@ -1,0 +1,24 @@
+{
+  "release": "0.22",
+  "scope": "documentary closure; game rules and policies unchanged",
+  "windows_execution": {
+    "status": "confirmed_by_user",
+    "source": "User stated that the game already works on Windows in this conversation",
+    "date": "2026-11-20",
+    "scope": "manual execution of game",
+    "automated_windows_logs": "not supplied"
+  },
+  "automated_evidence": {
+    "file": "resultados/diario_v022/validacion_v022.json",
+    "platform": "Linux/SDL dummy",
+    "unit_tests_passed": 197
+  },
+  "original_zip_sha256": "1316d766acf3df3bb5aaf500d12a221403569a45a72f1674c9ecefe7cfa36554",
+  "public_repository_url": "https://github.com/xZero-exe/Digimon-RPG-COM50100",
+  "public_repository_visibility": "public",
+  "sprites_publication": {
+    "confirmed_by": "project owner",
+    "confirmed_on": "2026-11-21",
+    "credits": "CREDITOS.md"
+  }
+}

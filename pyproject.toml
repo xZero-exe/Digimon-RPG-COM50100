@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "digimon-rpg-rl"
+version = "0.22"
+description = "Mini RPG inspirado en Digimon para comparar Programación Dinámica y Monte Carlo"
+requires-python = ">=3.11"
+dependencies = ["numpy>=1.26,<3"]
+
+[project.optional-dependencies]
+game = ["pygame>=2.5,<3"]
+plots = ["matplotlib>=3.7"]
+art = ["Pillow>=10"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+digimon_rl = ["data/*.json"]

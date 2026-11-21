@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "frames": 3,
+  "rules_version": "v0.21-rutas-y-guardian",
+  "inspector_episodes": 120000,
+  "dashboard": "0.21",
+  "native_windows": "pending"
+}

@@ -1,0 +1,10 @@
+{
+  "version": "0.17",
+  "file": "world_map.png",
+  "width": 1859,
+  "height": 846,
+  "sha256": "fcb71c5a14a830f99525db2ba6374319cd48b1f8863a73e695db973d734b230d",
+  "provenance": "New scenery generated with the built-in image generation tool",
+  "prompt": "prompt_v017.txt",
+  "scope": "Decorative terrain only; routes, labels and interaction come from code"
+}

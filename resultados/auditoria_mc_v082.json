@@ -1,0 +1,48 @@
+{
+  "config": {
+    "method": "on-policy first-visit MC control epsilon-greedy",
+    "seed_train": 42,
+    "episodes_train": 90000,
+    "seed_eval": 2042,
+    "episodes_eval": 500,
+    "gamma": 0.95,
+    "epsilon": 0.15,
+    "max_steps": 80
+  },
+  "training": {
+    "complete": 90000,
+    "truncated": 0,
+    "visited_states": 18427,
+    "visited_pairs": 42975
+  },
+  "evaluation": {
+    "MC": {
+      "episodes": 500,
+      "wins": 437,
+      "losses": 63,
+      "truncated": 0,
+      "win_rate": 0.874,
+      "mean_reward": 124.206,
+      "mean_discounted_return": 70.7008742026972,
+      "mean_steps": 14.668,
+      "fallback_actions": 0,
+      "fallback_episodes": 0,
+      "fallback_action_rate": 0.0,
+      "distinct_unseen_states": 0
+    },
+    "DP": {
+      "episodes": 500,
+      "wins": 468,
+      "losses": 32,
+      "truncated": 0,
+      "win_rate": 0.936,
+      "mean_reward": 141.478,
+      "mean_discounted_return": 84.04423224400999,
+      "mean_steps": 13.652,
+      "fallback_actions": 0,
+      "fallback_episodes": 0,
+      "fallback_action_rate": 0.0,
+      "distinct_unseen_states": 0
+    }
+  }
+}

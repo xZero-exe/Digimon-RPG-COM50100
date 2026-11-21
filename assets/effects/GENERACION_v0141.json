@@ -1,0 +1,26 @@
+{
+  "reason": "Cobertura de ataques básicos e interrupción",
+  "assets": [
+    {
+      "name": "basic_attack",
+      "file": "assets/effects/basic_attack.png",
+      "prompt": "Use case: stylized-concept. Asset type: production 8-bit pixel-art RPG attack sprite sheet. Create ONE square transparent PNG atlas with EXACTLY 4 equal quadrants in a strict 2 by 2 grid. Each quadrant is one animation frame, order top-left, top-right, bottom-left, bottom-right. In every quadrant the effect is centered at the exact center of the tile, with generous transparent margins and entirely contained within its tile. Treat each tile as an enlarged 64 by 64 pixel drawing: crisp square pixel clusters, stepped contours, small limited palette, solid opaque colored pixels only, hard edges. No anti-aliasing, gradients, blur, bloom, soft glow, shadows, characters, scenery, text, labels, boxes, dividing lines or checkerboard. Background must be genuine alpha transparency. Every quadrant has an isolated visual effect. Consistent retro handheld game artwork. Subject: A basic physical claw strike for a friendly dinosaur RPG hero, NOT an elemental technique. Exactly three short parallel curved ivory-white claw slash crescents with a restrained amber edge and very dark navy outline, pointing down-right. Frame 0 small white preparatory spark; frame 1 three compact white slashes; frame 2 three clearly separated longer curved claw slash crescents; frame 3 compact white and pale gold impact starburst with a few tiny square fragments. Clean small bold readable silhouette, 5 colors. No hand, arm, body, letters, weapon, flames or background.",
+      "generation": "image_gen",
+      "layout": "2x2, four frames"
+    },
+    {
+      "name": "power_attack",
+      "file": "assets/effects/power_attack.png",
+      "prompt": "Use case: stylized-concept. Asset type: production 8-bit pixel-art RPG attack sprite sheet. Create ONE square transparent PNG atlas with EXACTLY 4 equal quadrants in a strict 2 by 2 grid. Each quadrant is one animation frame, order top-left, top-right, bottom-left, bottom-right. In every quadrant the effect is centered at the exact center of the tile, with generous transparent margins and entirely contained within its tile. Treat each tile as an enlarged 64 by 64 pixel drawing: crisp square pixel clusters, stepped contours, small limited palette, solid opaque colored pixels only, hard edges. No anti-aliasing, gradients, blur, bloom, soft glow, shadows, characters, scenery, text, labels, boxes, dividing lines or checkerboard. Background must be genuine alpha transparency. Every quadrant has an isolated visual effect. Consistent retro handheld game artwork. Subject: An empowered generic physical special attack for a friendly dinosaur RPG hero, distinct from named elemental techniques. A heavy double sweeping X-shaped gold and amber impact slash, dark rust outer contour and ivory core, with a few angular orange energy shards trailing to the left. Frame 0 small amber energy gathering star; frame 1 two compact golden sweeping slashes; frame 2 bigger double golden cross-slash lunging right; frame 3 dense angular gold/white impact burst with orange square shards. Clearly stronger and broader than a basic white claw strike, 6 colors. No fireball, missile, planet, character, hand, lettering or background.",
+      "generation": "image_gen",
+      "layout": "2x2, four frames"
+    },
+    {
+      "name": "interrupt_strike",
+      "file": "assets/effects/interrupt_strike.png",
+      "prompt": "Use case: stylized-concept. Asset type: production 8-bit pixel-art RPG attack sprite sheet. Create ONE square transparent PNG atlas with EXACTLY 4 equal quadrants in a strict 2 by 2 grid. Each quadrant is one animation frame, order top-left, top-right, bottom-left, bottom-right. In every quadrant the effect is centered at the exact center of the tile, with generous transparent margins and entirely contained within its tile. Treat each tile as an enlarged 64 by 64 pixel drawing: crisp square pixel clusters, stepped contours, small limited palette, solid opaque colored pixels only, hard edges. No anti-aliasing, gradients, blur, bloom, soft glow, shadows, characters, scenery, text, labels, boxes, dividing lines or checkerboard. Background must be genuine alpha transparency. Every quadrant has an isolated visual effect. Consistent retro handheld game artwork. Subject: A quick tactical interrupt strike in a retro RPG: a compact cyan and pale mint diagonal cutting spark, sharp geometric zigzag spear of light pointing right, dark teal outline. Frame 0 tiny mint ready spark; frame 1 short cyan cutting bolt with two trailing square fragments on left; frame 2 swift double cyan diagonal slash angled toward right, tighter than an explosion; frame 3 small crisp white/cyan cross-shaped cutting impact with a broken cyan ring and tiny mint square fragments. Clean very limited 5-color palette. No text, no cancel symbol, no letters, no characters, no weapon, no background.",
+      "generation": "image_gen",
+      "layout": "2x2, four frames"
+    }
+  ]
+}

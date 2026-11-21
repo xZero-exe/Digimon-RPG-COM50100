@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "checks": [
+    "source_hashes",
+    "five_seeds_and_checkpoints",
+    "csv_json_raw_statistics_match",
+    "word_result_tables_match_sources",
+    "saved_policy_metadata",
+    "nine_required_report_parts",
+    "editable_equations",
+    "two_figures",
+    "two_experimental_protocols_distinguished"
+  ],
+  "learning_data_changed": false,
+  "training_performed": false,
+  "pending": [
+    "Registro nativo y aceptación visual/sonora en Windows",
+    "URL del repositorio público y revisión de recursos según el aviso existente",
+    "Ensayo de exposición y revisión final del autor"
+  ]
+}

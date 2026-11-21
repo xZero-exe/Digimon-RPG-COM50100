@@ -1,0 +1,21 @@
+{
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "headless": true,
+  "seed": 42,
+  "rules_version": "v0.20-balance-piedmon",
+  "screenshots": [
+    "piedmon_9ps.png",
+    "wargreymon_vs_piedmon.png",
+    "victoria.png"
+  ],
+  "checks": [
+    "real_dp_trajectory",
+    "boss_9hp_visible",
+    "wargreymon_seen",
+    "victory",
+    "drawing_preserves_rng_and_turns"
+  ],
+  "outcome": "VICTORIA",
+  "turns": 13,
+  "status": "PASS"
+}

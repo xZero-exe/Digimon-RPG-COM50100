@@ -1,0 +1,10 @@
+digraph mundo {
+ graph [rankdir=TB, bgcolor="white", pad="0.10", nodesep="0.90", ranksep="0.22", splines=true, dpi=220];
+ node [shape=box, style="rounded,filled", fillcolor="#edf3f7", color="#607586", fontname="Times-Roman", fontsize=12, width=1.9, height=0.34, margin="0.13,0.06"];
+ edge [color="#526578", arrowsize=0.75, penwidth=1.1];
+ a [label="Aldea Digital"]; b [label="Bosque Binario"]; c [label="Caverna Digital"];
+ d [label="Refugio de Cristal",fillcolor="#e4eee6"]; e [label="Pantano de Datos"];
+ f [label="Ruinas Antiguas"]; g [label="Torre de Datos"]; h [label="Abismo Corrupto",fillcolor="#e4eee6"]; i [label="Fortaleza Virus"];
+ {rank=same;b;c;} {rank=same;f;g;}
+ a->b; a->c; b->d; c->d; d->e; b->e; c->e; e->f; e->g; f->h; g->h; h->i; f->i; g->i;
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "check": "auditoria",
+    "exit_code": 0
+  },
+  {
+    "check": "interfaz",
+    "exit_code": 0
+  },
+  {
+    "check": "efectos",
+    "exit_code": 0
+  },
+  {
+    "check": "basicos",
+    "exit_code": 0
+  },
+  {
+    "check": "fondos",
+    "exit_code": 0
+  },
+  {
+    "check": "combate",
+    "exit_code": 0
+  },
+  {
+    "check": "mapa",
+    "exit_code": 0
+  },
+  {
+    "check": "audio",
+    "exit_code": 0
+  },
+  {
+    "check": "entrega_historica",
+    "exit_code": 0
+  },
+  {
+    "check": "balance_historico",
+    "exit_code": 0
+  },
+  {
+    "check": "jefe",
+    "exit_code": 0
+  },
+  {
+    "check": "balance_actual",
+    "exit_code": 0
+  },
+  {
+    "check": "rutas",
+    "exit_code": 0
+  }
+]

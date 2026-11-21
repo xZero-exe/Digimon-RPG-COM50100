@@ -1,0 +1,49 @@
+{
+  "version": "0.15",
+  "provenance": "AI-generated new pixel-art backgrounds for this project; built-in image generation tool",
+  "design_specifications": "docs/fondos_v015.md",
+  "files": [
+    {
+      "file": "cave.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b6d18352552f8f03171fbfddfb7111a82e676cdb9f702c4488863aeff2dbdd4e"
+    },
+    {
+      "file": "forest.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7c2d747c74c82dd5bae08be2acb5cf0b5259653aa21ba47279b86b35b9ca2f70"
+    },
+    {
+      "file": "fortress.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9e517a070fac92d5a8cdb567018de6a4e478e8ad23f0b25ebe8a50e9d3652ba0"
+    },
+    {
+      "file": "ruins.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d9f33117fd85d168bf7f9541fd998af3c6854406b419429d746d0b6dd994265b"
+    },
+    {
+      "file": "swamp.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "07e3d0155b7bb07974a5a314b4b13de70994585776b0ec2f11f502dd8fc32483"
+    },
+    {
+      "file": "tower.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "deef2e3b7d3880d73d69902166a176a66ecededd4cc879f9f628974085c2fea0"
+    },
+    {
+      "file": "village.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1f8d2f396cd6eaec9a0e11d8818e92bb9b9e74580ae1f41bd30d9a0725394c11"
+    }
+  ]
+}

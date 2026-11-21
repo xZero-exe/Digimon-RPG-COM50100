@@ -1,0 +1,11 @@
+Sprites de personajes de Digidex: Agumon, Greymon, MetalGreymon, WarGreymon,
+Betamon, Goblimon, Ogremon, Devimon, Andromon, Piedmon y Guardromon.
+
+Fuente: https://github.com/SergioGranSol/digidex
+Artistas y colaboradores: https://github.com/SergioGranSol/digidex#creators
+Nombres y enlaces completos: CREDITOS.md en la raíz del proyecto.
+Procedencia y SHA-256: assets/DIGIDEX_MANIFEST.json.
+
+Diez PNG provienen de digidex-main.zip aportado por el responsable del proyecto;
+Guardromon se obtuvo del mismo repositorio para v0.21.1. Se mantienen los
+créditos de la colección sin atribuir todos los dibujos a su programador.

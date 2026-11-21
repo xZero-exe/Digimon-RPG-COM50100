@@ -1,0 +1,173 @@
+{
+  "status": "PASS",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "pygame": "2.6.1",
+  "headless": true,
+  "checks": [
+    "pause_freezes_animation",
+    "double_action_blocked",
+    "speed_keyboard_and_click",
+    "skip_preserves_turn_and_rng",
+    "all_labels_and_buttons_within_window",
+    "buttons_do_not_overlap",
+    "render_preserves_episode",
+    "instant_mode_resolves_exactly_one_identical_turn"
+  ],
+  "screenshots": [
+    "impacto_0.png",
+    "impacto_1.png",
+    "impacto_2.png",
+    "impacto_3.png",
+    "sin_dano_0.png",
+    "sin_dano_1.png",
+    "sin_dano_2.png",
+    "sin_dano_3.png",
+    "pocion_0.png",
+    "pocion_1.png",
+    "pocion_2.png",
+    "pocion_3.png",
+    "defensa_0.png",
+    "defensa_1.png",
+    "defensa_2.png",
+    "defensa_3.png",
+    "interrupcion_0.png",
+    "interrupcion_1.png",
+    "interrupcion_2.png",
+    "interrupcion_3.png",
+    "interrupcion_fallida_0.png",
+    "interrupcion_fallida_1.png",
+    "interrupcion_fallida_2.png",
+    "interrupcion_fallida_3.png",
+    "evolucion_0.png",
+    "evolucion_1.png",
+    "evolucion_2.png",
+    "evolucion_3.png",
+    "golpe_final_0.png",
+    "golpe_final_1.png",
+    "golpe_final_2.png",
+    "golpe_final_3.png",
+    "derrota_0.png",
+    "derrota_1.png",
+    "derrota_2.png",
+    "derrota_3.png",
+    "armadura_0.png",
+    "armadura_1.png",
+    "armadura_2.png",
+    "armadura_3.png",
+    "sin_contra_dano_0.png",
+    "sin_contra_dano_1.png",
+    "sin_contra_dano_2.png",
+    "sin_contra_dano_3.png",
+    "intencion_normal.png",
+    "intencion_cargada.png",
+    "pausa.png",
+    "velocidad_rapida.png",
+    "sin_animacion.png",
+    "nuevo_turno_instantaneo.png"
+  ],
+  "cases": [
+    {
+      "case": "impacto",
+      "action": "atacar",
+      "notices": [
+        "-1 PS",
+        "-1 PS",
+        "-1 PS"
+      ]
+    },
+    {
+      "case": "sin_dano",
+      "action": "atacar",
+      "notices": [
+        "SIN DAÑO",
+        "-1 PS",
+        "-1 PS"
+      ]
+    },
+    {
+      "case": "pocion",
+      "action": "usar_pocion",
+      "notices": [
+        "+3 PS",
+        "-3 PS",
+        "-3 PS"
+      ]
+    },
+    {
+      "case": "defensa",
+      "action": "defender",
+      "notices": [
+        "+2 EN",
+        "-1 PS",
+        "-1 PS"
+      ]
+    },
+    {
+      "case": "interrupcion",
+      "action": "interrumpir",
+      "notices": [
+        "-1 EN",
+        "-1 PS",
+        "CANCELADO",
+        "CANCELADO"
+      ]
+    },
+    {
+      "case": "interrupcion_fallida",
+      "action": "interrumpir",
+      "notices": [
+        "-1 EN",
+        "FALLÓ",
+        "-3 PS",
+        "-3 PS"
+      ]
+    },
+    {
+      "case": "evolucion",
+      "action": "digievolucionar",
+      "notices": [
+        "-2 EN",
+        "-2 PS",
+        "-2 PS"
+      ]
+    },
+    {
+      "case": "golpe_final",
+      "action": "tecnica_digimon",
+      "notices": [
+        "-3 EN",
+        "-2 PS",
+        "-3 EN",
+        "-2 PS",
+        "-3 EN",
+        "-2 PS"
+      ]
+    },
+    {
+      "case": "derrota",
+      "action": "atacar",
+      "notices": [
+        "-1 PS",
+        "-1 PS"
+      ]
+    },
+    {
+      "case": "armadura",
+      "action": "atacar",
+      "notices": [
+        "SIN DAÑO",
+        "-3 PS",
+        "-3 PS"
+      ]
+    },
+    {
+      "case": "sin_contra_dano",
+      "action": "defender",
+      "notices": [
+        "+2 EN",
+        "SIN DAÑO",
+        "SIN DAÑO"
+      ]
+    }
+  ]
+}

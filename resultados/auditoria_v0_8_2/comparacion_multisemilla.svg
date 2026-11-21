@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440">
+<rect width="100%" height="100%" fill="white"/>
+<text x="80" y="35" font-size="20" font-family="sans-serif" font-weight="bold">Digimon RPG: victorias por semilla</text>
+<text x="80" y="58" font-size="12" font-family="sans-serif">Mismas semillas de evaluación para DP y MC dentro de cada corrida</text>
+<line x1="80" y1="360" x2="820" y2="360" stroke="#222"/>
+<line x1="80" y1="80" x2="80" y2="360" stroke="#222"/>
+<line x1="80" y1="360.0" x2="820" y2="360.0" stroke="#e4e7eb"/>
+<text x="45" y="364.0" font-size="12" font-family="sans-serif">0%</text>
+<line x1="80" y1="290.0" x2="820" y2="290.0" stroke="#e4e7eb"/>
+<text x="45" y="294.0" font-size="12" font-family="sans-serif">25%</text>
+<line x1="80" y1="220.0" x2="820" y2="220.0" stroke="#e4e7eb"/>
+<text x="45" y="224.0" font-size="12" font-family="sans-serif">50%</text>
+<line x1="80" y1="150.0" x2="820" y2="150.0" stroke="#e4e7eb"/>
+<text x="45" y="154.0" font-size="12" font-family="sans-serif">75%</text>
+<line x1="80" y1="80.0" x2="820" y2="80.0" stroke="#e4e7eb"/>
+<text x="45" y="84.0" font-size="12" font-family="sans-serif">100%</text>
+<polyline fill="none" stroke="#2575a7" stroke-width="3" points="80.00,94.93 265.00,94.93 450.00,94.93 635.00,103.33 820.00,93.07"/>
+<circle cx="80.00" cy="94.93" r="5" fill="#2575a7"/>
+<circle cx="265.00" cy="94.93" r="5" fill="#2575a7"/>
+<circle cx="450.00" cy="94.93" r="5" fill="#2575a7"/>
+<circle cx="635.00" cy="103.33" r="5" fill="#2575a7"/>
+<circle cx="820.00" cy="93.07" r="5" fill="#2575a7"/>
+<polyline fill="none" stroke="#df8c21" stroke-width="3" points="80.00,152.80 265.00,169.60 450.00,167.73 635.00,151.87 820.00,171.47"/>
+<circle cx="80.00" cy="152.80" r="5" fill="#df8c21"/>
+<circle cx="265.00" cy="169.60" r="5" fill="#df8c21"/>
+<circle cx="450.00" cy="167.73" r="5" fill="#df8c21"/>
+<circle cx="635.00" cy="151.87" r="5" fill="#df8c21"/>
+<circle cx="820.00" cy="171.47" r="5" fill="#df8c21"/>
+<text x="80.0" y="383" text-anchor="middle" font-size="11" font-family="sans-serif">41</text>
+<text x="265.0" y="383" text-anchor="middle" font-size="11" font-family="sans-serif">42</text>
+<text x="450.0" y="383" text-anchor="middle" font-size="11" font-family="sans-serif">43</text>
+<text x="635.0" y="383" text-anchor="middle" font-size="11" font-family="sans-serif">44</text>
+<text x="820.0" y="383" text-anchor="middle" font-size="11" font-family="sans-serif">45</text>
+<text x="420" y="410" text-anchor="middle" font-size="12" font-family="sans-serif">Semilla de entrenamiento MC</text>
+<rect x="560" y="25" width="12" height="12" fill="#2575a7"/><text x="578" y="36" font-size="12" font-family="sans-serif">Value Iteration</text>
+<rect x="710" y="25" width="12" height="12" fill="#df8c21"/><text x="728" y="36" font-size="12" font-family="sans-serif">Monte Carlo</text>
+</svg>

@@ -1,0 +1,148 @@
+{
+  "version": "0.18",
+  "sample_rate": 22050,
+  "channels": 1,
+  "sample_bits": 16,
+  "source": "Original deterministic synthesis; no third-party samples",
+  "generator": "scripts/generar_sonidos_v018.py",
+  "files": [
+    {
+      "file": "ui.wav",
+      "duration_ms": 70,
+      "peak": 0.5675,
+      "sha256": "9975ad022550d857bd3797f0970f30d38a8e6c31e69948114a81fb076cc34f02"
+    },
+    {
+      "file": "basic_attack.wav",
+      "duration_ms": 130,
+      "peak": 0.72,
+      "sha256": "428ee3077cd139502bfda9b42d24c37069695a12a5f17b9dcb378d5420a7189c"
+    },
+    {
+      "file": "power_attack.wav",
+      "duration_ms": 270,
+      "peak": 0.6888,
+      "sha256": "9eb8ec46715741bf36fb761b8b276d770aef8e30d61f3a316676cdfa1d8ab0f7"
+    },
+    {
+      "file": "interrupt_strike.wav",
+      "duration_ms": 140,
+      "peak": 0.6179,
+      "sha256": "06a747836bd2b77cd64bea963615e27c54b9f97681a67d6cca51cf3b2e28c1f8"
+    },
+    {
+      "file": "baby_flame.wav",
+      "duration_ms": 230,
+      "peak": 0.6198,
+      "sha256": "20271323f7890ccdf542e769aa069b79afc0bccabfda7d812fcd310453fe0c0a"
+    },
+    {
+      "file": "mega_flame.wav",
+      "duration_ms": 320,
+      "peak": 0.72,
+      "sha256": "cfb4da4469a09e4d7cf3d5905ec7cafe4d45943608cafba3604b0d533b8231d1"
+    },
+    {
+      "file": "giga_destroyer.wav",
+      "duration_ms": 440,
+      "peak": 0.72,
+      "sha256": "0848d10ca478f41f4159be3983cc0d2cc05eacbf979923558e0d4d3fb608ffed"
+    },
+    {
+      "file": "terra_force.wav",
+      "duration_ms": 570,
+      "peak": 0.72,
+      "sha256": "63967249e94be69a3e761f2246c39d6ebc0917890248b7f79cf5427cff4fa903"
+    },
+    {
+      "file": "electric_shock.wav",
+      "duration_ms": 179,
+      "peak": 0.587,
+      "sha256": "7451d48be35f6f2b137bc1ab8fd62d1a3214c47984f34f6f024b88bde6342d29"
+    },
+    {
+      "file": "goblin_strike.wav",
+      "duration_ms": 160,
+      "peak": 0.72,
+      "sha256": "d9b363ff45642fd6bd2704a42fea88c3caae223053a0e1d5321f8b883aba2513"
+    },
+    {
+      "file": "haouken.wav",
+      "duration_ms": 320,
+      "peak": 0.6735,
+      "sha256": "84bd01af8b839f6b61e99151751f5af88f67a81ff6133a557389ccab4a7e8c18"
+    },
+    {
+      "file": "death_claw.wav",
+      "duration_ms": 240,
+      "peak": 0.4222,
+      "sha256": "6407c9a25e698b889020ca569664b6dab0d4c68c781d42249aeb3752ac4b5456"
+    },
+    {
+      "file": "spiral_sword.wav",
+      "duration_ms": 230,
+      "peak": 0.6515,
+      "sha256": "fb885184f05a53e8cc7a810231238c7ec517ab937ab516bf909cc27df61eb01f"
+    },
+    {
+      "file": "trump_sword.wav",
+      "duration_ms": 240,
+      "peak": 0.6052,
+      "sha256": "6abfd452e353bc273775dceee4961b4f13ac1a83df9b74e69b02ddeb30033061"
+    },
+    {
+      "file": "heal.wav",
+      "duration_ms": 310,
+      "peak": 0.6188,
+      "sha256": "691275a73a077da644a73430ac39583dce31308925feb445ada93824a5139993"
+    },
+    {
+      "file": "guard.wav",
+      "duration_ms": 180,
+      "peak": 0.5484,
+      "sha256": "c492f31542bb5dc43329cc024bbdcd6fe9de68c783a55e276e0fb3af066bff4b"
+    },
+    {
+      "file": "evolve.wav",
+      "duration_ms": 640,
+      "peak": 0.72,
+      "sha256": "f3181656405ce0cee0e37a6940c302a777e2e1fb912266f2f7f93daac502ff0e"
+    },
+    {
+      "file": "impact.wav",
+      "duration_ms": 100,
+      "peak": 0.675,
+      "sha256": "fc53882a31b1af7f8cff84cd1f50fc3a2382b0fec446ac3fbcedda86d23f1f0c"
+    },
+    {
+      "file": "no_hit.wav",
+      "duration_ms": 100,
+      "peak": 0.1726,
+      "sha256": "f93bf87672f0f13603394f81089ced0e327467419b283102d30b39ad227cf6d3"
+    },
+    {
+      "file": "cancel.wav",
+      "duration_ms": 170,
+      "peak": 0.6008,
+      "sha256": "ba6e2d5e1ceeb7100bae9c1f922fdee70227ccf95a71bb64ed8955ac0b708edc"
+    },
+    {
+      "file": "travel.wav",
+      "duration_ms": 360,
+      "peak": 0.6265,
+      "sha256": "8b81309a29e92a64040eb592e917e1111480e0b6433436740e39d317238e2eb5"
+    },
+    {
+      "file": "victory.wav",
+      "duration_ms": 640,
+      "peak": 0.7046,
+      "sha256": "a56e9c6644938ac39ed9762074b4a0d95ee52e4be0b1842a079991d18ba7b498"
+    },
+    {
+      "file": "loss.wav",
+      "duration_ms": 660,
+      "peak": 0.6241,
+      "sha256": "792085bbe70c38740617f34c9c4907b850aae121d9e2343232e8fc2e5e0b8dfa"
+    }
+  ]
+}

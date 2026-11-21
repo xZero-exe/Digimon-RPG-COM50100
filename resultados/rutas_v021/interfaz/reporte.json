@@ -1,0 +1,32 @@
+{
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "headless": true,
+  "rules_version": "v0.21-rutas-y-guardian",
+  "checks": [
+    "legal_manual_refuge_detour",
+    "resource_caps",
+    "one_turn_per_route",
+    "real_dp_abyss_victory",
+    "guardromon_canonical_sprite",
+    "drawing_preserves_rng_and_state"
+  ],
+  "screenshots": [
+    "01_antes_del_refugio.png",
+    "02_refugio_de_cristal.png",
+    "03_guardromon.png",
+    "04_botin_del_abismo.png"
+  ],
+  "refuge": {
+    "seed": 59,
+    "before_hp": 3,
+    "after_hp": 5,
+    "mode": "manual choice after DP prefix"
+  },
+  "abyss": {
+    "seed": 42,
+    "mode": "saved DP policy",
+    "outcome": "VICTORIA",
+    "turns": 16
+  },
+  "status": "PASS"
+}

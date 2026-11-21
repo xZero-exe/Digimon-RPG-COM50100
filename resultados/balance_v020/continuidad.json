@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "base": "0.19",
+  "release": "0.20",
+  "missing_baseline_files": [],
+  "changed_baseline_files": [
+    "JUGAR_WINDOWS.bat",
+    "README.md",
+    "VALIDAR_WINDOWS.bat",
+    "politicas/analisis_v010.json.gz",
+    "politicas/dp.json",
+    "politicas/mc.json",
+    "pyproject.toml",
+    "scripts/curvas_aprendizaje_v011.py",
+    "scripts/generar_informe_v019.py",
+    "scripts/validar_interfaz_v013.py",
+    "scripts/verificar_entrega_v019.py",
+    "src/digimon_rl/academic_dashboard.py",
+    "src/digimon_rl/environment.py",
+    "src/digimon_rl/gui/app.py",
+    "src/digimon_rl/play.py",
+    "src/digimon_rl/policy_io.py",
+    "src/digimon_rl/presentation.py",
+    "tests/test_environment.py",
+    "tests/test_evolutions.py",
+    "tests/test_techniques_v09.py"
+  ],
+  "unchanged_asset_files": 81,
+  "agent_algorithms_unchanged": true,
+  "ten_state_components_unchanged": true,
+  "historical_learning_data_unchanged": true,
+  "native_windows": "pending"
+}

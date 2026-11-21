@@ -1,0 +1,251 @@
+{
+  "rules_version": "v0.21-rutas-y-guardian",
+  "reachable_states": 85609,
+  "nominal_states_with_terminals": 725762,
+  "settings": {
+    "train_seed": 42,
+    "train_episodes": 120000,
+    "gamma": 0.95,
+    "epsilon": 0.15,
+    "evaluation_seeds": [
+      2042,
+      3042,
+      4042
+    ],
+    "evaluation_episodes_per_seed": 1000,
+    "max_steps": 80
+  },
+  "training": {
+    "complete": 120000,
+    "truncated": 0,
+    "mc_states": 27774,
+    "mc_pairs": 67387,
+    "dp_iterations": 41,
+    "dp_last_delta": 3.249134294946998e-09,
+    "elapsed_seconds": 84.07399818199974
+  },
+  "policy_sha256": {
+    "dp": "c6118c26528aabaa0b89477d0012cd3af9525f2fc422fec3c6c565c39680fada",
+    "mc": "5667677aadea3675d15d60b412a90f90b7cf9e9e41ad567d97ddfcc80448df40"
+  },
+  "evaluation": {
+    "dp": [
+      {
+        "episodes": 1000,
+        "wins": 916,
+        "losses": 84,
+        "truncated": 0,
+        "win_rate": 0.916,
+        "mean_reward": 153.519,
+        "mean_discounted_return": 82.95577553128679,
+        "mean_steps": 16.472,
+        "fallback_actions": 0,
+        "fallback_episodes": 0,
+        "fallback_action_rate": 0.0,
+        "distinct_unseen_states": 0
+      },
+      {
+        "episodes": 1000,
+        "wins": 930,
+        "losses": 70,
+        "truncated": 0,
+        "win_rate": 0.93,
+        "mean_reward": 156.406,
+        "mean_discounted_return": 84.62649126497423,
+        "mean_steps": 16.345,
+        "fallback_actions": 0,
+        "fallback_episodes": 0,
+        "fallback_action_rate": 0.0,
+        "distinct_unseen_states": 0
+      },
+      {
+        "episodes": 1000,
+        "wins": 906,
+        "losses": 94,
+        "truncated": 0,
+        "win_rate": 0.906,
+        "mean_reward": 151.487,
+        "mean_discounted_return": 82.69915357818093,
+        "mean_steps": 16.309,
+        "fallback_actions": 0,
+        "fallback_episodes": 0,
+        "fallback_action_rate": 0.0,
+        "distinct_unseen_states": 0
+      }
+    ],
+    "mc": [
+      {
+        "episodes": 1000,
+        "wins": 853,
+        "losses": 147,
+        "truncated": 0,
+        "win_rate": 0.853,
+        "mean_reward": 126.295,
+        "mean_discounted_return": 72.47985239650959,
+        "mean_steps": 15.162,
+        "fallback_actions": 1,
+        "fallback_episodes": 1,
+        "fallback_action_rate": 6.595435958316844e-05,
+        "distinct_unseen_states": 1
+      },
+      {
+        "episodes": 1000,
+        "wins": 869,
+        "losses": 131,
+        "truncated": 0,
+        "win_rate": 0.869,
+        "mean_reward": 129.168,
+        "mean_discounted_return": 73.8213157154064,
+        "mean_steps": 15.079,
+        "fallback_actions": 1,
+        "fallback_episodes": 1,
+        "fallback_action_rate": 6.631739505272233e-05,
+        "distinct_unseen_states": 1
+      },
+      {
+        "episodes": 1000,
+        "wins": 846,
+        "losses": 154,
+        "truncated": 0,
+        "win_rate": 0.846,
+        "mean_reward": 123.826,
+        "mean_discounted_return": 71.34616428252815,
+        "mean_steps": 15.166,
+        "fallback_actions": 4,
+        "fallback_episodes": 4,
+        "fallback_action_rate": 0.00026374785704866147,
+        "distinct_unseen_states": 4
+      }
+    ]
+  },
+  "form_metrics": {
+    "dp": [
+      {
+        "seed": 2042,
+        "episodes": 1000,
+        "wins": 916,
+        "losses": 84,
+        "truncated": 0,
+        "boss_reached": 976,
+        "used_wargreymon": 703,
+        "refuge_visits": 53,
+        "abyss_visits": 575,
+        "winning_form": {
+          "WarGreymon": 651,
+          "MetalGreymon": 265
+        },
+        "fallback_actions": 0
+      },
+      {
+        "seed": 3042,
+        "episodes": 1000,
+        "wins": 930,
+        "losses": 70,
+        "truncated": 0,
+        "boss_reached": 982,
+        "used_wargreymon": 688,
+        "refuge_visits": 53,
+        "abyss_visits": 560,
+        "winning_form": {
+          "WarGreymon": 649,
+          "MetalGreymon": 281
+        },
+        "fallback_actions": 0
+      },
+      {
+        "seed": 4042,
+        "episodes": 1000,
+        "wins": 906,
+        "losses": 94,
+        "truncated": 0,
+        "boss_reached": 981,
+        "used_wargreymon": 696,
+        "refuge_visits": 46,
+        "abyss_visits": 552,
+        "winning_form": {
+          "WarGreymon": 636,
+          "MetalGreymon": 270
+        },
+        "fallback_actions": 0
+      }
+    ],
+    "mc": [
+      {
+        "seed": 2042,
+        "episodes": 1000,
+        "wins": 853,
+        "losses": 147,
+        "truncated": 0,
+        "boss_reached": 960,
+        "used_wargreymon": 393,
+        "refuge_visits": 19,
+        "abyss_visits": 89,
+        "winning_form": {
+          "MetalGreymon": 519,
+          "WarGreymon": 333,
+          "Greymon": 1
+        },
+        "fallback_actions": 1
+      },
+      {
+        "seed": 3042,
+        "episodes": 1000,
+        "wins": 869,
+        "losses": 131,
+        "truncated": 0,
+        "boss_reached": 966,
+        "used_wargreymon": 400,
+        "refuge_visits": 16,
+        "abyss_visits": 66,
+        "winning_form": {
+          "MetalGreymon": 520,
+          "WarGreymon": 349
+        },
+        "fallback_actions": 1
+      },
+      {
+        "seed": 4042,
+        "episodes": 1000,
+        "wins": 846,
+        "losses": 154,
+        "truncated": 0,
+        "boss_reached": 964,
+        "used_wargreymon": 426,
+        "refuge_visits": 15,
+        "abyss_visits": 62,
+        "winning_form": {
+          "WarGreymon": 352,
+          "MetalGreymon": 493,
+          "Greymon": 1
+        },
+        "fallback_actions": 4
+      }
+    ]
+  },
+  "boss_decisions": [
+    {
+      "hp": 6,
+      "energy": 5,
+      "enemy_hp": 9,
+      "core": true,
+      "dp": "digievolucionar",
+      "mc": null
+    },
+    {
+      "hp": 6,
+      "energy": 6,
+      "enemy_hp": 9,
+      "core": false,
+      "dp": "digievolucionar",
+      "mc": null
+    },
+    {
+      "hp": 6,
+      "energy": 2,
+      "enemy_hp": 1,
+      "core": false,
+      "dp": "atacar",
+      "mc": null
+    }
+  ]
+}

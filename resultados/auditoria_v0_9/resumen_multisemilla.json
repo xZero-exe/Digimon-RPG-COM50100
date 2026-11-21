@@ -1,0 +1,174 @@
+{
+  "method_mc": "on-policy first-visit MC control epsilon-greedy; no exploring starts",
+  "method_dp": "value iteration",
+  "source_catedra": "Catedra 13 Monte Carlo Methods III, diapositiva 8",
+  "environment_version": "v0.9-tecnicas-por-forma",
+  "parameters": {
+    "seeds": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "mc_episodes_per_seed": 10000,
+    "evaluation_episodes_per_method_per_seed": 300,
+    "gamma": 0.95,
+    "epsilon": 0.15,
+    "max_steps": 80
+  },
+  "limitations": [
+    "Aventuras interrumpidas por max_steps no se actualizan en MC: no hay retorno terminal observado.",
+    "Los estados desconocidos se resuelven con primera acción legal, pero se contabilizan.",
+    "La comparación de DP y MC usa las mismas semillas de evaluación dentro de cada corrida; no asegura trayectorias idénticas.",
+    "La dispersión por semillas describe estas corridas y no garantiza un intervalo de confianza poblacional.",
+    "DP guardada con gamma=0.95; para cambiar gamma hay que recalcularla."
+  ],
+  "metrics": {
+    "dp_win_rate": {
+      "mean": 0.9433333333333334,
+      "std_by_seed": 0.012472191289246462,
+      "minimum": 0.9233333333333333,
+      "maximum": 0.9566666666666667
+    },
+    "mc_win_rate": {
+      "mean": 0.726,
+      "std_by_seed": 0.05837617474430624,
+      "minimum": 0.6433333333333333,
+      "maximum": 0.7966666666666666
+    },
+    "win_rate_gap_dp_minus_mc": {
+      "mean": 0.21733333333333335,
+      "std_by_seed": 0.05634220837386875,
+      "minimum": 0.15333333333333332,
+      "maximum": 0.30000000000000004
+    },
+    "dp_discounted_return": {
+      "mean": 85.85092823217698,
+      "std_by_seed": 1.6283962147434152,
+      "minimum": 84.02646680742892,
+      "maximum": 87.33686832942074
+    },
+    "mc_discounted_return": {
+      "mean": 53.61952320344226,
+      "std_by_seed": 6.742731734133733,
+      "minimum": 46.5213359754933,
+      "maximum": 60.65710100037607
+    },
+    "mc_coverage_reachable": {
+      "mean": 0.21160793359833585,
+      "std_by_seed": 0.006241000686170192,
+      "minimum": 0.20540440343542107,
+      "maximum": 0.21815335818589995
+    },
+    "mc_fallback_action_rate": {
+      "mean": 0.0052179838613937695,
+      "std_by_seed": 0.0011518515430003345,
+      "minimum": 0.0034618047542118624,
+      "maximum": 0.006299580027998133
+    },
+    "mc_truncated_train": {
+      "mean": 0,
+      "std_by_seed": 0.0,
+      "minimum": 0,
+      "maximum": 0
+    }
+  },
+  "per_seed": [
+    {
+      "seed": 41,
+      "evaluation_seed": 2042,
+      "dp_win_rate": 0.9433333333333334,
+      "mc_win_rate": 0.7633333333333333,
+      "dp_return": 86.78248145223161,
+      "mc_return": 60.65710100037607,
+      "dp_truncated_eval": 0,
+      "mc_truncated_eval": 0,
+      "mc_train_completed": 10000,
+      "mc_train_truncated": 0,
+      "mc_visited_states": 9973,
+      "mc_visited_pairs": 19665,
+      "mc_coverage_reachable": 0.20540440343542107,
+      "mc_fallback_actions": 20,
+      "mc_fallback_episodes": 18,
+      "mc_fallback_action_rate": 0.004783544606553456,
+      "mc_unseen_states_encountered": 15
+    },
+    {
+      "seed": 42,
+      "evaluation_seed": 2061,
+      "dp_win_rate": 0.9233333333333333,
+      "mc_win_rate": 0.7066666666666667,
+      "dp_return": 84.02646680742892,
+      "mc_return": 52.42228360810576,
+      "dp_truncated_eval": 0,
+      "mc_truncated_eval": 0,
+      "mc_train_completed": 10000,
+      "mc_train_truncated": 0,
+      "mc_visited_states": 10571,
+      "mc_visited_pairs": 20612,
+      "mc_coverage_reachable": 0.21772084114266885,
+      "mc_fallback_actions": 23,
+      "mc_fallback_episodes": 19,
+      "mc_fallback_action_rate": 0.005419415645617342,
+      "mc_unseen_states_encountered": 22
+    },
+    {
+      "seed": 43,
+      "evaluation_seed": 2080,
+      "dp_win_rate": 0.9433333333333334,
+      "mc_win_rate": 0.6433333333333333,
+      "dp_return": 84.13554219826392,
+      "mc_return": 46.5213359754933,
+      "dp_truncated_eval": 0,
+      "mc_truncated_eval": 0,
+      "mc_train_completed": 10000,
+      "mc_train_truncated": 0,
+      "mc_visited_states": 9979,
+      "mc_visited_pairs": 19676,
+      "mc_coverage_reachable": 0.2055279797334871,
+      "mc_fallback_actions": 27,
+      "mc_fallback_episodes": 24,
+      "mc_fallback_action_rate": 0.006299580027998133,
+      "mc_unseen_states_encountered": 19
+    },
+    {
+      "seed": 44,
+      "evaluation_seed": 2099,
+      "dp_win_rate": 0.95,
+      "mc_win_rate": 0.7966666666666666,
+      "dp_return": 86.97328237353972,
+      "mc_return": 60.561984247274836,
+      "dp_truncated_eval": 0,
+      "mc_truncated_eval": 0,
+      "mc_train_completed": 10000,
+      "mc_train_truncated": 0,
+      "mc_visited_states": 10256,
+      "mc_visited_pairs": 20101,
+      "mc_coverage_reachable": 0.21123308549420222,
+      "mc_fallback_actions": 15,
+      "mc_fallback_episodes": 11,
+      "mc_fallback_action_rate": 0.0034618047542118624,
+      "mc_unseen_states_encountered": 14
+    },
+    {
+      "seed": 45,
+      "evaluation_seed": 2118,
+      "dp_win_rate": 0.9566666666666667,
+      "mc_win_rate": 0.72,
+      "dp_return": 87.33686832942074,
+      "mc_return": 47.93491118596134,
+      "dp_truncated_eval": 0,
+      "mc_truncated_eval": 0,
+      "mc_train_completed": 10000,
+      "mc_train_truncated": 0,
+      "mc_visited_states": 10592,
+      "mc_visited_pairs": 20974,
+      "mc_coverage_reachable": 0.21815335818589995,
+      "mc_fallback_actions": 28,
+      "mc_fallback_episodes": 19,
+      "mc_fallback_action_rate": 0.006125574272588055,
+      "mc_unseen_states_encountered": 27
+    }
+  ]
+}

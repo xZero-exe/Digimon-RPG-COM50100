@@ -1,0 +1,81 @@
+{
+  "dp": [
+    {
+      "seed": 2042,
+      "episodes": 1000,
+      "wins": 947,
+      "boss_reached": 988,
+      "used_wargreymon": 149,
+      "winning_form": {
+        "MetalGreymon": 815,
+        "WarGreymon": 132
+      },
+      "fallback_actions": 0
+    },
+    {
+      "seed": 3042,
+      "episodes": 1000,
+      "wins": 948,
+      "boss_reached": 987,
+      "used_wargreymon": 155,
+      "winning_form": {
+        "MetalGreymon": 803,
+        "WarGreymon": 145
+      },
+      "fallback_actions": 0
+    },
+    {
+      "seed": 4042,
+      "episodes": 1000,
+      "wins": 951,
+      "boss_reached": 991,
+      "used_wargreymon": 141,
+      "winning_form": {
+        "MetalGreymon": 822,
+        "WarGreymon": 129
+      },
+      "fallback_actions": 0
+    }
+  ],
+  "mc": [
+    {
+      "seed": 2042,
+      "episodes": 1000,
+      "wins": 909,
+      "boss_reached": 979,
+      "used_wargreymon": 31,
+      "winning_form": {
+        "MetalGreymon": 880,
+        "WarGreymon": 25,
+        "Greymon": 4
+      },
+      "fallback_actions": 3
+    },
+    {
+      "seed": 3042,
+      "episodes": 1000,
+      "wins": 901,
+      "boss_reached": 976,
+      "used_wargreymon": 29,
+      "winning_form": {
+        "MetalGreymon": 872,
+        "WarGreymon": 27,
+        "Greymon": 2
+      },
+      "fallback_actions": 6
+    },
+    {
+      "seed": 4042,
+      "episodes": 1000,
+      "wins": 906,
+      "boss_reached": 983,
+      "used_wargreymon": 30,
+      "winning_form": {
+        "MetalGreymon": 878,
+        "WarGreymon": 26,
+        "Greymon": 2
+      },
+      "fallback_actions": 0
+    }
+  ]
+}

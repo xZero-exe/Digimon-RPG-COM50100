@@ -1,0 +1,33 @@
+{
+  "release": "0.19",
+  "experiment": "v0.11",
+  "checkpoint_max": 20000,
+  "n_seeds": 5,
+  "play_policy_mc_episodes": 60000,
+  "reachable_nonterminal_states": 48553,
+  "software_tests": 161,
+  "windows_native": "pending",
+  "repository_public_url": null,
+  "figure_x_axis": "linear episode count",
+  "report_toc_pages": {
+    "Resumen": 2,
+    "Estado del arte": 2,
+    "Metodología": 3,
+    "Resultados": 6,
+    "Discusión": 9,
+    "Conclusión": 9,
+    "Referencias": 9
+  },
+  "sources": {
+    "resultados/convergencia_v011/resumen_v011.json": "0d765a1aa160565ea9a8d2b5e585153f4bd5e424c1fb53d1428b5e1444514f3c",
+    "resultados/convergencia_v011/curvas_resumen.csv": "4327bda3974f0cd0be30f7bc409a0a46c2ab80328890883c917df7fa51be134e",
+    "resultados/validacion_v0_9.json": "a4ae5727c0e360a60b197f44d372725c5fb31df8e977919136c41234f27d8392",
+    "politicas/dp.json": "53dfc2a71904b47873f8391edc27b2e6842aeb957da06422164cbe3d5d3c38cc",
+    "politicas/mc.json": "72b27c14b8d52f0ace2fc3c0b187151d3b40c34ed6cf1a4a40baa2e3c4b1e832"
+  },
+  "course_sources": [
+    "Final_Project.pdf",
+    "Catedra_13_Monte_Carlo_Methods_III.pdf",
+    "202608202205_3DE23E_20178023__Syllabus_Aprendizaje_Reforzado(1).pdf"
+  ]
+}

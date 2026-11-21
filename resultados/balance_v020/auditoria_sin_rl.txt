@@ -1,0 +1,4 @@
+[Auditoría sin librerías RL] Archivos Python revisados: 89
+OK: no se detectaron dependencias ni importaciones conocidas de bibliotecas RL.
+Algoritmos: implementados localmente en src/digimon_rl/agents.py
+Nota: el análisis estático no certifica el comportamiento matemático del código.

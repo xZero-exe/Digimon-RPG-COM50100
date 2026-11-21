@@ -1,0 +1,14 @@
+{
+  "baseline": "v0.15",
+  "unchanged_files": 400,
+  "changed_existing_files": [
+    "JUGAR_WINDOWS.bat",
+    "README.md",
+    "VALIDAR_WINDOWS.bat",
+    "pyproject.toml",
+    "src/digimon_rl/combat_visuals.py",
+    "src/digimon_rl/gui/app.py"
+  ],
+  "missing_files": [],
+  "critical_engine_policies_assets_byte_identical": true
+}

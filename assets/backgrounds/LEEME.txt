@@ -1,0 +1,10 @@
+Fondos incluidos desde v0.15: village.png, forest.png, cave.png, swamp.png,
+ruins.png, tower.png y fortress.png.
+
+Arte nuevo generado para el proyecto, de estética pixel art retro.
+Se priorizan estos archivos sobre assets/demo/backgrounds/.
+Los recursos de demostración anteriores permanecen como respaldo.
+
+El cargador conserva proporciones mediante cobertura y recorte central,
+con vecino más cercano. No requiere Internet durante el juego.
+Guía: docs/fondos_v015.md. Integridad: manifest_v015.json.

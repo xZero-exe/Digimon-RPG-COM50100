@@ -1,0 +1,167 @@
+{
+  "status": "PASS",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "pygame": "2.6.1",
+  "headless": true,
+  "checks": [
+    "23_wavs_load_in_mixer",
+    "missing_sound_is_non_fatal",
+    "sounds_follow_resolved_turn",
+    "cancel_has_no_enemy_sound",
+    "one_outcome_jingle",
+    "pause_freezes_clock_and_audio",
+    "skip_has_no_sound_burst_or_extra_turn",
+    "mute_volume_and_persistence",
+    "unmute_does_not_replay_consumed_cues",
+    "gallery_audio_is_opt_in_and_read_only",
+    "transition_blocks_input_and_preserves_rng",
+    "render_is_silent_and_preserves_episode",
+    "labels_and_buttons_fit",
+    "mixer_shutdown_is_non_fatal"
+  ],
+  "screenshots": [
+    "00_controles.png",
+    "transicion_caverna.png",
+    "pausa_transicion.png",
+    "tecnica_baby_flame.png",
+    "tecnica_mega_flame.png",
+    "tecnica_giga_destroyer.png",
+    "tecnica_terra_force.png",
+    "enemigo_giga_destroyer.png",
+    "enemigo_electric_shock.png",
+    "enemigo_goblin_strike.png",
+    "enemigo_haouken.png",
+    "enemigo_death_claw.png",
+    "enemigo_spiral_sword.png",
+    "enemigo_trump_sword.png",
+    "basico_basic_attack.png",
+    "basico_power_attack.png",
+    "basico_interrupt_strike.png",
+    "heal.png",
+    "evolve.png",
+    "derrota.png",
+    "silenciado.png",
+    "galeria_audio.png",
+    "mixer_cerrado.png"
+  ],
+  "cases": [
+    {
+      "case": "baby_flame",
+      "sounds": [
+        "baby_flame",
+        "no_hit",
+        "trump_sword",
+        "impact"
+      ]
+    },
+    {
+      "case": "mega_flame",
+      "sounds": [
+        "mega_flame",
+        "no_hit",
+        "trump_sword",
+        "impact"
+      ]
+    },
+    {
+      "case": "giga_destroyer",
+      "sounds": [
+        "giga_destroyer",
+        "no_hit",
+        "trump_sword",
+        "impact"
+      ]
+    },
+    {
+      "case": "terra_force",
+      "sounds": [
+        "terra_force",
+        "impact",
+        "victory"
+      ]
+    },
+    {
+      "case": "giga_destroyer",
+      "sounds": [
+        "guard",
+        "giga_destroyer",
+        "impact"
+      ]
+    },
+    {
+      "case": "electric_shock",
+      "sounds": [
+        "guard",
+        "electric_shock",
+        "impact"
+      ]
+    },
+    {
+      "case": "goblin_strike",
+      "sounds": [
+        "guard",
+        "goblin_strike",
+        "impact"
+      ]
+    },
+    {
+      "case": "haouken",
+      "sounds": [
+        "guard",
+        "haouken",
+        "impact"
+      ]
+    },
+    {
+      "case": "death_claw",
+      "sounds": [
+        "guard",
+        "death_claw",
+        "impact"
+      ]
+    },
+    {
+      "case": "spiral_sword",
+      "sounds": [
+        "guard",
+        "spiral_sword",
+        "impact"
+      ]
+    },
+    {
+      "case": "trump_sword",
+      "sounds": [
+        "guard",
+        "trump_sword",
+        "impact"
+      ]
+    }
+  ],
+  "sounds": [
+    "baby_flame",
+    "basic_attack",
+    "cancel",
+    "death_claw",
+    "electric_shock",
+    "evolve",
+    "giga_destroyer",
+    "goblin_strike",
+    "guard",
+    "haouken",
+    "heal",
+    "impact",
+    "interrupt_strike",
+    "loss",
+    "mega_flame",
+    "no_hit",
+    "power_attack",
+    "spiral_sword",
+    "terra_force",
+    "travel",
+    "trump_sword",
+    "ui",
+    "victory"
+  ],
+  "audio_available": true,
+  "audio_backend": "dummy"
+}

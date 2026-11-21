@@ -1,0 +1,110 @@
+{
+  "base": "Digimon_RPG_RL_POO_v0.13_Interfaz_Adaptable_Informe.zip",
+  "base_sha256": "2c2f5e1ce9e264f7d1bea4e480e9e863895e806a47a81a6c35ee4727120b26ab",
+  "unchanged": [
+    {
+      "path": "src/digimon_rl/agents.py",
+      "sha256": "bce0e77a598c356154faa973bb572a0d240a9712ed1b26662cbc767d34672f8b"
+    },
+    {
+      "path": "src/digimon_rl/environment.py",
+      "sha256": "7ff79733140dc3431a77fd272949b7cd15c74839e3371e6bfc3ce9b7f54139e2"
+    },
+    {
+      "path": "src/digimon_rl/domain.py",
+      "sha256": "8722e646eead92c6cd35cd772a7712f29ee43eaa2300d33f77540f9f8ed16158"
+    },
+    {
+      "path": "src/digimon_rl/session.py",
+      "sha256": "85c2984e25b51509654302487d7110fce3ad1d15e0c5edefe0278a383c8f50b0"
+    },
+    {
+      "path": "src/digimon_rl/techniques.py",
+      "sha256": "3095acf14ba53668e097f90b7f9b9e7dcffb2dd51703e9504ce88694c0cc2cbd"
+    },
+    {
+      "path": "politicas/mc.json",
+      "sha256": "72b27c14b8d52f0ace2fc3c0b187151d3b40c34ed6cf1a4a40baa2e3c4b1e832"
+    },
+    {
+      "path": "politicas/analisis_v010.json.gz",
+      "sha256": "4402034b595b2b7dc5daaca00949fa99dce9aee75c1f79254c90efb9b109a760"
+    },
+    {
+      "path": "politicas/dp.json",
+      "sha256": "53dfc2a71904b47873f8391edc27b2e6842aeb957da06422164cbe3d5d3c38cc"
+    },
+    {
+      "path": "assets/digimon/ogremon.png",
+      "sha256": "79dde14bee64b7e5220d81c3f6618adeda60d2329e253ea31cfc82512d6d9617"
+    },
+    {
+      "path": "assets/digimon/agumon.png",
+      "sha256": "21255b3c82bd09a4937b95d34d9b82129753fc1caa2829f0b8c46a25636e2d08"
+    },
+    {
+      "path": "assets/digimon/metalgreymon.png",
+      "sha256": "4add8a82e8c241f6f41a762e70e61378de94d753ba14759df0eee306b7b46f01"
+    },
+    {
+      "path": "assets/digimon/LEEME.txt",
+      "sha256": "99b022ae54d4ad41b647c3339c4ca1629d2ef9a4d329cf14d0c32c749cddcf35"
+    },
+    {
+      "path": "assets/digimon/wargreymon.png",
+      "sha256": "fcf63ad99079a55bc881a9f4e99f871055edf7eae041739c3902aa76c5e866d6"
+    },
+    {
+      "path": "assets/digimon/andromon.png",
+      "sha256": "2e7e6edc54962199c02082601fe20d4558ae391ed9322b2e93d42cba6dd0eb2e"
+    },
+    {
+      "path": "assets/digimon/devimon.png",
+      "sha256": "fb4ff64bd571fe28c74c6cc6ca5a07bb95cadf95fcfcbc0a2a11cfc1054def06"
+    },
+    {
+      "path": "assets/digimon/goblimon.png",
+      "sha256": "9f83c3e0a8139fde81aadc3293d07868680f5dc031ae1099d87223b3bbee333c"
+    },
+    {
+      "path": "assets/digimon/piedmon.png",
+      "sha256": "4c9a9deafab5036b0bd03460a67028ed701048b2275e6ceaeeae8e97d9ca6dbc"
+    },
+    {
+      "path": "assets/digimon/greymon.png",
+      "sha256": "4cbde5f2a67e739e46c6c3c3cc6f44d6c2ed797cfe0ce459a85b17e6d1ae6c04"
+    },
+    {
+      "path": "assets/digimon/betamon.png",
+      "sha256": "2b9589b4b6b91e36ef31b5651e12691f856124804c03459385d12231c5ace45b"
+    },
+    {
+      "path": "resultados/convergencia_v011/curvas_resumen.csv",
+      "sha256": "4327bda3974f0cd0be30f7bc409a0a46c2ab80328890883c917df7fa51be134e"
+    },
+    {
+      "path": "resultados/convergencia_v011/resumen_v011.json",
+      "sha256": "0d765a1aa160565ea9a8d2b5e585153f4bd5e424c1fb53d1428b5e1444514f3c"
+    },
+    {
+      "path": "resultados/convergencia_v011/convergencia_v011.svg",
+      "sha256": "9f71aa76065008b66d5fa2f3abbec9788b910cdd26d1d6b5e78fa82cfb48d05f"
+    },
+    {
+      "path": "resultados/convergencia_v011/cobertura_v011.png",
+      "sha256": "40052abe5aa6703096595e45d479a0e5d2986cd3076626c8df2d5539eb2307a2"
+    },
+    {
+      "path": "resultados/convergencia_v011/resultados_por_semilla_y_checkpoint.csv",
+      "sha256": "ad992b31a92b649f60e7cb9f03b5eff754228b1c4ad04c9930f3b62471b94daf"
+    },
+    {
+      "path": "resultados/convergencia_v011/cobertura_v011.svg",
+      "sha256": "53f47b07750a874c903e3cc7558ac6bb566e48ae84280fcbd85445bb2147d20b"
+    },
+    {
+      "path": "resultados/convergencia_v011/convergencia_v011.png",
+      "sha256": "fc806702eda3ac398d02f832fc1ab2b78c29fbc572dc5dbea9f2e9b42fa79921"
+    }
+  ]
+}

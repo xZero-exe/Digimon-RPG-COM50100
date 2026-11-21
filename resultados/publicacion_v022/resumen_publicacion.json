@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-21",
+  "repository_url": "https://github.com/xZero-exe/Digimon-RPG-COM50100",
+  "visibility": "public",
+  "scope": "credits, documentation and credits screen",
+  "unit_tests": {
+    "passed": 197,
+    "platform": "Linux/SDL dummy",
+    "log": "pruebas_publicacion.txt"
+  },
+  "original_files": 808,
+  "modified_original_files": [
+    "AVISO_DERECHOS_SPRITES.md",
+    "README.md",
+    ".gitignore",
+    "scripts/verificar_continuidad_v022.py",
+    "docs/rutas_v021.md",
+    "docs/guion_presentacion_v019.md",
+    "docs/plan_informe_final_v013.md",
+    "docs/cierre_academico_v019.md",
+    "docs/curvas_convergencia_v011.md",
+    "docs/Informe_Final_Digimon_RPG_v022.docx",
+    "docs/recursos_visuales_v0_3.md",
+    "docs/guion_presentacion_v012.md",
+    "docs/interfaz_v0_4.md",
+    "docs/correccion_guardromon_v0211.md",
+    "docs/Informe_Final_Digimon_RPG_v022.pdf",
+    "assets/DIGIDEX_MANIFEST.json",
+    "assets/PLANTILLA_CREDITOS.md",
+    "src/digimon_rl/gui/app.py",
+    "assets/digimon/LEEME.txt",
+    "resultados/cierre_informe_v022/cierre_documental.json"
+  ],
+  "model_policies_curves_and_image_bytes": "unchanged",
+  "credits_source": "https://github.com/SergioGranSol/digidex#creators"
+}

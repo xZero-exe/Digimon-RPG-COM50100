@@ -1,0 +1,41 @@
+{
+  "dp": {
+    "episodes": 500,
+    "wins": 471,
+    "losses": 29,
+    "truncated": 0,
+    "win_rate": 0.942,
+    "mean_reward": 143.414,
+    "mean_discounted_return": 86.10146815160059,
+    "mean_steps": 13.348,
+    "fallback_actions": 0,
+    "fallback_episodes": 0,
+    "fallback_action_rate": 0.0,
+    "distinct_unseen_states": 0,
+    "trained_policy_states": 48553,
+    "technique_states": 3732
+  },
+  "mc": {
+    "episodes": 500,
+    "wins": 453,
+    "losses": 47,
+    "truncated": 0,
+    "win_rate": 0.906,
+    "mean_reward": 133.468,
+    "mean_discounted_return": 79.40844400974255,
+    "mean_steps": 13.694,
+    "fallback_actions": 2,
+    "fallback_episodes": 1,
+    "fallback_action_rate": 0.0002920987293705272,
+    "distinct_unseen_states": 1,
+    "trained_policy_states": 16369,
+    "technique_states": 1484
+  },
+  "parameters": {
+    "seed": 42,
+    "eval_seed": 2042,
+    "episodes_mc": 60000,
+    "epsilon": 0.15,
+    "gamma": 0.95
+  }
+}

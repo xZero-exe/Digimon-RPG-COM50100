@@ -1,0 +1,134 @@
+{
+  "version": "0.6.0",
+  "seed": 42,
+  "monte_carlo_episodes": 40000,
+  "test_episodes": 500,
+  "state_nominal": 28226,
+  "state_reachable": 9493,
+  "state_charging": 4368,
+  "dp_train_seconds": 6.305,
+  "mc_train_seconds": 20.038,
+  "dp_iterations": 35,
+  "dp_policy_states": 9493,
+  "mc_policy_states": 5458,
+  "value_iteration": {
+    "episodes": 500,
+    "wins": 420,
+    "losses": 80,
+    "truncated": 0,
+    "win_rate": 0.84,
+    "mean_reward": 112.152,
+    "mean_discounted_return": 66.18287766320957,
+    "mean_steps": 14.964
+  },
+  "monte_carlo": {
+    "episodes": 500,
+    "wins": 386,
+    "losses": 114,
+    "truncated": 0,
+    "win_rate": 0.772,
+    "mean_reward": 97.76,
+    "mean_discounted_return": 55.98703405328056,
+    "mean_steps": 15.354
+  },
+  "example_run": [
+    {
+      "zone": "Aldea Digital",
+      "form": "Agumon",
+      "charged": false,
+      "action": "ruta_bosque",
+      "reward": 2.0
+    },
+    {
+      "zone": "Bosque Binario",
+      "form": "Agumon",
+      "charged": false,
+      "action": "digievolucionar",
+      "reward": -1.0
+    },
+    {
+      "zone": "Bosque Binario",
+      "form": "Greymon",
+      "charged": false,
+      "action": "atacar",
+      "reward": 13.0
+    },
+    {
+      "zone": "Bosque Binario",
+      "form": "Greymon",
+      "charged": false,
+      "action": "buscar_recursos",
+      "reward": 2.0
+    },
+    {
+      "zone": "Pantano de Datos",
+      "form": "Greymon",
+      "charged": false,
+      "action": "ataque_especial",
+      "reward": 16.0
+    },
+    {
+      "zone": "Pantano de Datos",
+      "form": "Greymon",
+      "charged": false,
+      "action": "buscar_recursos",
+      "reward": 2.0
+    },
+    {
+      "zone": "Ruinas Antiguas",
+      "form": "Greymon",
+      "charged": false,
+      "action": "digievolucionar",
+      "reward": -1.0
+    },
+    {
+      "zone": "Ruinas Antiguas",
+      "form": "MetalGreymon",
+      "charged": true,
+      "action": "defender",
+      "reward": -5.0
+    },
+    {
+      "zone": "Ruinas Antiguas",
+      "form": "MetalGreymon",
+      "charged": true,
+      "action": "ataque_especial",
+      "reward": -13.0
+    },
+    {
+      "zone": "Ruinas Antiguas",
+      "form": "MetalGreymon",
+      "charged": false,
+      "action": "usar_pocion",
+      "reward": -5.0
+    },
+    {
+      "zone": "Ruinas Antiguas",
+      "form": "MetalGreymon",
+      "charged": false,
+      "action": "ataque_especial",
+      "reward": 19.0
+    },
+    {
+      "zone": "Ruinas Antiguas",
+      "form": "MetalGreymon",
+      "charged": false,
+      "action": "buscar_recursos",
+      "reward": 2.0
+    },
+    {
+      "zone": "Fortaleza Virus",
+      "form": "MetalGreymon",
+      "charged": false,
+      "action": "digievolucionar",
+      "reward": -1.0
+    },
+    {
+      "zone": "Fortaleza Virus",
+      "form": "WarGreymon",
+      "charged": false,
+      "action": "ataque_especial",
+      "reward": 117.0
+    }
+  ]
+}

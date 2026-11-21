@@ -1,0 +1,102 @@
+{
+  "status": "PASS",
+  "platform": "Linux/SDL dummy",
+  "native_windows": false,
+  "checks": [
+    "all_credit_rows_fit_panel",
+    "no_overlap_with_back_button",
+    "state_and_rng_unchanged"
+  ],
+  "rows": [
+    [
+      "Digimon RPG: La corrupción del Mundo Digital — v0.22",
+      [
+        298,
+        262,
+        375,
+        18
+      ]
+    ],
+    [
+      "Aprendizaje reforzado COM50100 · Proyecto académico individual.",
+      [
+        298,
+        290,
+        453,
+        18
+      ]
+    ],
+    [
+      "Algoritmos desde cero: Programación Dinámica y Monte Carlo.",
+      [
+        298,
+        318,
+        422,
+        18
+      ]
+    ],
+    [
+      "Sprites: Zebub Al-Zemechiel, DragonRod342, SergioGranSol,",
+      [
+        298,
+        346,
+        414,
+        18
+      ]
+    ],
+    [
+      "Opdisk, Topaz66, Arcanin1412, Neroesaurus, Demo9ic, Matykiller,",
+      [
+        298,
+        374,
+        450,
+        18
+      ]
+    ],
+    [
+      "Maxtyrannus, ScorchedDragonStudio, Sharkmon, CadejoWhite,",
+      [
+        298,
+        402,
+        429,
+        18
+      ]
+    ],
+    [
+      "VictoryD, Extyrannomon, Thousand_13 y Yggdrasil Library.",
+      [
+        298,
+        430,
+        402,
+        18
+      ]
+    ],
+    [
+      "Fuente: github.com/SergioGranSol/digidex · Enlaces: CREDITOS.md",
+      [
+        298,
+        458,
+        460,
+        18
+      ]
+    ],
+    [
+      "Fondos y efectos: recursos preparados para este proyecto.",
+      [
+        298,
+        486,
+        396,
+        18
+      ]
+    ],
+    [
+      "Digimon: Akiyoshi Hongo, Toei Animation y Bandai.",
+      [
+        298,
+        514,
+        347,
+        18
+      ]
+    ]
+  ]
+}

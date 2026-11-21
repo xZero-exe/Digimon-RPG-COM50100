@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+dist/
+build/
+.env
+.env.*
+# Los sprites, políticas, informes y resultados son parte de la entrega pública.

@@ -1,0 +1,117 @@
+{
+  "purpose": "Montage of legal diagnostic scenarios; not a learning experiment",
+  "audio_source": "Same WAV assets and events as the game; composed offline for export",
+  "seconds": 10.32,
+  "frames": 258,
+  "sample_peak": 0.396,
+  "events": [
+    {
+      "time": 0.0,
+      "name": "ui",
+      "group": "ui",
+      "gain": 0.55
+    },
+    {
+      "time": 0.28,
+      "name": "travel",
+      "group": "cast",
+      "gain": 0.55
+    },
+    {
+      "time": 1.28,
+      "name": "basic_attack",
+      "group": "cast",
+      "gain": 0.55
+    },
+    {
+      "time": 1.64,
+      "name": "impact",
+      "group": "impact",
+      "gain": 0.385
+    },
+    {
+      "time": 1.92,
+      "name": "electric_shock",
+      "group": "cast",
+      "gain": 0.41250000000000003
+    },
+    {
+      "time": 2.28,
+      "name": "impact",
+      "group": "impact",
+      "gain": 0.385
+    },
+    {
+      "time": 3.16,
+      "name": "heal",
+      "group": "cast",
+      "gain": 0.55
+    },
+    {
+      "time": 3.8,
+      "name": "electric_shock",
+      "group": "cast",
+      "gain": 0.55
+    },
+    {
+      "time": 4.16,
+      "name": "impact",
+      "group": "impact",
+      "gain": 0.385
+    },
+    {
+      "time": 5.04,
+      "name": "evolve",
+      "group": "cast",
+      "gain": 0.55
+    },
+    {
+      "time": 5.68,
+      "name": "death_claw",
+      "group": "cast",
+      "gain": 0.55
+    },
+    {
+      "time": 6.04,
+      "name": "impact",
+      "group": "impact",
+      "gain": 0.385
+    },
+    {
+      "time": 6.92,
+      "name": "interrupt_strike",
+      "group": "cast",
+      "gain": 0.55
+    },
+    {
+      "time": 7.28,
+      "name": "impact",
+      "group": "impact",
+      "gain": 0.385
+    },
+    {
+      "time": 7.52,
+      "name": "cancel",
+      "group": "impact",
+      "gain": 0.55
+    },
+    {
+      "time": 8.44,
+      "name": "terra_force",
+      "group": "cast",
+      "gain": 0.55
+    },
+    {
+      "time": 8.8,
+      "name": "impact",
+      "group": "impact",
+      "gain": 0.385
+    },
+    {
+      "time": 9.48,
+      "name": "victory",
+      "group": "event",
+      "gain": 0.55
+    }
+  ]
+}

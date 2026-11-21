@@ -1,0 +1,143 @@
+{
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "headless": true,
+  "pygame": "2.6.1",
+  "status": "PASS",
+  "screenshots": [
+    "basic_attack_forma0_0.png",
+    "basic_attack_forma0_1.png",
+    "basic_attack_forma0_2.png",
+    "basic_attack_forma0_3.png",
+    "basic_attack_forma1_0.png",
+    "basic_attack_forma1_1.png",
+    "basic_attack_forma1_2.png",
+    "basic_attack_forma1_3.png",
+    "basic_attack_forma2_0.png",
+    "basic_attack_forma2_1.png",
+    "basic_attack_forma2_2.png",
+    "basic_attack_forma2_3.png",
+    "basic_attack_forma3_0.png",
+    "basic_attack_forma3_1.png",
+    "basic_attack_forma3_2.png",
+    "basic_attack_forma3_3.png",
+    "power_attack_forma0_0.png",
+    "power_attack_forma0_1.png",
+    "power_attack_forma0_2.png",
+    "power_attack_forma0_3.png",
+    "power_attack_forma1_0.png",
+    "power_attack_forma1_1.png",
+    "power_attack_forma1_2.png",
+    "power_attack_forma1_3.png",
+    "power_attack_forma2_0.png",
+    "power_attack_forma2_1.png",
+    "power_attack_forma2_2.png",
+    "power_attack_forma2_3.png",
+    "power_attack_forma3_0.png",
+    "power_attack_forma3_1.png",
+    "power_attack_forma3_2.png",
+    "power_attack_forma3_3.png",
+    "interrupt_strike_forma0_0.png",
+    "interrupt_strike_forma0_1.png",
+    "interrupt_strike_forma0_2.png",
+    "interrupt_strike_forma0_3.png",
+    "interrupt_strike_forma1_0.png",
+    "interrupt_strike_forma1_1.png",
+    "interrupt_strike_forma1_2.png",
+    "interrupt_strike_forma1_3.png",
+    "interrupt_strike_forma2_0.png",
+    "interrupt_strike_forma2_1.png",
+    "interrupt_strike_forma2_2.png",
+    "interrupt_strike_forma2_3.png",
+    "interrupt_strike_forma3_0.png",
+    "interrupt_strike_forma3_1.png",
+    "interrupt_strike_forma3_2.png",
+    "interrupt_strike_forma3_3.png",
+    "galeria_baby_flame.png",
+    "galeria_mega_flame.png",
+    "galeria_giga_destroyer.png",
+    "galeria_terra_force.png",
+    "galeria_electric_shock.png",
+    "galeria_goblin_strike.png",
+    "galeria_haouken.png",
+    "galeria_death_claw.png",
+    "galeria_spiral_sword.png",
+    "galeria_trump_sword.png",
+    "galeria_basic_attack.png",
+    "galeria_power_attack.png",
+    "galeria_interrupt_strike.png"
+  ],
+  "cases": [
+    {
+      "action": "atacar",
+      "form": 0,
+      "sprite": "basic_attack",
+      "frames": 4
+    },
+    {
+      "action": "atacar",
+      "form": 1,
+      "sprite": "basic_attack",
+      "frames": 4
+    },
+    {
+      "action": "atacar",
+      "form": 2,
+      "sprite": "basic_attack",
+      "frames": 4
+    },
+    {
+      "action": "atacar",
+      "form": 3,
+      "sprite": "basic_attack",
+      "frames": 4
+    },
+    {
+      "action": "ataque_especial",
+      "form": 0,
+      "sprite": "power_attack",
+      "frames": 4
+    },
+    {
+      "action": "ataque_especial",
+      "form": 1,
+      "sprite": "power_attack",
+      "frames": 4
+    },
+    {
+      "action": "ataque_especial",
+      "form": 2,
+      "sprite": "power_attack",
+      "frames": 4
+    },
+    {
+      "action": "ataque_especial",
+      "form": 3,
+      "sprite": "power_attack",
+      "frames": 4
+    },
+    {
+      "action": "interrumpir",
+      "form": 0,
+      "sprite": "interrupt_strike",
+      "frames": 4
+    },
+    {
+      "action": "interrumpir",
+      "form": 1,
+      "sprite": "interrupt_strike",
+      "frames": 4
+    },
+    {
+      "action": "interrumpir",
+      "form": 2,
+      "sprite": "interrupt_strike",
+      "frames": 4
+    },
+    {
+      "action": "interrumpir",
+      "form": 3,
+      "sprite": "interrupt_strike",
+      "frames": 4
+    }
+  ]
+}

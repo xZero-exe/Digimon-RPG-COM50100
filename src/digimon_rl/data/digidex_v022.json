@@ -1,0 +1,156 @@
+{
+  "release": "0.22",
+  "verified_on": "2026-11-06",
+  "source": "Digimon Encyclopedia / Digimon Web",
+  "locale": "official English labels; original Spanish summaries",
+  "note": "Gameplay values are separate from official lore. Greymon classic and MetalGreymon Vaccine have specific reference slugs.",
+  "entries": [
+    {
+      "species": "agumon",
+      "name": "Agumon",
+      "level": "Rookie",
+      "type": "Reptile",
+      "attribute": "Vaccine",
+      "moves": [
+        "Pepper Breath"
+      ],
+      "profile": "Pequeño Digimon reptil que camina sobre dos patas y lanza fuego por la boca.",
+      "source_url": "https://digimon.net/reference_en/detail.php?directory_name=agumon",
+      "hero_form": 0
+    },
+    {
+      "species": "greymon",
+      "name": "Greymon",
+      "level": "Champion",
+      "type": "Dinosaur",
+      "attribute": "Vaccine",
+      "moves": [
+        "Mega Flame"
+      ],
+      "profile": "Dinosaurio de grandes cuernos, con una coraza endurecida que protege su cabeza.",
+      "source_url": "https://digimon.net/reference_en/detail.php?directory_name=greymon-first",
+      "hero_form": 1
+    },
+    {
+      "species": "metalgreymon",
+      "name": "MetalGreymon",
+      "level": "Ultimate",
+      "type": "Cyborg",
+      "attribute": "Vaccine",
+      "moves": [
+        "Trident Arm",
+        "Giga Destroyer",
+        "Giga Storm"
+      ],
+      "profile": "Cyborg con el cuerpo mecanizado y misiles que dispara desde el pecho. Variante Vaccine.",
+      "source_url": "https://digimon.net/reference_en/detail.php?directory_name=metalgreymon-v",
+      "hero_form": 2
+    },
+    {
+      "species": "wargreymon",
+      "name": "WarGreymon",
+      "level": "Mega",
+      "type": "Dragon Man",
+      "attribute": "Vaccine",
+      "moves": [
+        "Terra Force",
+        "Great Tornado"
+      ],
+      "profile": "Guerrero dragón de armadura resistente que concentra energía en Terra Force.",
+      "source_url": "https://digimon.net/reference_en/detail.php?directory_name=wargreymon",
+      "hero_form": 3
+    },
+    {
+      "species": "betamon",
+      "name": "Betamon",
+      "level": "Rookie",
+      "type": "Amphibian",
+      "attribute": "Virus",
+      "moves": [
+        "Electric Shock"
+      ],
+      "profile": "Anfibio de temperamento tranquilo que puede responder con una potente descarga eléctrica.",
+      "source_url": "https://digimon.net/reference_en/detail.php?directory_name=betamon",
+      "zone": "FOREST"
+    },
+    {
+      "species": "goblimon",
+      "name": "Goblimon",
+      "level": "Rookie",
+      "type": "Demon",
+      "attribute": "Virus",
+      "moves": [
+        "Goblin Strike"
+      ],
+      "profile": "Digimon travieso y astuto que suele moverse en grupo y preparar emboscadas.",
+      "source_url": "https://digimon.net/reference_en/detail.php?directory_name=goburimon",
+      "zone": "CAVE"
+    },
+    {
+      "species": "ogremon",
+      "name": "Ogremon",
+      "level": "Champion",
+      "type": "Demon",
+      "attribute": "Virus",
+      "moves": [
+        "Pummel Whack"
+      ],
+      "profile": "Combatiente musculoso e impulsivo, con un garrote de hueso y gran fuerza destructiva.",
+      "source_url": "https://digimon.net/reference_en/detail.php?directory_name=orgemon",
+      "zone": "SWAMP"
+    },
+    {
+      "species": "devimon",
+      "name": "Devimon",
+      "level": "Champion",
+      "type": "Dark Angel",
+      "attribute": "Virus",
+      "moves": [
+        "Death Claw"
+      ],
+      "profile": "Ángel oscuro inteligente y malicioso que ataca extendiendo sus brazos.",
+      "source_url": "https://digimon.net/reference_en/detail.php?directory_name=devimon",
+      "zone": "RUINS"
+    },
+    {
+      "species": "andromon",
+      "name": "Andromon",
+      "level": "Ultimate",
+      "type": "Cyborg",
+      "attribute": "Vaccine",
+      "moves": [
+        "Gatling Missile",
+        "Spiral Sword"
+      ],
+      "profile": "Cyborg humanoide que actúa según su programación y lanza cuchillas de energía.",
+      "source_url": "https://digimon.net/reference_en/detail.php?directory_name=andromon",
+      "zone": "TOWER"
+    },
+    {
+      "species": "piedmon",
+      "name": "Piedmon",
+      "level": "Mega",
+      "type": "Wizard",
+      "attribute": "Virus",
+      "moves": [
+        "Trump Sword"
+      ],
+      "profile": "Digimon hechicero de origen misterioso que puede hacer aparecer sus espadas sobre el rival.",
+      "source_url": "https://digimon.net/reference_en/detail.php?directory_name=piemon",
+      "zone": "FORTRESS"
+    },
+    {
+      "species": "guardromon",
+      "name": "Guardromon",
+      "level": "Champion",
+      "type": "Machine",
+      "attribute": "Virus",
+      "moves": [
+        "Destruction Grenade"
+      ],
+      "profile": "Máquina especializada en defender redes y perseguir intrusos con su ataque especial.",
+      "source_url": "https://digimon.net/reference_en/detail.php?directory_name=guardromon",
+      "zone": "ABYSS"
+    }
+  ]
+}

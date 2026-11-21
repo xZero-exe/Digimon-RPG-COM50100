@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "release": "0.21.1",
+  "canonical_enemy": "Guardromon",
+  "canonical_move": "Destruction Grenade",
+  "official_reference": "https://digimon.net/reference_en/detail.php?directory_name=guardromon",
+  "rules_changed": false,
+  "retraining_performed": false,
+  "model_and_policy_files_unchanged": {
+    "src/digimon_rl/environment.py": "1a932ddaccbd12190bf6232464af4f2f6263f1063e798d24ad0fadc668a2d5b6",
+    "src/digimon_rl/agents.py": "bce0e77a598c356154faa973bb572a0d240a9712ed1b26662cbc767d34672f8b",
+    "src/digimon_rl/domain.py": "b1fe64a2306aa65ac1d60ba1319eac1c642b98c80284445fc25afa0be1d1ddfe",
+    "src/digimon_rl/techniques.py": "3095acf14ba53668e097f90b7f9b9e7dcffb2dd51703e9504ce88694c0cc2cbd",
+    "politicas/dp.json": "c6118c26528aabaa0b89477d0012cd3af9525f2fc422fec3c6c565c39680fada",
+    "politicas/mc.json": "5667677aadea3675d15d60b412a90f90b7cf9e9e41ad567d97ddfcc80448df40",
+    "politicas/analisis_v010.json.gz": "f0f17c0fcb6182436cfb146b4bccb544afb80fcf8535acf8805fd680ea2dd9ef"
+  },
+  "retired_asset_removed": true,
+  "tests": 181,
+  "native_windows": "pending"
+}

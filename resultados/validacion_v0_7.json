@@ -1,0 +1,32 @@
+{
+  "version": "0.7.0",
+  "seed": 42,
+  "mc_training_episodes": 60000,
+  "evaluation_episodes": 500,
+  "nominal_states": 65858,
+  "reachable_states": 21337,
+  "states_with_core": 9072,
+  "states_in_tower": 5544,
+  "dp_policy_states": 21337,
+  "mc_policy_states": 10513,
+  "dynamic_programming": {
+    "episodes": 500,
+    "wins": 437,
+    "losses": 63,
+    "truncated": 0,
+    "win_rate": 0.874,
+    "mean_reward": 125.278,
+    "mean_discounted_return": 75.55231526375407,
+    "mean_steps": 14.03
+  },
+  "monte_carlo": {
+    "episodes": 500,
+    "wins": 403,
+    "losses": 97,
+    "truncated": 0,
+    "win_rate": 0.806,
+    "mean_reward": 108.85,
+    "mean_discounted_return": 64.77110905010538,
+    "mean_steps": 14.518
+  }
+}

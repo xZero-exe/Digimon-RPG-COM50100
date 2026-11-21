@@ -1,0 +1,75 @@
+{
+  "status": "PASS",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "headless": true,
+  "native_windows": false,
+  "pygame": "2.6.1",
+  "checks": [
+    "11_offline_canonical_fichas",
+    "filters_4_7_11",
+    "source_click_exact_url_and_failure_handling",
+    "title_return",
+    "f7_pauses_current_animation",
+    "tab_live_diary_preserves_episode",
+    "actual_dp_victory_full_summary",
+    "all_moment_pages",
+    "summary_to_exact_pre_action_inspector_state_and_back",
+    "t_shortcut",
+    "terminal_esc_returns_title",
+    "actual_manual_defeat",
+    "truncation_not_loss",
+    "actual_saved_mc_episode",
+    "terminal_f4_and_f6_preserved",
+    "three_window_sizes_and_scaled_clicks",
+    "labels_and_buttons_within_canvas",
+    "buttons_do_not_overlap",
+    "all_renders_preserve_state_rng_reward_and_ledger"
+  ],
+  "screenshots": [
+    "digidex_wargreymon.png",
+    "digidex_guardromon.png",
+    "diario_en_curso.png",
+    "resumen_victoria.png",
+    "laboratorio_turno_1.png",
+    "laboratorio_turno_11.png",
+    "resumen_ultimas_decisiones.png",
+    "resumen_derrota.png",
+    "resumen_limite.png",
+    "resumen_monte_carlo.png"
+  ],
+  "fichas": [
+    "Agumon",
+    "Greymon",
+    "MetalGreymon",
+    "WarGreymon",
+    "Betamon",
+    "Goblimon",
+    "Ogremon",
+    "Devimon",
+    "Andromon",
+    "Piedmon",
+    "Guardromon"
+  ],
+  "episodes": [
+    {
+      "mode": "dp",
+      "seed": 42,
+      "outcome": "VICTORIA",
+      "turns": 16,
+      "reward": 193.0,
+      "discounted_return": 105.04049523168953
+    },
+    {
+      "mode": "manual",
+      "seed": 42,
+      "outcome": "DERROTA",
+      "turns": 11
+    },
+    {
+      "mode": "mc",
+      "seed": 42,
+      "outcome": "VICTORIA",
+      "turns": 13
+    }
+  ]
+}

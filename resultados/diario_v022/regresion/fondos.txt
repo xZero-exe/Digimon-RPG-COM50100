@@ -1,0 +1,140 @@
+pygame 2.6.1 (SDL 2.28.4, Python 3.12.14)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+{
+  "status": "PASS",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "python": "3.12.14",
+  "pygame": "2.6.1",
+  "headless": true,
+  "checks": [
+    "cover_preserves_aspect",
+    "center_crop",
+    "nearest_neighbor",
+    "cache",
+    "demo_fallback",
+    "missing_fallback",
+    "nine_primary_backgrounds",
+    "all_four_forms",
+    "title_and_six_gallery_regions",
+    "render_preserves_state_and_rng"
+  ],
+  "screenshots": [
+    "00_inicio.png",
+    "refuge_forma0.png",
+    "refuge_forma1.png",
+    "refuge_forma2.png",
+    "refuge_forma3.png",
+    "abyss_forma0.png",
+    "abyss_forma1.png",
+    "abyss_forma2.png",
+    "abyss_forma3.png",
+    "village_forma0.png",
+    "village_forma1.png",
+    "village_forma2.png",
+    "village_forma3.png",
+    "forest_forma0.png",
+    "forest_forma1.png",
+    "forest_forma2.png",
+    "forest_forma3.png",
+    "cave_forma0.png",
+    "cave_forma1.png",
+    "cave_forma2.png",
+    "cave_forma3.png",
+    "swamp_forma0.png",
+    "swamp_forma1.png",
+    "swamp_forma2.png",
+    "swamp_forma3.png",
+    "ruins_forma0.png",
+    "ruins_forma1.png",
+    "ruins_forma2.png",
+    "ruins_forma3.png",
+    "tower_forma0.png",
+    "tower_forma1.png",
+    "tower_forma2.png",
+    "tower_forma3.png",
+    "fortress_forma0.png",
+    "fortress_forma1.png",
+    "fortress_forma2.png",
+    "fortress_forma3.png",
+    "galeria_region_4.png",
+    "galeria_region_5.png",
+    "galeria_region_6.png",
+    "galeria_region_7.png",
+    "galeria_region_8.png",
+    "galeria_region_9.png"
+  ],
+  "backgrounds": [
+    {
+      "name": "refuge",
+      "zone": "Refugio de Cristal",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "name": "abyss",
+      "zone": "Abismo Corrupto",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "name": "village",
+      "zone": "Aldea Digital",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "name": "forest",
+      "zone": "Bosque Binario",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "name": "cave",
+      "zone": "Caverna Digital",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "name": "swamp",
+      "zone": "Pantano de Datos",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "name": "ruins",
+      "zone": "Ruinas Antiguas",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "name": "tower",
+      "zone": "Torre de Datos",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "name": "fortress",
+      "zone": "Fortaleza Virus",
+      "size": [
+        1672,
+        941
+      ]
+    }
+  ]
+}

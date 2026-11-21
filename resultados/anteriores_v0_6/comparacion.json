@@ -1,0 +1,35 @@
+{
+  "config": {
+    "episodes_mc": 30000,
+    "evaluation_episodes": 500,
+    "gamma": 0.95,
+    "epsilon": 0.15,
+    "seed": 42
+  },
+  "states": {
+    "nominal": 14114,
+    "reachable": 4705
+  },
+  "dynamic_programming": {
+    "episodes": 500,
+    "wins": 478,
+    "losses": 22,
+    "truncated": 0,
+    "win_rate": 0.956,
+    "mean_reward": 138.898,
+    "mean_discounted_return": 80.38995027298067,
+    "mean_steps": 14.924
+  },
+  "monte_carlo": {
+    "episodes": 500,
+    "wins": 467,
+    "losses": 33,
+    "truncated": 0,
+    "win_rate": 0.934,
+    "mean_reward": 132.25,
+    "mean_discounted_return": 72.55458764247096,
+    "mean_steps": 15.548
+  },
+  "dp_iterations": 35,
+  "dp_last_delta": 4.392980201828323e-09
+}

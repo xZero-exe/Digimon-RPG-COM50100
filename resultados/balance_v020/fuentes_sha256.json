@@ -1,0 +1,9 @@
+{
+  "src/digimon_rl/environment.py": "48e7edd3cee9be714fc6d91815bdaa1af3945460fa39cf693a84e2b8f6376e6d",
+  "src/digimon_rl/agents.py": "bce0e77a598c356154faa973bb572a0d240a9712ed1b26662cbc767d34672f8b",
+  "src/digimon_rl/domain.py": "8722e646eead92c6cd35cd772a7712f29ee43eaa2300d33f77540f9f8ed16158",
+  "src/digimon_rl/techniques.py": "3095acf14ba53668e097f90b7f9b9e7dcffb2dd51703e9504ce88694c0cc2cbd",
+  "politicas/dp.json": "7656b4efddc5b0c6b91cecd773f835a390cf70fd858dd6d5897fb5518f112744",
+  "politicas/mc.json": "7972decaafbcbab6dda74aeb7af7016c2f0775ab21f45e0b6fb9b1dcfeada7f8",
+  "politicas/analisis_v010.json.gz": "17a3441763979bfad0f87f88a24cee20717e586fcd5f40619f9d2f29615e2c8f"
+}

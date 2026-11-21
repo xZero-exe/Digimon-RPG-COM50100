@@ -1,0 +1,4846 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 187,
+      "sha256": "8b804b59b089b6c2fc4bf560868d81fc5ce669c1321f628c297d088a7b83b415",
+      "git_blob_sha": "16e5f1a86136a4ac2d7331b7ea790474759db4ac"
+    },
+    {
+      "path": "AGENTS.md",
+      "size": 839,
+      "sha256": "9ab8b8bf45855ea1119f9542a256e5a50bd68caa972dc114c95e449fce074fc5",
+      "git_blob_sha": "cecebc239ce1ea4c69eb14107ffa6c0433b95a36"
+    },
+    {
+      "path": "AVISO_DERECHOS_SPRITES.md",
+      "size": 716,
+      "sha256": "b1f2c81196b2de90b50a0bbdd5c4940de6098eb7cfb319b1bfe7109c9bdebe3d",
+      "git_blob_sha": "55a7394534b6d59094730c07f9235f78b9035bb9"
+    },
+    {
+      "path": "CAMBIOS_v0_10.md",
+      "size": 1182,
+      "sha256": "33c97c948c6f9bf2f33806bf7fcd2c6a62374e3da20872b50901cfd3aa20f875",
+      "git_blob_sha": "b5df9631b988eeff20f92ed65c5582691d191994"
+    },
+    {
+      "path": "CAMBIOS_v0_11.md",
+      "size": 1411,
+      "sha256": "e6337964869b74c7bff1bd1aed94cda374cb0b57b23581b5e89db949ad64023c",
+      "git_blob_sha": "c51b3d4794e3aeb20ec530df872f96d14109f710"
+    },
+    {
+      "path": "CAMBIOS_v0_12.md",
+      "size": 2251,
+      "sha256": "a29fd8c326d1de6c78f75c4469ac85c0f970d3949a61a95213758320d10f251e",
+      "git_blob_sha": "75122f0cd37cf71ecccbb0ecb0c9d8318102e440"
+    },
+    {
+      "path": "CAMBIOS_v0_13.md",
+      "size": 1732,
+      "sha256": "a38c61c906389c727f5ffcba9b31cbe3636c1163698f909e2834e8638037465b",
+      "git_blob_sha": "b44ad0e965def73b633d43daafe5cf507e5cef4b"
+    },
+    {
+      "path": "CAMBIOS_v0_14.md",
+      "size": 1674,
+      "sha256": "514836240aa195cfbd937567309e2e920b42911f860dc9f3784c08576149e8b8",
+      "git_blob_sha": "079274caed11017aa758d48977857ae78f363e6a"
+    },
+    {
+      "path": "CAMBIOS_v0_14_1.md",
+      "size": 778,
+      "sha256": "0b65b82a2277af394ee4cc2e16bd7eb1daf6074d2b2314b2cfafb5e53475544b",
+      "git_blob_sha": "67b10a0cbab6cf8742e06c0b207e468d4f24f364"
+    },
+    {
+      "path": "CAMBIOS_v0_15.md",
+      "size": 821,
+      "sha256": "2af9cbd83b8e7dcccdf5b960c87b1570ca902ad34ad5395e56056e43ef8a4fcd",
+      "git_blob_sha": "71df7933997f23bf2d28ca6c2539976184807440"
+    },
+    {
+      "path": "CAMBIOS_v0_16.md",
+      "size": 942,
+      "sha256": "1252d9d5cc098dc1d232cf9b766233bd485a400dacf35ec9991927a2e44dc274",
+      "git_blob_sha": "eca63e8352ac53aa346760ba642dbd92442c2b19"
+    },
+    {
+      "path": "CAMBIOS_v0_17.md",
+      "size": 952,
+      "sha256": "30051e0a89081bbbc6fd4b681b4333864b6b165c5fc0305c4899bbb97cb8d94f",
+      "git_blob_sha": "f7d7783c8b033b054948e75ba894cef91e32d114"
+    },
+    {
+      "path": "CAMBIOS_v0_18.md",
+      "size": 876,
+      "sha256": "83b9a8086355fce3121f672d1c153ae58fe8b263eb01d96f2c46e2341ea517c7",
+      "git_blob_sha": "be19a587709dc0d4eb287e9b136604e64b05754c"
+    },
+    {
+      "path": "CAMBIOS_v0_19.md",
+      "size": 836,
+      "sha256": "9eca0db58e2004cd137c97b99026f9d53028b3dffff8d414aa388824b2db3826",
+      "git_blob_sha": "a9df9f568ce4346caa6c750ea30ac816fba6aa58"
+    },
+    {
+      "path": "CAMBIOS_v0_2.md",
+      "size": 1863,
+      "sha256": "23592a4d7b4a2a3bc2cd52c789015b0a3cf1ab8478cf4bf18b41b83a1e5e2b6c",
+      "git_blob_sha": "0747880cf54f274e7431587570c609e20e7f92fb"
+    },
+    {
+      "path": "CAMBIOS_v0_20.md",
+      "size": 1130,
+      "sha256": "ab61ea3b1b5432b42a81c200293fef1624ff2233c2a33aa2433f430ebfe96562",
+      "git_blob_sha": "f97c3552e096389144fa153977f30d3d773157b2"
+    },
+    {
+      "path": "CAMBIOS_v0_21.md",
+      "size": 1243,
+      "sha256": "723eb57f891f11182de997c5d130d90daa6428c12817e8d6502b3e2787e85f79",
+      "git_blob_sha": "4b7921ded51fa5c91aae854b13e15c548e515d7a"
+    },
+    {
+      "path": "CAMBIOS_v0_21_1.md",
+      "size": 402,
+      "sha256": "5f0bf6ce3939c1ec76d80146a6e03162980d6df9b9c6dfb6814b0438afdb657c",
+      "git_blob_sha": "96f50e89a73a5afed3625eed05b39440eab0bf08"
+    },
+    {
+      "path": "CAMBIOS_v0_22.md",
+      "size": 1199,
+      "sha256": "6dd7685654af0f8c05a340a2e9fb0f5560936da9c0430a305ccf3f5df38b9a94",
+      "git_blob_sha": "dc27da72699cbf218303790c0ef6e6a7e64553e8"
+    },
+    {
+      "path": "CAMBIOS_v0_3.md",
+      "size": 1472,
+      "sha256": "e31ac7d188a933b4a090ea20476aca1a86380821b92bc17604ded4a9fb6f71fd",
+      "git_blob_sha": "460fe3e273519b1db1c1291671e1c48cef4263c7"
+    },
+    {
+      "path": "CAMBIOS_v0_3_1.md",
+      "size": 2224,
+      "sha256": "e0060e60ea00b55f68099a35710cdbbb873846ca791d94af7090befff1f16ae9",
+      "git_blob_sha": "7229ddfcfe2cef32e5ca9c227cddcb64a460a695"
+    },
+    {
+      "path": "CAMBIOS_v0_3_2.md",
+      "size": 842,
+      "sha256": "1040ffa30a43558dfcb624dff00c557f6ab8fd613945310429c1eea5421d2102",
+      "git_blob_sha": "79afd6da9999b7ef897d7b2f4c21c23f7c0911e1"
+    },
+    {
+      "path": "CAMBIOS_v0_4.md",
+      "size": 2048,
+      "sha256": "acf42bd085ae12f0ea78f8c3c3a9e3c62a48ee596a6f9a8ec24ecc9ef247658f",
+      "git_blob_sha": "1b8fd776a1dfa455091be5776b365a6da52b7638"
+    },
+    {
+      "path": "CAMBIOS_v0_5.md",
+      "size": 1606,
+      "sha256": "b202f4346a23bce5455800e6279f1a863772a2b16693c7f251fb239b303cbf82",
+      "git_blob_sha": "15780a7fb4fe470ec7d8c91796fc2faf9e612e14"
+    },
+    {
+      "path": "CAMBIOS_v0_6.md",
+      "size": 1733,
+      "sha256": "dc2291dbccda5e93ecc7429c3c6d94b826f7df2ab0bdd892f95eaa01245fd8c9",
+      "git_blob_sha": "1cc0fff6a1c6b14a370b0072b11585c6405ba547"
+    },
+    {
+      "path": "CAMBIOS_v0_7.md",
+      "size": 1374,
+      "sha256": "36a58082df12fefdd8abe3868ebdcac958900140bfe821527598cad9832f1012",
+      "git_blob_sha": "e6bb832b4531cb9c7679899dc25a815695ca4595"
+    },
+    {
+      "path": "CAMBIOS_v0_8.md",
+      "size": 2775,
+      "sha256": "ab0740c1da1d1dac0c409ec274dc13bb9fd9e338471daa907f09adad455eacdb",
+      "git_blob_sha": "e24f00c3c3e8b8045567d17fc87761a9d0725460"
+    },
+    {
+      "path": "CAMBIOS_v0_8_1.md",
+      "size": 1568,
+      "sha256": "32fcdc5bc5cec66af99e711d1702abebaf4f9dbf72b435c58b0185036165abfc",
+      "git_blob_sha": "307fe61a5ed73644d87a018bdd84cd2682cd4da7"
+    },
+    {
+      "path": "CAMBIOS_v0_8_2.md",
+      "size": 1344,
+      "sha256": "74eb79f3ed53d8e41a6982d22883b7a27f322f102d068c861fae28fe2d0e7743",
+      "git_blob_sha": "160aa16d5f39cfc8dc9c1afec2bcc9564839d111"
+    },
+    {
+      "path": "CAMBIOS_v0_9.md",
+      "size": 1167,
+      "sha256": "1bae4bfb247f1bda45bcb9ff5f382c2a61df33d755e61f181aeefefffaca9a9b",
+      "git_blob_sha": "f98eb7f6e31aaf2577a19090d068addc9f133324"
+    },
+    {
+      "path": "CREDITOS.md",
+      "size": 5226,
+      "sha256": "dfaea4975456f4c03dfaa752c5f2d2ec482b3f2b0dfd485aba273d68ae335754",
+      "git_blob_sha": "8de5dc30bbf1dc1d7e6541563804f070b31cc21e"
+    },
+    {
+      "path": "JUGAR_WINDOWS.bat",
+      "size": 3415,
+      "sha256": "2a0241989358fd728d3d221e767b34e89fb5623398cf2f81d9ba1ab457ec3c77",
+      "git_blob_sha": "bfbe43174f3b9e6e26fedc04dbb23c406683a788"
+    },
+    {
+      "path": "README.md",
+      "size": 23732,
+      "sha256": "fbaafe8119057a7ca349bfa082907717892211e6714f9ebf10c28b496d99a33c",
+      "git_blob_sha": "5a7ba2db905704e3e482ea1c3d720a67f269d291"
+    },
+    {
+      "path": "VALIDAR_WINDOWS.bat",
+      "size": 5062,
+      "sha256": "bed7025e0325e7336a692bf3f6be5c079e09a53e3d195404cab8529dae839314",
+      "git_blob_sha": "447f01bc71265411b5560aec0232374f848bba14"
+    },
+    {
+      "path": "VERIFICAR_SIN_RL_WINDOWS.bat",
+      "size": 984,
+      "sha256": "a7f2bd2e5db3f4384f18e8067b24bf9f8035e00a5ad09d3d574add90172b6ed2",
+      "git_blob_sha": "5c712c61cb321680abbeac117e8177a2be5e30a3"
+    },
+    {
+      "path": "VISTA_PREVIA_EVOLUCIONES_v0_5.png",
+      "size": 22626,
+      "sha256": "28600d640a6c3db00bc574bda0bb9997ebc935c1552536768370f1be46bf0efe",
+      "git_blob_sha": "643391f375ed82731df1b628fff9bc71fd8c3783"
+    },
+    {
+      "path": "VISTA_PREVIA_SPRITES_DIGIDEX.png",
+      "size": 39328,
+      "sha256": "db414f26890ad87a484445162e0581db331724414f21acecc9c90b66284a0c68",
+      "git_blob_sha": "d4457945c99d38bb06429c365b4fdf6668687d4a"
+    },
+    {
+      "path": "assets/ARTE_ORIGINAL_v021.md",
+      "size": 2228,
+      "sha256": "cfc776b70cca8bb8eebc5c434795c157b3bf4b4d114739bb8e8c68d7e18113e0",
+      "git_blob_sha": "990545b7c7a5f7c2fc23e2507b0f4b3fdaf043c3"
+    },
+    {
+      "path": "assets/DIGIDEX_MANIFEST.json",
+      "size": 6006,
+      "sha256": "1d1d4d6bf9327338b32fe91e19d91db6b4f13656d1aac41dc22e19c399a5c784",
+      "git_blob_sha": "db0bf5ec85b1967afc4e64f6c9d93b9111176436"
+    },
+    {
+      "path": "assets/PLANTILLA_CREDITOS.md",
+      "size": 450,
+      "sha256": "48ccaa543fdf9eccf88ebfad594107a7e5bfa0d832d01b8205ac06178e4cd0ec",
+      "git_blob_sha": "10ff0f9e4e0557b09c322cccbbd364c6e1848fa6"
+    },
+    {
+      "path": "assets/audio/baby_flame.wav",
+      "size": 10188,
+      "sha256": "20271323f7890ccdf542e769aa069b79afc0bccabfda7d812fcd310453fe0c0a",
+      "git_blob_sha": "4bc9e991fd535406d175060f7d01b7fb480c7ee2"
+    },
+    {
+      "path": "assets/audio/basic_attack.wav",
+      "size": 5776,
+      "sha256": "428ee3077cd139502bfda9b42d24c37069695a12a5f17b9dcb378d5420a7189c",
+      "git_blob_sha": "b590050d8c9065fea420c410e617d7a43b55df98"
+    },
+    {
+      "path": "assets/audio/cancel.wav",
+      "size": 7540,
+      "sha256": "ba6e2d5e1ceeb7100bae9c1f922fdee70227ccf95a71bb64ed8955ac0b708edc",
+      "git_blob_sha": "3a05c7ced841abc8d7c82360d75f1f41a94f86e4"
+    },
+    {
+      "path": "assets/audio/death_claw.wav",
+      "size": 10628,
+      "sha256": "6407c9a25e698b889020ca569664b6dab0d4c68c781d42249aeb3752ac4b5456",
+      "git_blob_sha": "c77f74b8de52b32ceef65939958e27ff7d540f9a"
+    },
+    {
+      "path": "assets/audio/electric_shock.wav",
+      "size": 7938,
+      "sha256": "7451d48be35f6f2b137bc1ab8fd62d1a3214c47984f34f6f024b88bde6342d29",
+      "git_blob_sha": "b3b72289f52ae1ef8efaa391ffc51dea80e1ce14"
+    },
+    {
+      "path": "assets/audio/evolve.wav",
+      "size": 28268,
+      "sha256": "f3181656405ce0cee0e37a6940c302a777e2e1fb912266f2f7f93daac502ff0e",
+      "git_blob_sha": "e0e7b0e15a506f6eaaf4e372ac1cbfc28ff6c3cf"
+    },
+    {
+      "path": "assets/audio/giga_destroyer.wav",
+      "size": 19448,
+      "sha256": "0848d10ca478f41f4159be3983cc0d2cc05eacbf979923558e0d4d3fb608ffed",
+      "git_blob_sha": "48c5d1bb91edf3129e418aaa829173d4dc2cf5c2"
+    },
+    {
+      "path": "assets/audio/goblin_strike.wav",
+      "size": 7100,
+      "sha256": "d9b363ff45642fd6bd2704a42fea88c3caae223053a0e1d5321f8b883aba2513",
+      "git_blob_sha": "e66a6a7d70c62164ca9c32545e5670fc1ed85b74"
+    },
+    {
+      "path": "assets/audio/guard.wav",
+      "size": 7982,
+      "sha256": "c492f31542bb5dc43329cc024bbdcd6fe9de68c783a55e276e0fb3af066bff4b",
+      "git_blob_sha": "b114c250b6970c9a6728b911cf5cd45b1b0d1ac5"
+    },
+    {
+      "path": "assets/audio/haouken.wav",
+      "size": 14156,
+      "sha256": "84bd01af8b839f6b61e99151751f5af88f67a81ff6133a557389ccab4a7e8c18",
+      "git_blob_sha": "926bf898d6f8cc8b673ee406658203bf62936d69"
+    },
+    {
+      "path": "assets/audio/heal.wav",
+      "size": 13716,
+      "sha256": "691275a73a077da644a73430ac39583dce31308925feb445ada93824a5139993",
+      "git_blob_sha": "a7835b54c98870b3c7ebbf64ed8738cd6e242954"
+    },
+    {
+      "path": "assets/audio/impact.wav",
+      "size": 4454,
+      "sha256": "fc53882a31b1af7f8cff84cd1f50fc3a2382b0fec446ac3fbcedda86d23f1f0c",
+      "git_blob_sha": "60df375901f02e13d9a76f616b96c194b56b7ecb"
+    },
+    {
+      "path": "assets/audio/interrupt_strike.wav",
+      "size": 6220,
+      "sha256": "06a747836bd2b77cd64bea963615e27c54b9f97681a67d6cca51cf3b2e28c1f8",
+      "git_blob_sha": "9aeadccc7ae555a46c148406a5e3398949b40773"
+    },
+    {
+      "path": "assets/audio/loss.wav",
+      "size": 29152,
+      "sha256": "792085bbe70c38740617f34c9c4907b850aae121d9e2343232e8fc2e5e0b8dfa",
+      "git_blob_sha": "dec7735478d7a49f38cda694685b2838ca396edc"
+    },
+    {
+      "path": "assets/audio/manifest_v018.json",
+      "size": 4231,
+      "sha256": "a793c9b7588e30cadb9cf5c6a976d0e9ff208957ab458148526fb43aee38c1e2",
+      "git_blob_sha": "96a8c2f1394646502014d0b26774f785904541fa"
+    },
+    {
+      "path": "assets/audio/mega_flame.wav",
+      "size": 14156,
+      "sha256": "cfb4da4469a09e4d7cf3d5905ec7cafe4d45943608cafba3604b0d533b8231d1",
+      "git_blob_sha": "f8877890e4f888ae327261f958d12353c8c3dd2b"
+    },
+    {
+      "path": "assets/audio/no_hit.wav",
+      "size": 4454,
+      "sha256": "f93bf87672f0f13603394f81089ced0e327467419b283102d30b39ad227cf6d3",
+      "git_blob_sha": "37897d9dd333665029f750c12f1092937a0cd9d5"
+    },
+    {
+      "path": "assets/audio/power_attack.wav",
+      "size": 11952,
+      "sha256": "9eb8ec46715741bf36fb761b8b276d770aef8e30d61f3a316676cdfa1d8ab0f7",
+      "git_blob_sha": "3b0288c93836f080afa34db15cc4861521827aa8"
+    },
+    {
+      "path": "assets/audio/spiral_sword.wav",
+      "size": 10188,
+      "sha256": "fb885184f05a53e8cc7a810231238c7ec517ab937ab516bf909cc27df61eb01f",
+      "git_blob_sha": "ea70a5c160ced2cc51fc60ed6bf194b476cbb6f9"
+    },
+    {
+      "path": "assets/audio/terra_force.wav",
+      "size": 25180,
+      "sha256": "63967249e94be69a3e761f2246c39d6ebc0917890248b7f79cf5427cff4fa903",
+      "git_blob_sha": "e1066e29c7d7237c5269416caf2f1b016e6f56d6"
+    },
+    {
+      "path": "assets/audio/travel.wav",
+      "size": 15920,
+      "sha256": "8b81309a29e92a64040eb592e917e1111480e0b6433436740e39d317238e2eb5",
+      "git_blob_sha": "ec8a66669aaf860566bde72c58a4ae235abbc2d7"
+    },
+    {
+      "path": "assets/audio/trump_sword.wav",
+      "size": 10628,
+      "sha256": "6abfd452e353bc273775dceee4961b4f13ac1a83df9b74e69b02ddeb30033061",
+      "git_blob_sha": "25e3bf68fac6307219338431532546d5980111a9"
+    },
+    {
+      "path": "assets/audio/ui.wav",
+      "size": 3130,
+      "sha256": "9975ad022550d857bd3797f0970f30d38a8e6c31e69948114a81fb076cc34f02",
+      "git_blob_sha": "e0f60ea5b89cb7d709e7b436df966610e3436736"
+    },
+    {
+      "path": "assets/audio/victory.wav",
+      "size": 28268,
+      "sha256": "a56e9c6644938ac39ed9762074b4a0d95ee52e4be0b1842a079991d18ba7b498",
+      "git_blob_sha": "2a1fce9c06cf0d25b49531de3e83d4099639c641"
+    },
+    {
+      "path": "assets/backgrounds/LEEME.txt",
+      "size": 506,
+      "sha256": "4c393ad5d7121a4792a4d026cd00d530abd7af7426d194de1c98b7d9fab99ec9",
+      "git_blob_sha": "e7f7c9b4816c3dd5cec4cc04674c374977ce1e0f"
+    },
+    {
+      "path": "assets/backgrounds/abyss.png",
+      "size": 2177044,
+      "sha256": "331f02d1d66b0543a24930450f6b2790b2cb0024c1643d49fcc59973031768e1",
+      "git_blob_sha": "5272dba30e72b5fd325fe5954b20eebd4e2d4c2f"
+    },
+    {
+      "path": "assets/backgrounds/cave.png",
+      "size": 1737046,
+      "sha256": "b6d18352552f8f03171fbfddfb7111a82e676cdb9f702c4488863aeff2dbdd4e",
+      "git_blob_sha": "fd02b1ef7479ab8ec3f2220858938d0b8f97bef8"
+    },
+    {
+      "path": "assets/backgrounds/forest.png",
+      "size": 2060026,
+      "sha256": "7c2d747c74c82dd5bae08be2acb5cf0b5259653aa21ba47279b86b35b9ca2f70",
+      "git_blob_sha": "0990fc5f33ddf20cfe8e9c5e826752f4b60fd083"
+    },
+    {
+      "path": "assets/backgrounds/fortress.png",
+      "size": 1541838,
+      "sha256": "9e517a070fac92d5a8cdb567018de6a4e478e8ad23f0b25ebe8a50e9d3652ba0",
+      "git_blob_sha": "ecd1a070e78fcd01e4911b570efac99b6714ff7b"
+    },
+    {
+      "path": "assets/backgrounds/manifest_v015.json",
+      "size": 1357,
+      "sha256": "92bf9b5132aa1d4bfee1856f70cfdf7585d834d2789414291ae2c6c8f1ffd27f",
+      "git_blob_sha": "2810c5396893af8a9954519a2d3163305687e9b3"
+    },
+    {
+      "path": "assets/backgrounds/refuge.png",
+      "size": 2571361,
+      "sha256": "7fe3966b31965a5deb4c70293f478f51546dc1ce906d4406e0ac4fcc5b4368a3",
+      "git_blob_sha": "0b643216e0ea73139c4f58779053ec1c1a3bf48e"
+    },
+    {
+      "path": "assets/backgrounds/ruins.png",
+      "size": 2555427,
+      "sha256": "d9f33117fd85d168bf7f9541fd998af3c6854406b419429d746d0b6dd994265b",
+      "git_blob_sha": "7c213549a7bfb61ab859e7c22c347a184b9ffc4c"
+    },
+    {
+      "path": "assets/backgrounds/swamp.png",
+      "size": 1889503,
+      "sha256": "07e3d0155b7bb07974a5a314b4b13de70994585776b0ec2f11f502dd8fc32483",
+      "git_blob_sha": "ca784ff4325278ddc4d2a32cc3566cfe5ad46170"
+    },
+    {
+      "path": "assets/backgrounds/tower.png",
+      "size": 1836350,
+      "sha256": "deef2e3b7d3880d73d69902166a176a66ecededd4cc879f9f628974085c2fea0",
+      "git_blob_sha": "41ed0e9cdee5490871a0243a3ae25d4beac4bdc2"
+    },
+    {
+      "path": "assets/backgrounds/village.png",
+      "size": 2232449,
+      "sha256": "1f8d2f396cd6eaec9a0e11d8818e92bb9b9e74580ae1f41bd30d9a0725394c11",
+      "git_blob_sha": "b01bef1d0379543e8d580605f9e4029a38fb23b2"
+    },
+    {
+      "path": "assets/demo/backgrounds/abyss.png",
+      "size": 2177044,
+      "sha256": "331f02d1d66b0543a24930450f6b2790b2cb0024c1643d49fcc59973031768e1",
+      "git_blob_sha": "5272dba30e72b5fd325fe5954b20eebd4e2d4c2f"
+    },
+    {
+      "path": "assets/demo/backgrounds/cave.png",
+      "size": 4756,
+      "sha256": "a847ae46a2d77fbeab49cefef607439545ee0e0d8943e581be67e06d45ef262d",
+      "git_blob_sha": "1e606db0afb9759f4932970ac529f4bd35747ab7"
+    },
+    {
+      "path": "assets/demo/backgrounds/forest.png",
+      "size": 5124,
+      "sha256": "ce32593b4a43b0c93877adeedc8eee97704fe97993d26c5882c85663ecc32c28",
+      "git_blob_sha": "fbb766ae4eed0a597976488c93d7be292168b3ba"
+    },
+    {
+      "path": "assets/demo/backgrounds/fortress.png",
+      "size": 3092,
+      "sha256": "c1a8b9dd4000c7f5803487b49386c3982a89bcf9198e5167424108e80bba1a4f",
+      "git_blob_sha": "79d7a51d36241efc6cb317899357a7fa406cb9dd"
+    },
+    {
+      "path": "assets/demo/backgrounds/refuge.png",
+      "size": 2571361,
+      "sha256": "7fe3966b31965a5deb4c70293f478f51546dc1ce906d4406e0ac4fcc5b4368a3",
+      "git_blob_sha": "0b643216e0ea73139c4f58779053ec1c1a3bf48e"
+    },
+    {
+      "path": "assets/demo/backgrounds/ruins.png",
+      "size": 3569,
+      "sha256": "aeaf4d4ecfebe5dbba75a59aa3d62b38c0081c523e316875bd4ed986b9ab8303",
+      "git_blob_sha": "dae5a69ec9e15004d339f1902f3fb0ff777f709f"
+    },
+    {
+      "path": "assets/demo/backgrounds/swamp.png",
+      "size": 5620,
+      "sha256": "876c7691e795de64db0899a9cb91f79a4cca94d41120183a9c5d1130d91430be",
+      "git_blob_sha": "d6824c2ef511dab5c367f735202be12a74c6949a"
+    },
+    {
+      "path": "assets/demo/backgrounds/tower.png",
+      "size": 4163,
+      "sha256": "190070264de0c4c25f16301df88be37b77c4a1abefada7f1bb4302b6bb55ebe4",
+      "git_blob_sha": "61308cb2c0e400d299715ded76ff8a06dfe0e281"
+    },
+    {
+      "path": "assets/demo/backgrounds/village.png",
+      "size": 5444,
+      "sha256": "1d2a1aa1426b43b385bbb0cc63818d6b3176eb8578ed0b1ca4e36d08f7bc679f",
+      "git_blob_sha": "a5ecec114b91b916d07b71c5a8605126a5689e0a"
+    },
+    {
+      "path": "assets/demo/digimon/agumon.png",
+      "size": 2302,
+      "sha256": "1654f5afcf45dbbbd33ff72abf739498a6de746e732d06a4521ff60a901c82fe",
+      "git_blob_sha": "89bcdd9ea98bb97e3411a3b14bcf6dc110ce89e7"
+    },
+    {
+      "path": "assets/demo/digimon/andromon.png",
+      "size": 2215,
+      "sha256": "2e7e6edc54962199c02082601fe20d4558ae391ed9322b2e93d42cba6dd0eb2e",
+      "git_blob_sha": "1365e0d4994c379b20d5cbc7c5bc4fd24ea7d4c6"
+    },
+    {
+      "path": "assets/demo/digimon/betamon.png",
+      "size": 1984,
+      "sha256": "2f987ce6120f5d42c02666950ac569c25387b316f01224fe5dd58bb17f8edcbd",
+      "git_blob_sha": "0e1ad592393e83f7514cdc010da824458562c0e7"
+    },
+    {
+      "path": "assets/demo/digimon/devimon.png",
+      "size": 2754,
+      "sha256": "31c832b5cc6f309358b99b8274af771181cb4f6aaf5bedf0e182c6a20a6cddef",
+      "git_blob_sha": "bc1d700cd9a966ecaad761658bccd549449ad52f"
+    },
+    {
+      "path": "assets/demo/digimon/goblimon.png",
+      "size": 2454,
+      "sha256": "55790f7b398d06ae85e470618570d0a478e28ff2de303230ff843b68c5b31480",
+      "git_blob_sha": "ce7296e9235db73ddee02d7f5ad3a819c18d52b2"
+    },
+    {
+      "path": "assets/demo/digimon/greymon.png",
+      "size": 2758,
+      "sha256": "72dc250ab1042ebbac10c19260fd0617056a0fb765a6cf2a9a9e2f5b5f442074",
+      "git_blob_sha": "7875e1efb98edb6ad4dfe4f93455565e521f79db"
+    },
+    {
+      "path": "assets/demo/digimon/guardromon.png",
+      "size": 2016,
+      "sha256": "7d95c06dc40e46cb9450b7b02efbed5f825ab74e1b726991da26f73ed2b99b05",
+      "git_blob_sha": "f359366df5fa737decfa62f48b58d8c0b15317cc"
+    },
+    {
+      "path": "assets/demo/digimon/metalgreymon.png",
+      "size": 1486,
+      "sha256": "a441fdb958b62621439c5a3d439a53e13291c2d1dc5807a5eb8bc4ce78df6c3f",
+      "git_blob_sha": "724eb6f3402b5cc3b32810c22657a3889b1452e0"
+    },
+    {
+      "path": "assets/demo/digimon/ogremon.png",
+      "size": 2498,
+      "sha256": "fbd3adf11a34271310ac19a0e6717e807e25273b76f6fbe714cec91d01ffe062",
+      "git_blob_sha": "0b53cbfbb4ba5e15883389f8ff0c4640e78b37de"
+    },
+    {
+      "path": "assets/demo/digimon/piedmon.png",
+      "size": 2755,
+      "sha256": "63729ad48386b2f4ef34f18bcfb5bf720e0e2fad2b1d2861f1559d1ed7e02753",
+      "git_blob_sha": "5f945460570e4c46eef583fa187ac3e5b22bb1b9"
+    },
+    {
+      "path": "assets/demo/digimon/wargreymon.png",
+      "size": 1486,
+      "sha256": "a441fdb958b62621439c5a3d439a53e13291c2d1dc5807a5eb8bc4ce78df6c3f",
+      "git_blob_sha": "724eb6f3402b5cc3b32810c22657a3889b1452e0"
+    },
+    {
+      "path": "assets/digimon/LEEME.txt",
+      "size": 624,
+      "sha256": "9c5e20fc54a952bc87527e9df2325cd97490aa9494d984a22dff2c5c664fc44d",
+      "git_blob_sha": "fd7a3f5f9ef2c62f3c17e1718a60a8b44910fff6"
+    },
+    {
+      "path": "assets/digimon/agumon.png",
+      "size": 903,
+      "sha256": "21255b3c82bd09a4937b95d34d9b82129753fc1caa2829f0b8c46a25636e2d08",
+      "git_blob_sha": "c266d254a878e774c843661b1e01496dc64a2cce"
+    },
+    {
+      "path": "assets/digimon/andromon.png",
+      "size": 2215,
+      "sha256": "2e7e6edc54962199c02082601fe20d4558ae391ed9322b2e93d42cba6dd0eb2e",
+      "git_blob_sha": "1365e0d4994c379b20d5cbc7c5bc4fd24ea7d4c6"
+    },
+    {
+      "path": "assets/digimon/betamon.png",
+      "size": 934,
+      "sha256": "2b9589b4b6b91e36ef31b5651e12691f856124804c03459385d12231c5ace45b",
+      "git_blob_sha": "a07dbdd2fc6cfb07fad36b5877701e39c33bf08c"
+    },
+    {
+      "path": "assets/digimon/devimon.png",
+      "size": 1790,
+      "sha256": "fb4ff64bd571fe28c74c6cc6ca5a07bb95cadf95fcfcbc0a2a11cfc1054def06",
+      "git_blob_sha": "d7d7690abbb44ed287084bc64e9bc4013c6126ff"
+    },
+    {
+      "path": "assets/digimon/goblimon.png",
+      "size": 1730,
+      "sha256": "9f83c3e0a8139fde81aadc3293d07868680f5dc031ae1099d87223b3bbee333c",
+      "git_blob_sha": "69d75431a371a272a14d211a0895bb646684c551"
+    },
+    {
+      "path": "assets/digimon/greymon.png",
+      "size": 2510,
+      "sha256": "4cbde5f2a67e739e46c6c3c3cc6f44d6c2ed797cfe0ce459a85b17e6d1ae6c04",
+      "git_blob_sha": "86b8d21a1e9282733cb4ebc8e2323b79dac7121c"
+    },
+    {
+      "path": "assets/digimon/guardromon.png",
+      "size": 2016,
+      "sha256": "7d95c06dc40e46cb9450b7b02efbed5f825ab74e1b726991da26f73ed2b99b05",
+      "git_blob_sha": "f359366df5fa737decfa62f48b58d8c0b15317cc"
+    },
+    {
+      "path": "assets/digimon/metalgreymon.png",
+      "size": 4076,
+      "sha256": "4add8a82e8c241f6f41a762e70e61378de94d753ba14759df0eee306b7b46f01",
+      "git_blob_sha": "3b021904c190c5df08243101a941227f8612a695"
+    },
+    {
+      "path": "assets/digimon/ogremon.png",
+      "size": 2461,
+      "sha256": "79dde14bee64b7e5220d81c3f6618adeda60d2329e253ea31cfc82512d6d9617",
+      "git_blob_sha": "8a63b87a630cf584a64538cb572f0146c98a3d10"
+    },
+    {
+      "path": "assets/digimon/piedmon.png",
+      "size": 3321,
+      "sha256": "4c9a9deafab5036b0bd03460a67028ed701048b2275e6ceaeeae8e97d9ca6dbc",
+      "git_blob_sha": "3bdfe8fce5006af1c764b9a609e3b6dadd38565d"
+    },
+    {
+      "path": "assets/digimon/wargreymon.png",
+      "size": 4748,
+      "sha256": "fcf63ad99079a55bc881a9f4e99f871055edf7eae041739c3902aa76c5e866d6",
+      "git_blob_sha": "efd5d8c566a9c80231b6543cec9e8b82843b3780"
+    },
+    {
+      "path": "assets/effects/GENERACION.json",
+      "size": 15376,
+      "sha256": "1033da76b10b0e58c6a0b7f48c2dd281f541ac727b0a265ed63f2a1e0d87c331",
+      "git_blob_sha": "85aba07c0184567912bdb5165c617ba6ee6261b5"
+    },
+    {
+      "path": "assets/effects/GENERACION_v0141.json",
+      "size": 5082,
+      "sha256": "b90b8eb489ccca7dc843ef9d80135dc86a6fa65df07a7809439bb15119e19911",
+      "git_blob_sha": "7aeec5eb13f66ab8057a2babd47239074753df0e"
+    },
+    {
+      "path": "assets/effects/baby_flame.png",
+      "size": 210183,
+      "sha256": "0d8aa98cf5130f3691faf7d0cee67dc39641fa9d91397556269810a2376e1816",
+      "git_blob_sha": "0db178895af5d5bf1aa246967be5c03523a2afed"
+    },
+    {
+      "path": "assets/effects/basic_attack.png",
+      "size": 294157,
+      "sha256": "0aad55682344bc3491050c5e9b24bde710573aecf0647ff16bf67267a1b69ce4",
+      "git_blob_sha": "a815089b83a8d687026b50786ee58fbffbd965b4"
+    },
+    {
+      "path": "assets/effects/death_claw.png",
+      "size": 511365,
+      "sha256": "acd7a6f0c400baf48c8cda91b8e8300de61bb5e4d0e7e8dfb33b941718ac4fea",
+      "git_blob_sha": "fa908c6b957476386ec4758acc4d0654333e96eb"
+    },
+    {
+      "path": "assets/effects/electric_shock.png",
+      "size": 551123,
+      "sha256": "42e7446d4215e0b711b75974534f2febf45f38e6e30170aef3ec189e5735e816",
+      "git_blob_sha": "0d146a04153b2da898316f02de75efad3ced65ee"
+    },
+    {
+      "path": "assets/effects/giga_destroyer.png",
+      "size": 400913,
+      "sha256": "3b8a0215036c4456eccf38698787fff48eb7691fc2e42cc5303be79e6f012a1d",
+      "git_blob_sha": "a94ae7e95710fa025d6ff14565bae20c77d9d23e"
+    },
+    {
+      "path": "assets/effects/goblin_strike.png",
+      "size": 274897,
+      "sha256": "6206f350e62f934e730f72d25c6065bca356757569344bbebed531fcef04ceb5",
+      "git_blob_sha": "5483c1b3822e8f3864ac90a15410e65def5de74a"
+    },
+    {
+      "path": "assets/effects/haouken.png",
+      "size": 465437,
+      "sha256": "ee76c6c17be2ea9484ed17b3e7ba1ae4f36b5e48426f2179965714fe4fc715b1",
+      "git_blob_sha": "4fa8ba36821e5031ac226bf930a75d272eb66102"
+    },
+    {
+      "path": "assets/effects/interrupt_strike.png",
+      "size": 270766,
+      "sha256": "b3e36dbe5818a135e66d16cc611379905eecfce21d1cfaaace5e03589499f74f",
+      "git_blob_sha": "69961eb3617c3c0b19b33043357d94a97d5c3280"
+    },
+    {
+      "path": "assets/effects/mega_flame.png",
+      "size": 719687,
+      "sha256": "d52c24e3eaf2edb25a4d0b285df8493a2861a2ba32a5b001ff910bc765745d16",
+      "git_blob_sha": "d8bc580250f16fe7ac20d0150bd1cac2cf743b0f"
+    },
+    {
+      "path": "assets/effects/power_attack.png",
+      "size": 559165,
+      "sha256": "9e05c692a63b9e7e3788214566f8d887488736f521adbc40884fa8135f53451b",
+      "git_blob_sha": "3cb59dafec17b6a0b93cb4b57256a127728c5971"
+    },
+    {
+      "path": "assets/effects/spiral_sword.png",
+      "size": 366798,
+      "sha256": "53a7a2496f75eead1706740eb7323ee2457602b71f2c5f1978e82dd63d94b106",
+      "git_blob_sha": "27abb81cc7e011ac73a6ef0fafc9924e64c74cc9"
+    },
+    {
+      "path": "assets/effects/terra_force.png",
+      "size": 597074,
+      "sha256": "2de1d380e0fa1f3f19b85a52a00bfdd94535c6aec40ba3de754098484120b612",
+      "git_blob_sha": "b9a2097daaaa3d705290239f82b6b9bbd2a02f1c"
+    },
+    {
+      "path": "assets/effects/trump_sword.png",
+      "size": 624068,
+      "sha256": "4eaa0a250d0e437e271b7cc21f2ae2472d87f830b2a29cfbe6158dca45e1933a",
+      "git_blob_sha": "6c01ab00ce59402397e91676b1badffb596a2aa0"
+    },
+    {
+      "path": "assets/maps/manifest_v017.json",
+      "size": 361,
+      "sha256": "0334073aef5f76941d983f20881f737d168099e30b02dbdb16555da2d51b62c0",
+      "git_blob_sha": "50f97ad9f90811a02bbf6ac55e4d7b08188df87e"
+    },
+    {
+      "path": "assets/maps/prompt_v017.txt",
+      "size": 2053,
+      "sha256": "afdbfa453bf4198a71975fc199d42cc9e881c3da4319eb444b7ddc176a9705e8",
+      "git_blob_sha": "f912758c6a3b3bd1a66835a481237009caa5c342"
+    },
+    {
+      "path": "assets/maps/world_map.png",
+      "size": 3341746,
+      "sha256": "fcb71c5a14a830f99525db2ba6374319cd48b1f8863a73e695db973d734b230d",
+      "git_blob_sha": "9e2738ede7c1c68461a68d7ab1ea66db933f466f"
+    },
+    {
+      "path": "docs/Informe_Final_Digimon_RPG_Borrador_v013.docx",
+      "size": 44481,
+      "sha256": "4f3757da6e6c6e280282620378cd08da15301059fd8599b8ddc984616885b567",
+      "git_blob_sha": "b0872b357b6e599dba0e72d9f6a7072d5aed24af"
+    },
+    {
+      "path": "docs/Informe_Final_Digimon_RPG_Borrador_v013.md",
+      "size": 12497,
+      "sha256": "a6463018095d6cfee81f0228e395be14565604c64f709f5df5e9dddb01c4a3d8",
+      "git_blob_sha": "a1c9e0b77c4a9e939bdcf3ff9399809dedc5371e"
+    },
+    {
+      "path": "docs/Informe_Final_Digimon_RPG_v019.docx",
+      "size": 939032,
+      "sha256": "55eb8a333bc5c01c4ff3fb8a38d69662a7eed296f4b5ba08118760d9ea46a2ed",
+      "git_blob_sha": "a048c9dd1fc3f80fde7621218117a9b42f26fe7a"
+    },
+    {
+      "path": "docs/Informe_Final_Digimon_RPG_v019.md",
+      "size": 16150,
+      "sha256": "82a4dbc3074609003256d9764c93846d02431967be2f9851cb5b57884b7325a5",
+      "git_blob_sha": "631c8764a91a288a196615a1b30e2de160434a0f"
+    },
+    {
+      "path": "docs/Informe_Final_Digimon_RPG_v022.docx",
+      "size": 797263,
+      "sha256": "da477c1ac33e6ff209e70c38bf7fc5d9f71344c920a4ba3574dbc3d333ccddda",
+      "git_blob_sha": "47ac64bd2a92c707f54a34743edb0df8735ff3ae"
+    },
+    {
+      "path": "docs/Informe_Final_Digimon_RPG_v022.pdf",
+      "size": 1007495,
+      "sha256": "b2318a290b70a1c92617ee20095e97a59c226639c577409417986551d941aead",
+      "git_blob_sha": "984487e415ecfdf72312491ab7ab20e39a88db0c"
+    },
+    {
+      "path": "docs/auditoria_mc_catedra13_v082.md",
+      "size": 7244,
+      "sha256": "38deeda484eee5d0c828e11f86a39ca062d69d0bea0a2933df0c764f6bb32dfb",
+      "git_blob_sha": "b61125ea11915a118868c510beb9cabe12b3a55c"
+    },
+    {
+      "path": "docs/balance_v020.md",
+      "size": 6937,
+      "sha256": "780f6c88eb8f5600e5c2e66171972ce1b16060bce96a65ce4dbfd2edf3c0e6e4",
+      "git_blob_sha": "1ca65046179a1f06f064bdc9dae0f98ec29751ff"
+    },
+    {
+      "path": "docs/cierre_academico_v019.md",
+      "size": 5362,
+      "sha256": "a89ebca1e7aae14d5152f083dad1b80f989567aaf29f40d6ffd4bb5f7c0f4b87",
+      "git_blob_sha": "67723fa4b6cf6823cda4c0e5561015f69ca29d7e"
+    },
+    {
+      "path": "docs/combate_v016.md",
+      "size": 4751,
+      "sha256": "a2a4c564fce591e7a3e7685ae3d5f9e157b568c7b8798c29b5e0783c2acbe5db",
+      "git_blob_sha": "70b9659cc517b4a8d5f58a4b610b30555a789588"
+    },
+    {
+      "path": "docs/correccion_ataques_basicos_v0141.md",
+      "size": 2732,
+      "sha256": "f3e94472aa2c323a76553bdc617c31d56210f1b15a6649108ab9d9be549aca6e",
+      "git_blob_sha": "0e5a80428dfd59be7f84043e17d156314634d5f9"
+    },
+    {
+      "path": "docs/correccion_guardromon_v0211.md",
+      "size": 1912,
+      "sha256": "8a2f878dd098cbc841c2e2659edcbc491a43e5609f4225f05a4f470dd6cfa34b",
+      "git_blob_sha": "6267f326b5bf6bb2828f3d4457378222951c4e3b"
+    },
+    {
+      "path": "docs/curvas_convergencia_v011.md",
+      "size": 7174,
+      "sha256": "f612ff1e3d500fdfe029504140c98d8406dce3704487e2d11772eaa645cab122",
+      "git_blob_sha": "e2ea0c6d383ec97946f00dc78b717ba152ce07ab"
+    },
+    {
+      "path": "docs/digidex_diario_v022.md",
+      "size": 8017,
+      "sha256": "ecb673fb9a1f07dcdf69fc736f815c6172ac9b4f20540d5b9393f57193929c90",
+      "git_blob_sha": "18763ba0333823f7fd27806f0b1a679f679a5a54"
+    },
+    {
+      "path": "docs/evidencias_v082/aprendizaje_por_bloques.csv",
+      "size": 2224,
+      "sha256": "3df5a78385ba9443370a73ba81e224167dff26f9337a0a92323e108e65a79a4e",
+      "git_blob_sha": "40528c2a41463898d39a16240014c2425fe1ee8f"
+    },
+    {
+      "path": "docs/evidencias_v082/comparacion_multisemilla.svg",
+      "size": 2884,
+      "sha256": "dd6681e76a0323c01308d5f5b65b5075b23529d7382ff06c7a9a62b9645e465a",
+      "git_blob_sha": "b4a2a842f40e4c7f8ccfce2ea535690ce3facc47"
+    },
+    {
+      "path": "docs/evidencias_v082/resultados_por_semilla.csv",
+      "size": 1044,
+      "sha256": "8014dc25b4b9f71f1b9c1d29f54663106cb8cfbdba6762d53685e07d0532b365",
+      "git_blob_sha": "6009045ad262076a2c0871cac012bdfb07829dbc"
+    },
+    {
+      "path": "docs/evidencias_v082/resumen_multisemilla.json",
+      "size": 5507,
+      "sha256": "c80bf686ece5769b7048970ea2d29630ea8997a70dde648b8c8187b2114050bb",
+      "git_blob_sha": "631eb363b0d83835b1805af2e48ad5c5cab3cfbe"
+    },
+    {
+      "path": "docs/figuras_informe_v022/aprendizaje.png",
+      "size": 157284,
+      "sha256": "840915439185844a8489bdd6a17389556e7e24e32e1aca224de32009fe98247a",
+      "git_blob_sha": "b604335e60b565601099aa6426e2907ed96a96b0"
+    },
+    {
+      "path": "docs/figuras_informe_v022/cobertura.png",
+      "size": 142813,
+      "sha256": "bcb2e7a26feb6c0df6edf03a919e3caa544eb83427127691685425b7a565298c",
+      "git_blob_sha": "43c85cf8c9b7b48a864cd13ee9cf4b048fe6fed3"
+    },
+    {
+      "path": "docs/figuras_informe_v022/conducta.png",
+      "size": 70666,
+      "sha256": "fdca7dcb8f715f0d7798872b15620f1bbea0cadc9a6fe86fb856a36eb14c1f9f",
+      "git_blob_sha": "dd09543bd6663f41cf5a3d8fb25a462c2efbbb92"
+    },
+    {
+      "path": "docs/figuras_informe_v022/convergencia_dp.png",
+      "size": 73050,
+      "sha256": "9cb524d38379480650c4080bf338570c6ba43b80edf34c5da65b69597dd075b8",
+      "git_blob_sha": "1a9e3c0aa76529978a29a2907075c36a4bb56e86"
+    },
+    {
+      "path": "docs/figuras_informe_v022/mapa_modelo.dot",
+      "size": 763,
+      "sha256": "12a5ceb5d2029380a87e991ac82fb8b70cc2679119a6365b630ba88958176cb6",
+      "git_blob_sha": "063a95de46480416706824327ed35d81235edd6f"
+    },
+    {
+      "path": "docs/figuras_informe_v022/mapa_modelo.png",
+      "size": 113214,
+      "sha256": "53a1ca7779e3dbccfb629557f86bb910368e1217f54134f39b700b44e12a1f1e",
+      "git_blob_sha": "d0b174429e8402b9fdeec5f19e8661e34ff1c9d6"
+    },
+    {
+      "path": "docs/figuras_v019/curvas_lineales_v019.png",
+      "size": 155936,
+      "sha256": "9f0423a2aef29cbec7a21506c0bea71787bff9399858599109d226ea74473d91",
+      "git_blob_sha": "5ded6404e2c534be82afbeb09dc6615e6635ca89"
+    },
+    {
+      "path": "docs/figuras_v019/curvas_lineales_v019.svg",
+      "size": 56724,
+      "sha256": "02654e9f23e828a29119183152073c934d7c9f501b2c2f4ff0e4cf8ac0d9459a",
+      "git_blob_sha": "19594b07af09e4cd423ce28a29751f1315ce254d"
+    },
+    {
+      "path": "docs/figuras_v019/interfaz_v019.png",
+      "size": 760665,
+      "sha256": "0675d5d1156e6dc47a2e534fe4645d8b2448c4b0dcf9af4701452d1433c870f3",
+      "git_blob_sha": "f40d35f736aa88b7315e0ee5f97887ef939ed0f1"
+    },
+    {
+      "path": "docs/figuras_v020/balance_y_aprendizaje.png",
+      "size": 171147,
+      "sha256": "499e271ee3f7cb9af36538038014c929b4fe12501245181a441562e55bc98733",
+      "git_blob_sha": "7afdc4c593bec22c9efd6ac9b4781cb5aa4fcf77"
+    },
+    {
+      "path": "docs/figuras_v020/balance_y_aprendizaje.svg",
+      "size": 99686,
+      "sha256": "f39686024aabed94b589bc93bead3b94bf2fa222b2460f2fc8090cdfb3442aec",
+      "git_blob_sha": "176aba884301153c793edb6af31e0d5b923856e3"
+    },
+    {
+      "path": "docs/figuras_v021/aprendizaje_v021.png",
+      "size": 156839,
+      "sha256": "198da97eaabefa30740e2882fca61773cbd57be5034a9a79a0b9e2e861c6d2a5",
+      "git_blob_sha": "20b82060ae656210cb2db6582bef4c99b1c66a31"
+    },
+    {
+      "path": "docs/figuras_v021/aprendizaje_v021.svg",
+      "size": 55994,
+      "sha256": "6167775ca55b5fa87fb358deb65fef30850a7bcb358fd1588daf3bbb3eba5797",
+      "git_blob_sha": "e9a6685f7203024c73f3f0e6faa3c7fba08e1ffa"
+    },
+    {
+      "path": "docs/fondos_v015.md",
+      "size": 4547,
+      "sha256": "dac041c052ab1ba7db79044ba611e5283e8c0364290b57bdd89e1652b1aaa0cc",
+      "git_blob_sha": "6a551cb9d6a8dcd5a345339316b9d9bce47eedc8"
+    },
+    {
+      "path": "docs/guion_laboratorio_v010.md",
+      "size": 1540,
+      "sha256": "8fc46ea918ebbb841f4129faa9a3b739c411a9e4144a628eb0331bbc8ad752cc",
+      "git_blob_sha": "1ae870124f2491f2677dbe102c8dbf9b27bdea00"
+    },
+    {
+      "path": "docs/guion_presentacion_v012.md",
+      "size": 2931,
+      "sha256": "72e7ee0aa68f14bbf6aada472a22ad17e18bbfa5e38b1f3611f730c914f043f0",
+      "git_blob_sha": "09111657a626e69dc56e1d6559dd681eaac5dea1"
+    },
+    {
+      "path": "docs/guion_presentacion_v019.md",
+      "size": 3552,
+      "sha256": "22b995af9799ec94257723739acbe9637087493ece7f02b509e330861fc100c7",
+      "git_blob_sha": "2bf05259c8e7d41c04c910c67b8a2d703ee7f0d4"
+    },
+    {
+      "path": "docs/habilidades_8bits_v014.md",
+      "size": 5720,
+      "sha256": "d33c09fe1a3803d3a6110f378167667605e582754d2478c2ad7168426564c60e",
+      "git_blob_sha": "91094e651b01f3e1108459281a5b496753056586"
+    },
+    {
+      "path": "docs/interfaz_v0_2.md",
+      "size": 2702,
+      "sha256": "b7f4a7f1432737c5ee12018de2005636f1768e8bfb74c2eecefcc5cdc2a38b18",
+      "git_blob_sha": "c740f54bfb0f752f89305527a17a329aded417de"
+    },
+    {
+      "path": "docs/interfaz_v0_4.md",
+      "size": 2131,
+      "sha256": "de2de3ea94e4b724d1d7d9b2f21c64500b4d803098e00e2a7400d2935edb3a13",
+      "git_blob_sha": "958609dbe09b5a731c39cd3826f404a7d380a21e"
+    },
+    {
+      "path": "docs/mapa_v017.md",
+      "size": 5368,
+      "sha256": "bf7f0e168d328d301a011a813a8766f17320aed1645228263e4c7c4b0ea7e5e1",
+      "git_blob_sha": "ea0087caa7ed128311f15c166b961060be63246e"
+    },
+    {
+      "path": "docs/modelo_mdp.md",
+      "size": 4564,
+      "sha256": "8b6a9019a60bda8c0177236980d5f224f86be921ca6d635aace0d37eed1ae045",
+      "git_blob_sha": "49ba5a81cad6eb86c0a538ac6f08a17e33e61ce6"
+    },
+    {
+      "path": "docs/modelo_mdp_v0_5.md",
+      "size": 1328,
+      "sha256": "0ce8491c2bf2ed104f47fe11c77c7207e14c1d782292311c5e4ed9e23839eaed",
+      "git_blob_sha": "cecf7d126259f9d0d7fbed3e428430dde9266941"
+    },
+    {
+      "path": "docs/modelo_mdp_v0_6.md",
+      "size": 3093,
+      "sha256": "8a79bccc32a0c3e209279fb0e9d16422e1d336ee10f2332b4a77a556bbc75e84",
+      "git_blob_sha": "8b433bd1cbcdf149ce251aab1b0c242aff9f0b63"
+    },
+    {
+      "path": "docs/modelo_mdp_v0_7.md",
+      "size": 2627,
+      "sha256": "37250a29aeeb67d264a4dd89f694fb119023b92552e54a492b4169488fa73bf1",
+      "git_blob_sha": "ba9bd267d3e2cae8493bbb60c3879baee8c72c87"
+    },
+    {
+      "path": "docs/modelo_mdp_v0_8.md",
+      "size": 2986,
+      "sha256": "90b4e3b043c8a1d4d97d57855391f06d5021fdf291201ced3f691f2d5d35dca4",
+      "git_blob_sha": "78c258ba8962ec6f2d734a9e11fe54a930c84d26"
+    },
+    {
+      "path": "docs/modelo_mdp_v0_9.md",
+      "size": 1741,
+      "sha256": "2da792e11244c8dc4000d242ea2c0d92a540a43f5d06ae8fae9f49be8f0ff48e",
+      "git_blob_sha": "7c55c2db5661b8796609fa5d1a7c49151c785ed6"
+    },
+    {
+      "path": "docs/plan_informe_final_v013.md",
+      "size": 2282,
+      "sha256": "3d34ea468ad5a0d69226f2c997dc56d9873a807bfd057bfc9a57269978b7e7af",
+      "git_blob_sha": "6d62abbdf9b08df928fe2d67cfbf14f1f16b7658"
+    },
+    {
+      "path": "docs/recursos_visuales_v0_3.md",
+      "size": 5611,
+      "sha256": "4eb8558541bb5c2d45eca3033621617840957e01376b5156631dc1f82d9f95f5",
+      "git_blob_sha": "f04947ca0f4761a0335607eb3ae33f249ffc582b"
+    },
+    {
+      "path": "docs/rutas_v021.md",
+      "size": 8680,
+      "sha256": "ad4f5b0fa031cd59c5ee58e4b322738e55352fbabe03d41bb7f386fe0ca2abd6",
+      "git_blob_sha": "3c44818fda15f1b7cb33be847114ab2dbb743606"
+    },
+    {
+      "path": "docs/sonido_v018.md",
+      "size": 5593,
+      "sha256": "cdaacfdd0878c8b18d06cfcee285b88157413ad62010b4ce9d3dc8edd5724f1b",
+      "git_blob_sha": "432e2fc0fd9260b6385712532dcd9fc83e50a4b8"
+    },
+    {
+      "path": "docs/validacion_windows_v013.md",
+      "size": 3263,
+      "sha256": "f99b6864efa9797a689ae4bc3d8c17dc35b158a81b9401394574b7fa75e4c5a3",
+      "git_blob_sha": "e9d86eb2185a88004902f74a17e422658d40e896"
+    },
+    {
+      "path": "docs/validacion_windows_v014.md",
+      "size": 3647,
+      "sha256": "889eb594840f7d32e7d0a7c4bac6286779348df0ac7ebb93d17785d367c37c0e",
+      "git_blob_sha": "e5311f9021674235c2222d742cbae79f516ab54b"
+    },
+    {
+      "path": "politicas/analisis_v010.json.gz",
+      "size": 1523170,
+      "sha256": "f0f17c0fcb6182436cfb146b4bccb544afb80fcf8535acf8805fd680ea2dd9ef",
+      "git_blob_sha": "c26e261ad4f76546b48eaa27a778f762b2a9fb24"
+    },
+    {
+      "path": "politicas/dp.json",
+      "size": 3189002,
+      "sha256": "c6118c26528aabaa0b89477d0012cd3af9525f2fc422fec3c6c565c39680fada",
+      "git_blob_sha": "0b1accfdb8437524bca3995efb1bfa8c3189b962"
+    },
+    {
+      "path": "politicas/historico_v019/analisis_v010.json.gz",
+      "size": 853150,
+      "sha256": "4402034b595b2b7dc5daaca00949fa99dce9aee75c1f79254c90efb9b109a760",
+      "git_blob_sha": "eb557cc9e6215c487bf67dc366f9e240252625d6"
+    },
+    {
+      "path": "politicas/historico_v019/dp.json",
+      "size": 1785398,
+      "sha256": "53dfc2a71904b47873f8391edc27b2e6842aeb957da06422164cbe3d5d3c38cc",
+      "git_blob_sha": "c599bf0b8bafa071335aa0572b8b687c7594ddba"
+    },
+    {
+      "path": "politicas/historico_v019/mc.json",
+      "size": 608870,
+      "sha256": "72b27c14b8d52f0ace2fc3c0b187151d3b40c34ed6cf1a4a40baa2e3c4b1e832",
+      "git_blob_sha": "cd0dae36b56cc854dc7c55076a429524942df5f9"
+    },
+    {
+      "path": "politicas/historico_v020/analisis_v010.json.gz",
+      "size": 1018626,
+      "sha256": "17a3441763979bfad0f87f88a24cee20717e586fcd5f40619f9d2f29615e2c8f",
+      "git_blob_sha": "806dcd3fbcf5f6c3901d0e042b63409e38ee8acc"
+    },
+    {
+      "path": "politicas/historico_v020/dp.json",
+      "size": 2263403,
+      "sha256": "7656b4efddc5b0c6b91cecd773f835a390cf70fd858dd6d5897fb5518f112744",
+      "git_blob_sha": "3dd4531ddd3fa34ffb25e3553cb004a19dbaeb69"
+    },
+    {
+      "path": "politicas/historico_v020/mc.json",
+      "size": 692433,
+      "sha256": "7972decaafbcbab6dda74aeb7af7016c2f0775ab21f45e0b6fb9b1dcfeada7f8",
+      "git_blob_sha": "172e99af5bbcd379a8422c86dc530c1a5665a1c7"
+    },
+    {
+      "path": "politicas/mc.json",
+      "size": 1026286,
+      "sha256": "5667677aadea3675d15d60b412a90f90b7cf9e9e41ad567d97ddfcc80448df40",
+      "git_blob_sha": "8b6fa3d56719ae12c8d14330703c2aef6c5ec8e7"
+    },
+    {
+      "path": "pyproject.toml",
+      "size": 514,
+      "sha256": "3e7d656bbd7137fd2bf7909fa2c0af32318e80ecc691a7342c65cefdfeb639cc",
+      "git_blob_sha": "d1eee07701a2d3c8a3009288c2bbb70a251b68ad"
+    },
+    {
+      "path": "referencia_v019/digimon_rl/__init__.py",
+      "size": 395,
+      "sha256": "0065b16e8f648353222131ec75c32547030b1573dc8107739d191fab37c48571",
+      "git_blob_sha": "845776a108fae2f1685068b4f80805ca32762bc8"
+    },
+    {
+      "path": "referencia_v019/digimon_rl/agents.py",
+      "size": 7941,
+      "sha256": "bce0e77a598c356154faa973bb572a0d240a9712ed1b26662cbc767d34672f8b",
+      "git_blob_sha": "5db97d12a3e76af33df589c1cfa71161efc1f2e0"
+    },
+    {
+      "path": "referencia_v019/digimon_rl/domain.py",
+      "size": 2299,
+      "sha256": "8722e646eead92c6cd35cd772a7712f29ee43eaa2300d33f77540f9f8ed16158",
+      "git_blob_sha": "a75f5a7e8adddbe706e3d9395859d1c36c234b19"
+    },
+    {
+      "path": "referencia_v019/digimon_rl/environment.py",
+      "size": 16683,
+      "sha256": "7ff79733140dc3431a77fd272949b7cd15c74839e3371e6bfc3ce9b7f54139e2",
+      "git_blob_sha": "fa5f622241d36375f3500b5f672785d3778f2424"
+    },
+    {
+      "path": "referencia_v019/digimon_rl/experiments.py",
+      "size": 2909,
+      "sha256": "c7ee88ee90ac69be58339be0c515777282e315aceb7ad145ee0540c7ac5deca8",
+      "git_blob_sha": "f064a941fb51263451a98aaef7d1be2561644198"
+    },
+    {
+      "path": "referencia_v019/digimon_rl/policy_io.py",
+      "size": 3525,
+      "sha256": "2ceb8e237ab1e2aa5c70728ecc1bdc7233055129faa46cd7fabe98fb41a404a6",
+      "git_blob_sha": "e9f804304a026f4784812f6da1c4880e228c5cc1"
+    },
+    {
+      "path": "referencia_v019/digimon_rl/techniques.py",
+      "size": 924,
+      "sha256": "3095acf14ba53668e097f90b7f9b9e7dcffb2dd51703e9504ce88694c0cc2cbd",
+      "git_blob_sha": "49b7bce79198f7d0f77577ea9e74f687e641a443"
+    },
+    {
+      "path": "referencia_v020/digimon_rl/__init__.py",
+      "size": 395,
+      "sha256": "0065b16e8f648353222131ec75c32547030b1573dc8107739d191fab37c48571",
+      "git_blob_sha": "845776a108fae2f1685068b4f80805ca32762bc8"
+    },
+    {
+      "path": "referencia_v020/digimon_rl/agents.py",
+      "size": 7941,
+      "sha256": "bce0e77a598c356154faa973bb572a0d240a9712ed1b26662cbc767d34672f8b",
+      "git_blob_sha": "5db97d12a3e76af33df589c1cfa71161efc1f2e0"
+    },
+    {
+      "path": "referencia_v020/digimon_rl/domain.py",
+      "size": 2299,
+      "sha256": "8722e646eead92c6cd35cd772a7712f29ee43eaa2300d33f77540f9f8ed16158",
+      "git_blob_sha": "a75f5a7e8adddbe706e3d9395859d1c36c234b19"
+    },
+    {
+      "path": "referencia_v020/digimon_rl/environment.py",
+      "size": 16888,
+      "sha256": "48e7edd3cee9be714fc6d91815bdaa1af3945460fa39cf693a84e2b8f6376e6d",
+      "git_blob_sha": "643abc74c689a3a4754e3dd37b7b2296f1a506fd"
+    },
+    {
+      "path": "referencia_v020/digimon_rl/experiments.py",
+      "size": 2909,
+      "sha256": "c7ee88ee90ac69be58339be0c515777282e315aceb7ad145ee0540c7ac5deca8",
+      "git_blob_sha": "f064a941fb51263451a98aaef7d1be2561644198"
+    },
+    {
+      "path": "referencia_v020/digimon_rl/inspector.py",
+      "size": 6916,
+      "sha256": "74eb07fc48d451d01af275e2c6b8548ed01a388b3bb8a0db2ab76c3f1d13ee46",
+      "git_blob_sha": "9df159a63136ca7c17f8912a10224c48233f029b"
+    },
+    {
+      "path": "referencia_v020/digimon_rl/policy_io.py",
+      "size": 3527,
+      "sha256": "31c5ccdcbf87248b0702b6c926f7c4d996ccc53253f66f7bf4efca1698cfbfcd",
+      "git_blob_sha": "50267b049db2cddf1c069c71ed1bc0fa01c93d37"
+    },
+    {
+      "path": "referencia_v020/digimon_rl/session.py",
+      "size": 7251,
+      "sha256": "85c2984e25b51509654302487d7110fce3ad1d15e0c5edefe0278a383c8f50b0",
+      "git_blob_sha": "9c31219424c8a6cfcb8bab85bb165add1333ef1a"
+    },
+    {
+      "path": "referencia_v020/digimon_rl/techniques.py",
+      "size": 924,
+      "sha256": "3095acf14ba53668e097f90b7f9b9e7dcffb2dd51703e9504ce88694c0cc2cbd",
+      "git_blob_sha": "49b7bce79198f7d0f77577ea9e74f687e641a443"
+    },
+    {
+      "path": "resultados/anteriores_v0_6/comparacion.json",
+      "size": 719,
+      "sha256": "36669be568289fb2b7a70debd73e407b7704093e0f886fb8cf855627b15eedde",
+      "git_blob_sha": "83250f47353efacf9373ef2aaffb6f93058daf5e"
+    },
+    {
+      "path": "resultados/anteriores_v0_6/comparacion_politicas.png",
+      "size": 36145,
+      "sha256": "79ff260835665bf67f6c12480b872bd6703c0c6455992b8f8cfffb189b358e8a",
+      "git_blob_sha": "621e60c3dce392dfca22129ef2964bc201336841"
+    },
+    {
+      "path": "resultados/anteriores_v0_6/comparacion_v0_6.png",
+      "size": 31843,
+      "sha256": "85fc8d640a8a94851c3bf1ed7f56de15437068a366837a0f242b0752bc014c0e",
+      "git_blob_sha": "49cc66313963c03dafdfbc1065e4eb0fd5bffd14"
+    },
+    {
+      "path": "resultados/anteriores_v0_6/convergencia_dp.csv",
+      "size": 815,
+      "sha256": "71ada7b1116b31359a68011be0355633ac77873b4a5fd1fb888a21ac8e231264",
+      "git_blob_sha": "9b551cd9d4d0b2070e48bd8c31b777c250c847fd"
+    },
+    {
+      "path": "resultados/anteriores_v0_6/entrenamiento_v0_6.csv",
+      "size": 1577,
+      "sha256": "dcc4c7675c8c94c44469639eeb4bc0aae85fc4af8d9348c9f84032963614bff7",
+      "git_blob_sha": "290b3c40ae713ac84ffbcf2a83b8483a8541a1e9"
+    },
+    {
+      "path": "resultados/anteriores_v0_6/entrenamiento_v0_6.png",
+      "size": 64010,
+      "sha256": "1302be07cf3d3b6b52d5cec34b671c4d52b5f1108b33d8a049f5d2248bff734d",
+      "git_blob_sha": "275315cf378894d3ffd4f0c47464f2de30bde3c3"
+    },
+    {
+      "path": "resultados/anteriores_v0_6/monte_carlo_entrenamiento.csv",
+      "size": 624896,
+      "sha256": "009efa5e24fada9d9311553806d66c7d8320f6f68e9496c831080474df515f26",
+      "git_blob_sha": "4cd96fdcaf2ac2b941a53a302ab6f4e0b04c4270"
+    },
+    {
+      "path": "resultados/anteriores_v0_6/recompensa_mc.png",
+      "size": 69202,
+      "sha256": "55855b948dea7a57101c62f39b26b131a94886e3583ebedbd4b67d8453b1540f",
+      "git_blob_sha": "805d09eb867006452980d01812a4e69b4ce31950"
+    },
+    {
+      "path": "resultados/anteriores_v0_6/validacion_v0_5.json",
+      "size": 460,
+      "sha256": "8da00d5960c59f6a531ea5a133d626426839971e402819d4a3fc7d23ac816b14",
+      "git_blob_sha": "46fc16b09e7dffbe92317b3f534984b3c9ba593a"
+    },
+    {
+      "path": "resultados/anteriores_v0_6/validacion_v0_6.json",
+      "size": 2901,
+      "sha256": "3fc4aa4808d13aca6b0008fe9dd05a9aa897917a0dbc1aa717dd8d9d1e073fd7",
+      "git_blob_sha": "7d2185572add887fe25d0765157d04f23b6cec61"
+    },
+    {
+      "path": "resultados/anteriores_v0_6/victorias_mc.png",
+      "size": 70333,
+      "sha256": "de5678f5e836513ad720470ab1b66d86b125a5c1c9f33a372e50515d28304e43",
+      "git_blob_sha": "1ccc4aca273a5b3250f7fbfcf6015bf7c569bc05"
+    },
+    {
+      "path": "resultados/audio_v018/00_controles.png",
+      "size": 766891,
+      "sha256": "a574ca1c06fd3b8dc309b252d865ee2300b7db4600c989d87feb3dc75d037996",
+      "git_blob_sha": "4a493a50ec397d8ddc531e003b848509d2915163"
+    },
+    {
+      "path": "resultados/audio_v018/Vista_Previa_Sonido_v018.mp4",
+      "size": 788943,
+      "sha256": "e56cf06cf3ae57dc51521cf95952bcc3c7e0ea9673f7cdf45841cc80688b0785",
+      "git_blob_sha": "1aabb9388e7cd6eac57a53951c2bd16190b135b5"
+    },
+    {
+      "path": "resultados/audio_v018/Vista_Previa_Transicion_v018.png",
+      "size": 639951,
+      "sha256": "cfe494a23e63130e423ba0b4a9badfd111ce5c5bdc3f897b300b5d4308587e11",
+      "git_blob_sha": "695ca4fc7eeb98f56dd08c53361cb301fd5d91ea"
+    },
+    {
+      "path": "resultados/audio_v018/basico_basic_attack.png",
+      "size": 720402,
+      "sha256": "d1c97568cea2d5ba7b6d32e7e9289e17ccc67f9003f9922c7f278c8370b3a41d",
+      "git_blob_sha": "f73f77fc0ee3242cdaf055b381d2a44e35616206"
+    },
+    {
+      "path": "resultados/audio_v018/basico_interrupt_strike.png",
+      "size": 721204,
+      "sha256": "bb065db013a4e6e11b7b3c30c95b1a2dcf734b1972f618b2324c5a28d29773e4",
+      "git_blob_sha": "68244736f262966aaf0170cd9f85c1824d9b6641"
+    },
+    {
+      "path": "resultados/audio_v018/basico_power_attack.png",
+      "size": 722779,
+      "sha256": "6b64748be5d5123fd14f0f9791d7f103987e376110ec462afffddbe8e1791a73",
+      "git_blob_sha": "c401a417a7f25fcf831ee66fa2d9cab066cbb3ff"
+    },
+    {
+      "path": "resultados/audio_v018/derrota.png",
+      "size": 433470,
+      "sha256": "31761d9064c4114387be812d03a0097756d088aecd96f8547bfe09c4717fc455",
+      "git_blob_sha": "158d2eb2001fd8c237cd70d84ece035815d43b01"
+    },
+    {
+      "path": "resultados/audio_v018/enemigo_death_claw.png",
+      "size": 724174,
+      "sha256": "277e07604a1ba06704a22ef60b24f397c1db227464d94d777091c099503e8edc",
+      "git_blob_sha": "238e1dafce46c81c7c79d23c359a33fa01e1ec07"
+    },
+    {
+      "path": "resultados/audio_v018/enemigo_electric_shock.png",
+      "size": 710619,
+      "sha256": "8868b62a413f84d6ec39b3a46f0ff0c9c250374cfc763f6d703b4bbcdc06e5c2",
+      "git_blob_sha": "23cd5f02fb5792c466101ddad049f8f846676d36"
+    },
+    {
+      "path": "resultados/audio_v018/enemigo_goblin_strike.png",
+      "size": 695801,
+      "sha256": "9afc5fdd2a21d05014ca168109a72cd9eded079b066dd771885d94db1674e716",
+      "git_blob_sha": "4eb59e48d41414dd2aa780e4175cc0436e98a186"
+    },
+    {
+      "path": "resultados/audio_v018/enemigo_haouken.png",
+      "size": 706671,
+      "sha256": "1139da85660a3ae118c8b3e1ff1d1e6f0dddee259569065dedecc32fbc1162e4",
+      "git_blob_sha": "2b860ec4510fc3ab763943525cf64aa3c95bdbc0"
+    },
+    {
+      "path": "resultados/audio_v018/enemigo_spiral_sword.png",
+      "size": 701357,
+      "sha256": "69f0486b507f7c93a34f1706b598123f1367131b2319b920d396a72d7f108c55",
+      "git_blob_sha": "a802b28efc8dc1ecccf6ea56c9ac5eb270a89ea6"
+    },
+    {
+      "path": "resultados/audio_v018/enemigo_trump_sword.png",
+      "size": 696451,
+      "sha256": "a7d15ca11299c8d3f7d539b7414b09a04d366f4b603c8da52b2188cafab89d23",
+      "git_blob_sha": "11347af19c2015a8cd026f403f344bc86e6feb70"
+    },
+    {
+      "path": "resultados/audio_v018/eventos_video_v018.json",
+      "size": 2100,
+      "sha256": "d30fa2e55a7b6b1ce00c7244da348931d8805ca63cb9a015bfa9f794c5f00c48",
+      "git_blob_sha": "2d8f117d485f4416f5f79b2bfe97d9fa9ff1aa4b"
+    },
+    {
+      "path": "resultados/audio_v018/evolve.png",
+      "size": 728606,
+      "sha256": "6e7cc3c3108b88b7c30c8f147d32fb20ecb15efbbdc946ae8c9e2c6ce48859d4",
+      "git_blob_sha": "40a84e13c499d46bf2149722eed57bdf67f68a87"
+    },
+    {
+      "path": "resultados/audio_v018/galeria_audio.png",
+      "size": 286723,
+      "sha256": "36d5b749773670d623331286debc1ffdd256460448b252937cd6e5f34f0b0e06",
+      "git_blob_sha": "c2c06fff187a94ed0fc7b017d3f79daf2ce9f902"
+    },
+    {
+      "path": "resultados/audio_v018/heal.png",
+      "size": 708991,
+      "sha256": "2cc1b81168773bcd0401d2656e4d28c74d8f21bd1187f70cdbc35fa2c7c44840",
+      "git_blob_sha": "157c89f35c0817440bf86768f26ebacc1c8c3438"
+    },
+    {
+      "path": "resultados/audio_v018/mixer_cerrado.png",
+      "size": 439773,
+      "sha256": "1b3b91408e76c5597ab8d07b002349cbff01ef00d9279184f03bfd761ec7e4b9",
+      "git_blob_sha": "af5c956f9253bbf403dc21d60f11f8b6129921e6"
+    },
+    {
+      "path": "resultados/audio_v018/pausa_transicion.png",
+      "size": 192046,
+      "sha256": "618ba009351b4c2b67cbd46a6bfa59dff5543eb1990c46ab8d09f5c79592b28d",
+      "git_blob_sha": "a7e1a133458a8dd59bf5fa36565bde92b0155eab"
+    },
+    {
+      "path": "resultados/audio_v018/silenciado.png",
+      "size": 725331,
+      "sha256": "c74039beb09266dd778e4b0441fae2671903ff2afdd717943b8a10c8618a77e6",
+      "git_blob_sha": "42afa44a73f5e2cc44af3ecf4d787246836b84d3"
+    },
+    {
+      "path": "resultados/audio_v018/tecnica_baby_flame.png",
+      "size": 696555,
+      "sha256": "b89d1e133b8eaaac7f546440fc75a90c3de7cd008c15b68d965e1c4c464a296a",
+      "git_blob_sha": "b19fb724542440c017fbd770e777d9841bf7ec38"
+    },
+    {
+      "path": "resultados/audio_v018/tecnica_giga_destroyer.png",
+      "size": 702736,
+      "sha256": "7b5acd68e5040543ed6c461b2b6f0c864b6ddb6992313491471b7c064490eaae",
+      "git_blob_sha": "f1e5af7a37e8a454644fe6abddd714aff4038cdb"
+    },
+    {
+      "path": "resultados/audio_v018/tecnica_mega_flame.png",
+      "size": 702785,
+      "sha256": "33de0b5c2f03bf5509bff2a8356aaf200c2aa880435c62e32b822089ab2c52d3",
+      "git_blob_sha": "706cf6d1fed889782d906f0b31f88cf3bf02da3d"
+    },
+    {
+      "path": "resultados/audio_v018/tecnica_terra_force.png",
+      "size": 693729,
+      "sha256": "86f756eb124aecbf121f71424cc188d711ebd1b1412edc99f02c8e314961b6e7",
+      "git_blob_sha": "c5ea8de82770f850c52766dd3b368d2f393bc884"
+    },
+    {
+      "path": "resultados/audio_v018/transicion_caverna.png",
+      "size": 663551,
+      "sha256": "20a6212c4bad83497357c166a06c633e4b1c99ed98647e0c8192cf50fd548566",
+      "git_blob_sha": "dcf76b733d93da18bce646c016a7000980cbd62f"
+    },
+    {
+      "path": "resultados/audio_v018/validacion.json",
+      "size": 3145,
+      "sha256": "e9d2839a6e5f89b900cb7c199257cce55a62ba8b6e1884405cbd4f8065fb329b",
+      "git_blob_sha": "615805d9d8cd36508c9b9b24cdcdef963ff55653"
+    },
+    {
+      "path": "resultados/auditoria_dependencias_v013.txt",
+      "size": 291,
+      "sha256": "52840fb2ff78f38c5e6a0061d8dd81e6945b9e93a14b02b4fca89e1eaf39d99a",
+      "git_blob_sha": "36a5ef7779f01729f5e557e2a4728be5b321dbab"
+    },
+    {
+      "path": "resultados/auditoria_dependencias_v014.txt",
+      "size": 291,
+      "sha256": "06fe086ad5546cd714a47be51b8654bad78889cfda6e79f57c29a2f655cfb4d9",
+      "git_blob_sha": "233be4da9e9890960d2504afe6640e2dfd43770e"
+    },
+    {
+      "path": "resultados/auditoria_dependencias_v0141.txt",
+      "size": 291,
+      "sha256": "0b8f77e87b530036f8592c1de8843823494c5e4c20d7ce093911592b6d6332a5",
+      "git_blob_sha": "f9334c006a6e36c4ed7d7c8325f85cb4c1d62d18"
+    },
+    {
+      "path": "resultados/auditoria_mc_v082.json",
+      "size": 1117,
+      "sha256": "74a02ef6611245c96c1549f93749611932b80d18f8c4712e8e83a8ac0b8bbb99",
+      "git_blob_sha": "c81e68fcbb12234e2a8d299f796f57c4b2ab03bf"
+    },
+    {
+      "path": "resultados/auditoria_sin_rl_v015.txt",
+      "size": 291,
+      "sha256": "a0aa65bdce9d782e2b629932ddda1303e06b7c2dc084d15e98b875c090d48bd3",
+      "git_blob_sha": "f826248770486c4d0dc5c7f8ab8bee847adb7502"
+    },
+    {
+      "path": "resultados/auditoria_sin_rl_v016.txt",
+      "size": 291,
+      "sha256": "dbf071f6e6a0249cae0f25dceac77e7f007a7a4d3dcb855b802486267cef6dfd",
+      "git_blob_sha": "ceb6524fbb106177e02d5ee45afd5055dd0ae514"
+    },
+    {
+      "path": "resultados/auditoria_sin_rl_v017.txt",
+      "size": 291,
+      "sha256": "5ad5d40f0cecf24b95d89516e2c4de3a8f4e61c7ddc4c28d48c59093ed409449",
+      "git_blob_sha": "2c5c106e44d781972b4ca6a375680379d4a8e7d7"
+    },
+    {
+      "path": "resultados/auditoria_sin_rl_v018.txt",
+      "size": 291,
+      "sha256": "b220f91ac97ba74ba52f4783c18bc27fd411843111803ead03c914a8c9ea98a3",
+      "git_blob_sha": "915677b2fcacbb65034c6aeb48fa1bd756938f73"
+    },
+    {
+      "path": "resultados/auditoria_sin_rl_v019.txt",
+      "size": 291,
+      "sha256": "1c2d4454a955c1eeab40477db56eb296c1a98b67c400019f3a3909d0f5da1622",
+      "git_blob_sha": "a4e4a707a4b1dc52191bd80dd09a0ed66c104afd"
+    },
+    {
+      "path": "resultados/auditoria_sin_rl_v0211.txt",
+      "size": 291,
+      "sha256": "9921131d47537de2fd07e43f36e7412e546915d0b75225d99a9240cdd299168c",
+      "git_blob_sha": "09b5d3ceee778434441c70004e7f232b6d10f21b"
+    },
+    {
+      "path": "resultados/auditoria_v0_8_2/aprendizaje_por_bloques.csv",
+      "size": 2224,
+      "sha256": "3df5a78385ba9443370a73ba81e224167dff26f9337a0a92323e108e65a79a4e",
+      "git_blob_sha": "40528c2a41463898d39a16240014c2425fe1ee8f"
+    },
+    {
+      "path": "resultados/auditoria_v0_8_2/comparacion_multisemilla.svg",
+      "size": 2884,
+      "sha256": "dd6681e76a0323c01308d5f5b65b5075b23529d7382ff06c7a9a62b9645e465a",
+      "git_blob_sha": "b4a2a842f40e4c7f8ccfce2ea535690ce3facc47"
+    },
+    {
+      "path": "resultados/auditoria_v0_8_2/resultados_por_semilla.csv",
+      "size": 1044,
+      "sha256": "8014dc25b4b9f71f1b9c1d29f54663106cb8cfbdba6762d53685e07d0532b365",
+      "git_blob_sha": "6009045ad262076a2c0871cac012bdfb07829dbc"
+    },
+    {
+      "path": "resultados/auditoria_v0_8_2/resumen_multisemilla.json",
+      "size": 5507,
+      "sha256": "c80bf686ece5769b7048970ea2d29630ea8997a70dde648b8c8187b2114050bb",
+      "git_blob_sha": "631eb363b0d83835b1805af2e48ad5c5cab3cfbe"
+    },
+    {
+      "path": "resultados/auditoria_v0_9/aprendizaje_por_bloques.csv",
+      "size": 2207,
+      "sha256": "c09fca9c0e1dd8d70c041d2b43dad1890534ed275434ae54b6e684d9e40e1d9d",
+      "git_blob_sha": "f4c42a709423878df50a5d7327c6e381a7bdd3d8"
+    },
+    {
+      "path": "resultados/auditoria_v0_9/comparacion_multisemilla.svg",
+      "size": 2884,
+      "sha256": "3f120ab3f0230152d0b4c038a33aa5fe3402042b58790193ed91e26d6639bffa",
+      "git_blob_sha": "264a04475b81f9a18e718378ab37e0409cea322a"
+    },
+    {
+      "path": "resultados/auditoria_v0_9/resultados_por_semilla.csv",
+      "size": 1046,
+      "sha256": "654a77189de12cdc024f1e7245b4e3140b818244a5277f7de62074e967a5a522",
+      "git_blob_sha": "c2aa61adc9ad3baa6bfb541c029dfad403d23cd4"
+    },
+    {
+      "path": "resultados/auditoria_v0_9/resumen_multisemilla.json",
+      "size": 5585,
+      "sha256": "90f1ae884c776c63b68c187325cf95b863443e2088a701246367e32f0ffc7d47",
+      "git_blob_sha": "7cca485b77d89a62f0c8c1bcdf2c2cd9296a0b7a"
+    },
+    {
+      "path": "resultados/balance_v020/antes_v019.json",
+      "size": 1584,
+      "sha256": "d2a8e2b61bebd3a7f343aec137d8489be39d5452893d2b764ba3655abd691c11",
+      "git_blob_sha": "0906be9fcf12aac7974bd0f7f92935b33f95dc4c"
+    },
+    {
+      "path": "resultados/balance_v020/antes_v019_reproducido.json",
+      "size": 1584,
+      "sha256": "d2a8e2b61bebd3a7f343aec137d8489be39d5452893d2b764ba3655abd691c11",
+      "git_blob_sha": "0906be9fcf12aac7974bd0f7f92935b33f95dc4c"
+    },
+    {
+      "path": "resultados/balance_v020/auditoria_sin_rl.txt",
+      "size": 291,
+      "sha256": "12027b79c6e6b82a7d4dce97b1062c21124ab4f44bbaf3918f13e815f5580079",
+      "git_blob_sha": "911921b3458e187cddc273a3e372cf0693140f7b"
+    },
+    {
+      "path": "resultados/balance_v020/continuidad.json",
+      "size": 975,
+      "sha256": "ec5b375d1a7987a6e110ce34ee9821d384402b7ab0738e9b7f5b0d81317d2bcb",
+      "git_blob_sha": "b33d849bc4ad314398e56547856d367a47b1dee7"
+    },
+    {
+      "path": "resultados/balance_v020/delta_dp.csv",
+      "size": 700,
+      "sha256": "f12d145f51848f5948731604f8af794799483e803d11ce7aa6800c2eb439c926",
+      "git_blob_sha": "df1e866505f8037de836347a7cac6436181d16f4"
+    },
+    {
+      "path": "resultados/balance_v020/despues_v020.json",
+      "size": 5645,
+      "sha256": "15eb63fdf576d423e013621bcf94d275da6c4ff731d0e97c99543c5ee1f4b8d2",
+      "git_blob_sha": "eee12918d12f3865f5584a15107e634627a49cb9"
+    },
+    {
+      "path": "resultados/balance_v020/entrada_juego.json",
+      "size": 219,
+      "sha256": "46d40d058081dbf1ec9103ce3f7c04fa931268c0e6308728859d7547ccad35cc",
+      "git_blob_sha": "feed571e9df7499436114f0854a076fc06623e8a"
+    },
+    {
+      "path": "resultados/balance_v020/fuentes_sha256.json",
+      "size": 690,
+      "sha256": "aacc4b81d61dbdbd1fcd1a29457ed8737aaddcaf4e33337301311d7e589781c2",
+      "git_blob_sha": "0b6b1231fc6a1df46a6fb066d4c100b26aebe042"
+    },
+    {
+      "path": "resultados/balance_v020/informe_historico.json",
+      "size": 707,
+      "sha256": "a78c39fbbfc31e56ad47f7da1b74a55de6d77a4ec492851a85ec6bb5b8be6102",
+      "git_blob_sha": "60c46f64817642036cd32f87d18f860e9b918bc4"
+    },
+    {
+      "path": "resultados/balance_v020/interfaz/piedmon_9ps.png",
+      "size": 723037,
+      "sha256": "f745cb4ef0ed34026cb63df3297bc464ab5cedadca5e0add862fd4b1b6a54a09",
+      "git_blob_sha": "387cf21824187ecf566614cabd13e41e6801c093"
+    },
+    {
+      "path": "resultados/balance_v020/interfaz/reporte.json",
+      "size": 437,
+      "sha256": "f489124f890cc3441ea27d6c6cf3dd12af32a97fb183ba540e2d21eb27eccb3c",
+      "git_blob_sha": "f9245c021ce667eaec1c45f77ddcc27c49e05f25"
+    },
+    {
+      "path": "resultados/balance_v020/interfaz/victoria.png",
+      "size": 454834,
+      "sha256": "c1dcda9083733f81d98fb73970eda3260fcc13cd72cd742cbdf3cf1ced49a6e9",
+      "git_blob_sha": "8b1928dc71130f7acd55f84b0847b0a9fe7e776b"
+    },
+    {
+      "path": "resultados/balance_v020/interfaz/wargreymon_vs_piedmon.png",
+      "size": 722241,
+      "sha256": "d772d449af3a13adf698b1ab379cf1de8a7c08049883b17181faa2de5360348a",
+      "git_blob_sha": "a17c7aaa7ebd2f71eff824932adedf1e221cd1ad"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/01_inicio.png",
+      "size": 398074,
+      "sha256": "4f455672b9ff0202e1d36f06ff502707784bf8bfc47910056cfe186a96799f23",
+      "git_blob_sha": "8a7bd0bc3002f8b9b9436af8d8e2577ccd4e7873"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/02_mapa_manual.png",
+      "size": 762015,
+      "sha256": "26e295cd8c03dea23e2d45822515a5fad5a911595b2aff570eb4af3f38c405fe",
+      "git_blob_sha": "e3f4189c860112046491788e4f20cfcfec4f950c"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/03_siete_acciones.png",
+      "size": 714541,
+      "sha256": "b01650c1f3488ba60208489927e0faa686a95c456afc056eb5409133405ae171",
+      "git_blob_sha": "7cfd3d7b736a252a25f3f120734ff2a55bb70ccb"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/04_forma_0.png",
+      "size": 708378,
+      "sha256": "c01dd74cb6308fd9ef21ba4dde013c8c2af9aef4125e9dfa453288051da160c7",
+      "git_blob_sha": "25282dfd83fe435bb33a1362f456af578e0fc275"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/04_forma_1.png",
+      "size": 717513,
+      "sha256": "ead1bb9204cd7e196141caa0bf7ba0c5540d606864fac177c3116c6bb2bf8a60",
+      "git_blob_sha": "f97c28728c2b08d13b62e4a51439ab5a89c7d47e"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/04_forma_2.png",
+      "size": 714541,
+      "sha256": "b01650c1f3488ba60208489927e0faa686a95c456afc056eb5409133405ae171",
+      "git_blob_sha": "7cfd3d7b736a252a25f3f120734ff2a55bb70ccb"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/04_forma_3.png",
+      "size": 713824,
+      "sha256": "edc9f18b2edc93da56bd92d41b655ed228bcd738d67b118ba799fb943f57c70e",
+      "git_blob_sha": "758ec12b891628ab4d612efd307752ffa3f9692a"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/05_laboratorio.png",
+      "size": 99221,
+      "sha256": "161cf757980f877a39e9c8853a0f69010cc9790367bcdde7446edcac53e05dca",
+      "git_blob_sha": "6c00f6a8f642f7ea3f71b49c0d60fd7fb13c547a"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/06_resultados_0.png",
+      "size": 64192,
+      "sha256": "db92bccab742c966f949d914bc321ba283fe4ba9029e9dd499c669440c05ee5e",
+      "git_blob_sha": "fa2949dd27e02af63b7cf1ea83860af5bf8b1574"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/06_resultados_1.png",
+      "size": 60933,
+      "sha256": "71fbed4eb6bfddad98d31696c2ad82b7cc934a4074fced9dc7f6414fcc959f52",
+      "git_blob_sha": "ac0c039ca11181055c822bb938046c84b8e9c731"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/06_resultados_2.png",
+      "size": 60406,
+      "sha256": "e1a932ef7662b05e482d95500960e11e9f917dede9e766d188b2130942e9dd6c",
+      "git_blob_sha": "da04ff9ba928fbb236a7e2ce43151e3eb43c21de"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/06_resultados_3.png",
+      "size": 60941,
+      "sha256": "39a2f5920e1968e18fc8d26aa1d2cc18c8a1dda8cd1c57424a915b6655e5fcad",
+      "git_blob_sha": "c5d8cb22536c261f4bef001a0e54acc10d47cbae"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/07_presentacion_0.png",
+      "size": 49250,
+      "sha256": "ae8f1b7310d6e014b52799ec6ec427b2b172a077fd762e9bdfe855731eefb328",
+      "git_blob_sha": "f258816c8ca1f839d6743bc3ca2d402a66226b49"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/07_presentacion_1.png",
+      "size": 48114,
+      "sha256": "c41afabb62f3b3c2f925c99528a6d7720cea820705f92de7e1af489080114df0",
+      "git_blob_sha": "ee83ce7cd54e654a12d5ce6d6b71ef698eb547fa"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/07_presentacion_2.png",
+      "size": 48251,
+      "sha256": "eccd37bdd652a3cb5ba9e8b43c1d5418167738a36f665db433eb43e1c5027d31",
+      "git_blob_sha": "bd857dc85f4fb4ee89207ac0fb7db8e80dfe8887"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/07_presentacion_3.png",
+      "size": 52139,
+      "sha256": "59849e2fb8135a02b7ce0d227f1081f53b96d757fb5da9e16e1c72faca0d92cd",
+      "git_blob_sha": "9d2b9d8fdd029b47df5bb52d9c4998ef4475de65"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/07_presentacion_4.png",
+      "size": 52108,
+      "sha256": "19f036446abe0d4eda886a5bcb42062158840fb231f038d952bfd515be9e2cd0",
+      "git_blob_sha": "2b6937548d487e63f98f23ecd00856f358c8379a"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/07_presentacion_5.png",
+      "size": 53475,
+      "sha256": "2695d3eee3aadc71d50649dbff9c0dedadee9c8a0bfa611efbbe5f06d1103e44",
+      "git_blob_sha": "eae817400c3b00fe59a47cea2f40e7be09883a23"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/08_final_dp.png",
+      "size": 706666,
+      "sha256": "4310c72512cb4c65463957ab8cfb1790cffbbe02194444da57bfa836fdaf453d",
+      "git_blob_sha": "c84f50df4328e55ec82a5d059b70248034977bf5"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/08_final_mc.png",
+      "size": 703747,
+      "sha256": "3a61c6ff3b46821c46ef6058adab2e4adf4ff556e3a274ecdee17a8e6da545b5",
+      "git_blob_sha": "f4a31d5688d12c0d7e1b2e0c3a87f4d0ffb15c9f"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/09_derrota.png",
+      "size": 703354,
+      "sha256": "10f59a9d1e7f1194cbbdd2406b86e18c866b710df65de73424ce513aa945a5f6",
+      "git_blob_sha": "28e2d4ea4eeaf89029c4ee930081720d2ec4d3d1"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/09_victoria.png",
+      "size": 703747,
+      "sha256": "3a61c6ff3b46821c46ef6058adab2e4adf4ff556e3a274ecdee17a8e6da545b5",
+      "git_blob_sha": "f4a31d5688d12c0d7e1b2e0c3a87f4d0ffb15c9f"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/10_ayuda.png",
+      "size": 259456,
+      "sha256": "bb1d9b6dec19404a72f52f301f22f4cd8a9513ec0b792d385688ea71caf35d19",
+      "git_blob_sha": "2be9ce6426c02adf0d768ce4d3bf92860a73e78d"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/11_creditos.png",
+      "size": 258176,
+      "sha256": "058c27067823cb855b606708f2f5cceb6b7005baffeabd6e8624dbfb38ee20d3",
+      "git_blob_sha": "bec73a9eccb2a4d4c959a932888a50f56ad5de89"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/contacto.png",
+      "size": 928647,
+      "sha256": "cd46ec48158a7f62d0019511ecf096bd5ebb891d26ddd35fdc7e31b075963020",
+      "git_blob_sha": "c48a286d85901a2472f83971e25073ad15ab41ad"
+    },
+    {
+      "path": "resultados/balance_v020/qa_interfaz/validacion.json",
+      "size": 1460,
+      "sha256": "258ee9fb0881678d14e95ca6699a70e478ba2f2fafefabda23f89d96ad945f5a",
+      "git_blob_sha": "ebb44d20a58ac000d3bc5d9874a7eab38a19e92b"
+    },
+    {
+      "path": "resultados/balance_v020/verificacion.json",
+      "size": 462,
+      "sha256": "e8bbbfb21cd680796fcad0c27a2640b8e2258a7aaf32f1f9028d5dcadd6b7e5c",
+      "git_blob_sha": "55b2cd9e2a05be4f275b21e7c876e9e7a853065a"
+    },
+    {
+      "path": "resultados/balance_v020/verificacion_historica_v021.json",
+      "size": 493,
+      "sha256": "306dbcfac855333ca52691abe77571c5c5418d1be440155412967a23c666afd3",
+      "git_blob_sha": "d5ab9ea57213c1b6676929fbcf851131533c60c5"
+    },
+    {
+      "path": "resultados/balance_v021/delta_dp.csv",
+      "size": 821,
+      "sha256": "52acaa189ef3dc45a80afca10dc640c41e62b0e3a68c887e20044c6ce8fcd74c",
+      "git_blob_sha": "bdfa506e210e6ee2a7b3ed19394fba9e43ac6efe"
+    },
+    {
+      "path": "resultados/balance_v021/despues_v021.json",
+      "size": 6004,
+      "sha256": "7d38bf33cf82bbc5cd6333fec75d26e752b8175265d67be312dc86b1319daffc",
+      "git_blob_sha": "f16e32a067f2c63f2c931816d6a39a02e8308117"
+    },
+    {
+      "path": "resultados/balance_v021/fuentes_sha256.json",
+      "size": 690,
+      "sha256": "c115db03f33639595d4a2f6060a3e49578303ecf4247812fb3c2b648610989f7",
+      "git_blob_sha": "b4531e36722433cca23f9eb26817711c2668a16e"
+    },
+    {
+      "path": "resultados/balance_v021/interfaz/piedmon_9ps.png",
+      "size": 703045,
+      "sha256": "4ec37e766d0426bf0f09ad44db312ec0ef2fdfca622e7db469af2ba195c965ff",
+      "git_blob_sha": "e8d1315cff679a7c5d93bb3991a7da149717f9bb"
+    },
+    {
+      "path": "resultados/balance_v021/interfaz/reporte.json",
+      "size": 438,
+      "sha256": "5a62c74d1adcd842f1d3963d1cd7a7d57f7fe560ace2178ac23dfa1707860e3a",
+      "git_blob_sha": "741b5f05ec31af89c84fdb46c598a6c66ce968fe"
+    },
+    {
+      "path": "resultados/balance_v021/interfaz/victoria.png",
+      "size": 449984,
+      "sha256": "b6842c75c360d6b16b34e0a09080069fc4cda21c2f80998a588efbf1b3e90325",
+      "git_blob_sha": "817b7de0a0dea9e5eac8e652c70d380bc93de272"
+    },
+    {
+      "path": "resultados/balance_v021/interfaz/wargreymon_vs_piedmon.png",
+      "size": 704000,
+      "sha256": "72ad9a5ae24b438dcb30cf3cd72b88598a755f4ddfcdec13fcfb68720363ad09",
+      "git_blob_sha": "a63dcb411c28d27d5290d3aa16187ae617726bf1"
+    },
+    {
+      "path": "resultados/balance_v021/verificacion.json",
+      "size": 463,
+      "sha256": "7976eb3a03cec33df8624a8a209cc920223331db5d356ad0fe5c25e39e7d71b8",
+      "git_blob_sha": "4d903e5d348406d002790a87e897e5711b9b1a3c"
+    },
+    {
+      "path": "resultados/basicos_v0141/Vista_Previa_Basicos_v0141.gif",
+      "size": 1051426,
+      "sha256": "21a393e8f593284192f7ee529e75b4fba6ea9c1aceef3eb2e9cdf657672ddf6c",
+      "git_blob_sha": "ae5923ed237ea12b2cb22cada780d39a6db79188"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma0_0.png",
+      "size": 116372,
+      "sha256": "c6b54051ee1c72bfbfb36d7f0a137809ab2e82046f326b9094f7e320966364cc",
+      "git_blob_sha": "705729a2ac76346f6fafc89550844ca364c2d30f"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma0_1.png",
+      "size": 117562,
+      "sha256": "93558ce5f4d7a37e7f8fdd4e11205384bf7dc69cf6696748898fd413033cacb9",
+      "git_blob_sha": "8692143711316093bea8d3f891754141a0c7143d"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma0_2.png",
+      "size": 119717,
+      "sha256": "a35f93e5067df88a192cd7e0eb0823fbb0ec7a0cc7f3d56c29e1107b404bac88",
+      "git_blob_sha": "d86814e2a6e4d06d58b58f15b9ed3c41083f41bf"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma0_3.png",
+      "size": 119082,
+      "sha256": "6ff230bd92fdf6eabe74defe16a2cee0d1dcce87bd8a3fa9dd371fd8a961000f",
+      "git_blob_sha": "574a78db68eded916b081e074f75e72c3a681d0b"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma1_0.png",
+      "size": 112583,
+      "sha256": "90842bdd20db3f0eca02d8b48f8d953d7901062e4239844fc7759612fc5e0d0b",
+      "git_blob_sha": "d4eb620695ca891afba08fbebe31a57537a0cbcf"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma1_1.png",
+      "size": 113612,
+      "sha256": "eafd16be648bd7e7cd7dc07e308228515a9a460bb44129a9a8719b722ded45c4",
+      "git_blob_sha": "4d2d369ac4989a3224ee314213066ba2d24553d1"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma1_2.png",
+      "size": 115804,
+      "sha256": "0873c88881d3ed580d3970401eee27ff40392aaa4fc898f22736815540b2b323",
+      "git_blob_sha": "90996b6a160b26071313a2b3d133084b51ee4b3c"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma1_3.png",
+      "size": 115318,
+      "sha256": "6875fc5906b76e96a2d969799bbab31ec65650e59a58f626c9f505e4e0ad582b",
+      "git_blob_sha": "461f54d65f12244cdbf2aa11d10c0d39adade704"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma2_0.png",
+      "size": 113540,
+      "sha256": "db4dc04a957dafcf95e78a0f7e1c38325f5dd8be8706bc9c54bca00daf084544",
+      "git_blob_sha": "de6d7913152d2bfde366a92641309d22a3678897"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma2_1.png",
+      "size": 114594,
+      "sha256": "fd04120cdfa316b63928f7c175a64e87a61a3d7ae507a4775dd683c304014304",
+      "git_blob_sha": "fd681691d930c9492cb057961725be9bfba7b306"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma2_2.png",
+      "size": 116743,
+      "sha256": "a435f20dd22f5af1a6223c57deaa25f423d74be9218f7de312bf7b998c1ae987",
+      "git_blob_sha": "4f74d2c6923483e9b75c13fb423eb781cd1a7e09"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma2_3.png",
+      "size": 116341,
+      "sha256": "492e548dbda8b13c2940682e182ad2d4d97d70edf4470992dcf9fd8b2a41de1b",
+      "git_blob_sha": "9e0a0cfbf69a8c8fdccb7a6607f8a9f1358182aa"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma3_0.png",
+      "size": 114195,
+      "sha256": "a95df551f5256e26b3cc8cfcce13d1c81379b47d826faa103ea4e4151656f7d5",
+      "git_blob_sha": "a66357552b4fa856d5482286f1c9ca2e664e7bc0"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma3_1.png",
+      "size": 115306,
+      "sha256": "1dd5aff8705943c07be3ec26a3bc6af49e235b5e361a747036e939db8591e888",
+      "git_blob_sha": "ca7ddf54d7c86d796b2ad6014e9f3d3cfa2386b4"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma3_2.png",
+      "size": 117365,
+      "sha256": "c71696a56149f086557615bcde28d11871002c58c2a76040443b1813e845ef9c",
+      "git_blob_sha": "17ca1fb7a0c0cd70a86f53553d2d03da7fcb11a7"
+    },
+    {
+      "path": "resultados/basicos_v0141/basic_attack_forma3_3.png",
+      "size": 116845,
+      "sha256": "4fb6783f948c92e3a632b54c114c8aa8c7401ec3805a3c51c5f0a7838e2f008f",
+      "git_blob_sha": "ce5fce686b31608d712dff0945baab0fc500f8ff"
+    },
+    {
+      "path": "resultados/basicos_v0141/galeria_baby_flame.png",
+      "size": 78919,
+      "sha256": "d7050a4ea737a3259174c2790e339096a28353b2593c68acc95a2fbfb1eda528",
+      "git_blob_sha": "504f1997c6f31e37e8344a469bcd4ca2b55cde7a"
+    },
+    {
+      "path": "resultados/basicos_v0141/galeria_basic_attack.png",
+      "size": 85101,
+      "sha256": "aa6773be5df9644acbd63cd87d032bd53bfa8fa42aa1259affbb713da9c284cb",
+      "git_blob_sha": "16623fa674ac5b7b9b10b8be5c62a41f53ecc91d"
+    },
+    {
+      "path": "resultados/basicos_v0141/galeria_death_claw.png",
+      "size": 92196,
+      "sha256": "768dc7e5747dea3b6b5eb14f6dbeb7b1f11b2a6b3d8bb7b9a0e14ed716624f91",
+      "git_blob_sha": "ca957726c4817a9be01b44f90892f597f1f108bc"
+    },
+    {
+      "path": "resultados/basicos_v0141/galeria_electric_shock.png",
+      "size": 96553,
+      "sha256": "d48619277192f1065d244a29802b0097ddc2634fde50bfb81923382c739d1186",
+      "git_blob_sha": "ab1304548a0084dab7d40042e346690ab5b52e6c"
+    },
+    {
+      "path": "resultados/basicos_v0141/galeria_giga_destroyer.png",
+      "size": 87677,
+      "sha256": "119bb955de199604039ee30aa06c9591804868fc9115bcf932e07c2c6b22036a",
+      "git_blob_sha": "4a0367195c89824a4872f1de60d03188d3f067a0"
+    },
+    {
+      "path": "resultados/basicos_v0141/galeria_goblin_strike.png",
+      "size": 94101,
+      "sha256": "f33cbaff9abf6cf8be7ddb19ec6f2e7c94b91ae1bd098cb7cb3d58a9d10a3596",
+      "git_blob_sha": "885f3aea7d511b4c7022ace6a8d6e936f37fdcac"
+    },
+    {
+      "path": "resultados/basicos_v0141/galeria_haouken.png",
+      "size": 96728,
+      "sha256": "fb4f690fe51acf124109dbbca0c8275f530491380026422c1a97615ff59179c8",
+      "git_blob_sha": "48a4b20eb210d344979d728cbce07b16a7d9fe93"
+    },
+    {
+      "path": "resultados/basicos_v0141/galeria_interrupt_strike.png",
+      "size": 81201,
+      "sha256": "76f44b90e00ad72e342f11cdaa53943e7b92328719f23da4c8258e1ae543160d",
+      "git_blob_sha": "c6505ed2b55610267acfc60b570d20265d59bcef"
+    },
+    {
+      "path": "resultados/basicos_v0141/galeria_mega_flame.png",
+      "size": 98050,
+      "sha256": "a6618b28cfbd33f3d7827acc4ad61bc97fed1dabf4a61c3eaaf784b5f0346298",
+      "git_blob_sha": "c35362be5c7807f7a5a674ea6391d389b0c9f02f"
+    },
+    {
+      "path": "resultados/basicos_v0141/galeria_power_attack.png",
+      "size": 95031,
+      "sha256": "8cb2c77d71ef46ff0cca185d28fdcc644b4c37dfa558ef4dd6c51c2459b88e56",
+      "git_blob_sha": "e349747b7cebf430e43ab390be42255818e4bc25"
+    },
+    {
+      "path": "resultados/basicos_v0141/galeria_spiral_sword.png",
+      "size": 125970,
+      "sha256": "6d6b822aa9254eb2ef5b512344443ae7cc96a8a1361350211617e578b609342b",
+      "git_blob_sha": "a5822c79f2dc64cd7db3942b9bae4fff6b8602a4"
+    },
+    {
+      "path": "resultados/basicos_v0141/galeria_terra_force.png",
+      "size": 94822,
+      "sha256": "2a84826e9e08cb44f89d0af5b5d50fdb6273bc5561cc7c24cba6e2f63310d148",
+      "git_blob_sha": "801cc698d2a3e70bc2f7b7e0e0d975680b4fdcdd"
+    },
+    {
+      "path": "resultados/basicos_v0141/galeria_trump_sword.png",
+      "size": 93227,
+      "sha256": "688885598c18cdac411b4e275ebe35cb17f61fc3fe01abac46a7e4fa0f31bda5",
+      "git_blob_sha": "aa572dd93aa8a61c1828556d54c1fa1812d07827"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma0_0.png",
+      "size": 114396,
+      "sha256": "25644307af07db07b6830bc39430b78d702be9f990809ec04ca7ce1e3d671ed2",
+      "git_blob_sha": "e54b0fd6c6f9019005293b32b8b8fbe6cb02ee18"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma0_1.png",
+      "size": 115501,
+      "sha256": "0f4a63493d6077a787ce5df2310f67d13fc873ab1d17162c15de68454712a1d8",
+      "git_blob_sha": "0324fd00dd8ede92d0e7ffadd123959d176b1a4d"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma0_2.png",
+      "size": 116557,
+      "sha256": "03e892aeda2e054e58c89d2f8489be99fabc22c90bb85fdc0363f401a2af100e",
+      "git_blob_sha": "a64232fb802118f8c40e688cb398e9e98874af23"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma0_3.png",
+      "size": 117571,
+      "sha256": "095e0c0be92c76756a2ce6aff15aa7c7f803e4b760b60890a4df6c08ec471b05",
+      "git_blob_sha": "83bbc011b49aefd0fb8f5eaa541479b0f821164d"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma1_0.png",
+      "size": 114569,
+      "sha256": "50a1322ceb64eba25fafff53cfea1491d44cf260749e26bee8ad8644ea04a11f",
+      "git_blob_sha": "30178fd409e2c0cd2ce96bd4eef6c4747382e6c7"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma1_1.png",
+      "size": 115551,
+      "sha256": "ea7f0eff3c34b4abe5c53f3fb1815c3e72807df833b3833b155d3e0fbf539227",
+      "git_blob_sha": "e2c8e338eed7eea6067557a1d165887a701c5fb9"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma1_2.png",
+      "size": 116496,
+      "sha256": "39a0c1edcb64ce3544006b0d0da83c4f0be13099fea24cc327acba2213af798e",
+      "git_blob_sha": "bb56a8f5579a8e4105f1287c38792cceefd7c3dd"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma1_3.png",
+      "size": 117585,
+      "sha256": "888fb92d133c9e445a788e86c577d19fb2c6eb00b4d236a7472e92a2251b73c7",
+      "git_blob_sha": "62a4aa3f184b6a2e93570b4b0ec8fdd03bc92265"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma2_0.png",
+      "size": 116278,
+      "sha256": "99bc3a5d01caaa603700b59f6dca8fddf361725e73bf1748493dd232b9a0bd10",
+      "git_blob_sha": "99991f29cedc770c5efbcc8f3d8b1c94d98fc313"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma2_1.png",
+      "size": 117144,
+      "sha256": "cc1fd95c601ef76c6adc4c9369e95cf8261661627a535d00a62b388f0b9e76ef",
+      "git_blob_sha": "6a3c3c671cebd5664ab70097b33b401187c344c3"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma2_2.png",
+      "size": 118093,
+      "sha256": "438f9114153674ef52199112c55f423be69fce9e26b0e02efb090ccd3462a855",
+      "git_blob_sha": "8f81ea2c8334d424227cad48208c1d6eae2f2319"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma2_3.png",
+      "size": 119244,
+      "sha256": "da22484f7dfd0795d5130db045fb184409bd6788423d4dcc53b1fa69c4ba8d39",
+      "git_blob_sha": "d428a758d25a7e80651d4ee9c20859591858c18c"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma3_0.png",
+      "size": 115338,
+      "sha256": "04b77e89a031611149378e0d90d73002f668544d5844394d45d501c5ed0ddca6",
+      "git_blob_sha": "e1307c3fd25082b2be9d3ab181f393876b883893"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma3_1.png",
+      "size": 116249,
+      "sha256": "0a5d3aba087aea5b0ddaf6edc849cade101708786ca4fe76bc96dc4bdd4631d2",
+      "git_blob_sha": "7744fe5e49134f38cc8072b968012495c3892b07"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma3_2.png",
+      "size": 117157,
+      "sha256": "1a025e652607deb36413a98736adeeb732f76580db400c691f3e8ee51f4805ce",
+      "git_blob_sha": "4909c7a659779d23672ecfe24c81c6d9cd32d4e6"
+    },
+    {
+      "path": "resultados/basicos_v0141/interrupt_strike_forma3_3.png",
+      "size": 118237,
+      "sha256": "8bf46a4c57eea52606f8f643068e73d92d602a82a4434622bdd753a72b7ca13e",
+      "git_blob_sha": "93524818237d85219b6757e94e8966ecab661bf8"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma0_0.png",
+      "size": 111780,
+      "sha256": "a88f437e78c045f61d4d2cfda3db1bf74a19b6aab19e9cadd34b300dfaf30292",
+      "git_blob_sha": "7e75b821942018f32f303de23737d54ee57c457c"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma0_1.png",
+      "size": 114680,
+      "sha256": "9bf33a1fdf68178d36cc0cc5a898813abe1c0b0cd6bc87bc6ff4cddf18b49344",
+      "git_blob_sha": "80293ad5dcc7c9531631e3938fe65e1ba300de38"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma0_2.png",
+      "size": 115980,
+      "sha256": "566dbb2064d8f541cf933540970efd3ff63bc3fab42489ce2f302f692e91ef00",
+      "git_blob_sha": "82614c39755991fc7a9c83f266d3f81028ef5a9b"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma0_3.png",
+      "size": 117962,
+      "sha256": "30604ae8b30b5dd39be1af842fd532d193ecbd968e2a45b81234a28b2f0b857f",
+      "git_blob_sha": "a920867f6f3ac9b07ee0bbf5730ed818830cd380"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma1_0.png",
+      "size": 113399,
+      "sha256": "e063d431c2cb230e7412ada164d658d7e8f945bdba6b52f0a909a9095e71eeb4",
+      "git_blob_sha": "2d3c7e39572ceb7edfc6f52428471f5ca1fcf5da"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma1_1.png",
+      "size": 116431,
+      "sha256": "970f94b6bac93e2fd018490e445d06ca0ed158d5ddc2c98f44c8c6189e53b3bb",
+      "git_blob_sha": "d0002daed5797fc02ae2f8c70f473b4303486eab"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma1_2.png",
+      "size": 117490,
+      "sha256": "006767e1c12944ee37f4985fb56a18b60b76565fafda394f0b96a4f2fe4f8879",
+      "git_blob_sha": "b9cf7c76c054bb4265f3b0a1c856b782a0ff6c33"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma1_3.png",
+      "size": 119449,
+      "sha256": "03a3f16539b821a7bb320b77adab38e746e11823cdad9c898b9008eb09f6220e",
+      "git_blob_sha": "d2c4a402a645b83ef709058f1704ab515521874d"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma2_0.png",
+      "size": 114448,
+      "sha256": "af79a51a36c6eaad9f7f8bfb96f475e275f1e6c6312f1ae1b0e2d092bad45d61",
+      "git_blob_sha": "bfd43d876be980a687dbfc7f520f160ed5deb384"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma2_1.png",
+      "size": 117264,
+      "sha256": "4297d18932b14606df8076baaae60c3770600d23aa0f790426f4fadfeb0a0eb4",
+      "git_blob_sha": "453e056fbad818237178316bc78c5ef4b1059d4a"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma2_2.png",
+      "size": 118545,
+      "sha256": "721cec92f31f0db0dcb73d214f7e03412ccba13836119631f0dcb836cf823bf1",
+      "git_blob_sha": "afed4cc2f45f0aafa6425be6bcc81d247d6bd5bd"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma2_3.png",
+      "size": 120587,
+      "sha256": "284e797e6bd44df2e21e93acc2ad0915aacdc2e9c77f1679b5f4142dfad171b6",
+      "git_blob_sha": "e595e74c3702805862a9529a0aee56ed6cfbc5cd"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma3_0.png",
+      "size": 115204,
+      "sha256": "0b758a7d900a9a6a22fe3472ee178ffbd3474fd7c3d6d6d07785fde3295f29c5",
+      "git_blob_sha": "a66f276281a263b3b59f421fc700063318e2b2be"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma3_1.png",
+      "size": 117973,
+      "sha256": "71ed4c219f2cfc6fb72a19e70552d0586e5d9130384def487c4a407be2924999",
+      "git_blob_sha": "561d6645ecaf9c669d6d0efcf54ddebd7612f070"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma3_2.png",
+      "size": 119124,
+      "sha256": "3d311ba3075ccad3f02e2ab2c21fa111e371e8e654e30dda19bbecf8ef1ed895",
+      "git_blob_sha": "25c72ea95a33c1befcc72aa39536ca48217d73bb"
+    },
+    {
+      "path": "resultados/basicos_v0141/power_attack_forma3_3.png",
+      "size": 121129,
+      "sha256": "ddec49daa300f83fecab5845026112835cbb0ec64a3ff4670b5a0d5c351de48d",
+      "git_blob_sha": "db44685204bb2d7d8c3026cc64db0d2211b7d422"
+    },
+    {
+      "path": "resultados/basicos_v0141/validacion.json",
+      "size": 3560,
+      "sha256": "09afcf37b463099fd8352ad7b476e268c5a98270c5f1244a71dd25677d2b886d",
+      "git_blob_sha": "33a55ccd96ff8e664a2c4ec5fdcf7e122ddea2d0"
+    },
+    {
+      "path": "resultados/cierre_informe_v022/cierre_documental.json",
+      "size": 862,
+      "sha256": "63f80e634a3cccee0b9243047a91b08c135ff67be163f714ac07ea673ffbc7c4",
+      "git_blob_sha": "182689b4798c22d66fd790531171189ea9ed80d9"
+    },
+    {
+      "path": "resultados/cierre_informe_v022/verificacion_informe.json",
+      "size": 770,
+      "sha256": "b1f274363d043015dcb59e0cf73b2d0a93dc00a05d57515b647c14011aacf310",
+      "git_blob_sha": "cf8b1042defb9eb49997a22f19e5b085040febda"
+    },
+    {
+      "path": "resultados/combate_v016/Vista_Previa_Combate_v016.gif",
+      "size": 5054158,
+      "sha256": "6706cc55a45c1177ee20ecd6a156adbfa25c39dedae4994cfab610ec75a3f57a",
+      "git_blob_sha": "830636d8bd5a0087fa3ce1c29e5dc52d247442d5"
+    },
+    {
+      "path": "resultados/combate_v016/Vista_Previa_Combate_v016.png",
+      "size": 547236,
+      "sha256": "ac73e2bc1df710eda531d6a765b6049f0f23eb78e2c919859f747023552bf85d",
+      "git_blob_sha": "736b0ac9f9369f701991eb95f2e00dd1e48b8ca0"
+    },
+    {
+      "path": "resultados/combate_v016/armadura_0.png",
+      "size": 191130,
+      "sha256": "fc4b46c5837752d25315ea80936861002af2399c0db88408d515de5426117b2a",
+      "git_blob_sha": "fb78be8ad226d59aba9cad01e213f76906f04c2c"
+    },
+    {
+      "path": "resultados/combate_v016/armadura_1.png",
+      "size": 193517,
+      "sha256": "0bf6907ae6e9174a9ffeee8ae0451d15ab531461b852b77aaafa023a4c19e857",
+      "git_blob_sha": "3fcc6f82021d5a37991d17b417b2b9506d07f2cc"
+    },
+    {
+      "path": "resultados/combate_v016/armadura_2.png",
+      "size": 194960,
+      "sha256": "47c9e6e6f13af8d439f091d8bae7ff0eb1d1883f4d156b68f3ff6a30085da696",
+      "git_blob_sha": "933005cdd6bb1d5c2401d34f79f3a43c7a03cb4e"
+    },
+    {
+      "path": "resultados/combate_v016/armadura_3.png",
+      "size": 190580,
+      "sha256": "4eaa15f4de6e7b70b088769ba0eec1bd0c52e3bcd1ee3675a41794148564d18b",
+      "git_blob_sha": "38c4cc47b2fe225dae1dd3e58e1e465c84b19ad6"
+    },
+    {
+      "path": "resultados/combate_v016/defensa_0.png",
+      "size": 193440,
+      "sha256": "2b10501b9689a1ca225b7e32a9bb8e65bdb469850c0115b6a0d6caa4018429e8",
+      "git_blob_sha": "7e328a18e295f30055dbf234d0f5bab562962bf1"
+    },
+    {
+      "path": "resultados/combate_v016/defensa_1.png",
+      "size": 194160,
+      "sha256": "341a2c831bcc3f11330dedbb50f62e3d492c16ddd3547e5ce06694e4bf58f112",
+      "git_blob_sha": "a74ea0599b3cf2ae182adf28ec798963e71196c6"
+    },
+    {
+      "path": "resultados/combate_v016/defensa_2.png",
+      "size": 196758,
+      "sha256": "2ac8a5981189910048e44cb843e6066993ce29b148962657100017b7a176af68",
+      "git_blob_sha": "b6707d37a413a320dc1593dbdaff5c8758acc28b"
+    },
+    {
+      "path": "resultados/combate_v016/defensa_3.png",
+      "size": 193066,
+      "sha256": "947915ea748fa1029f7d73b11ad5bb17ed87947867c7df8a2049a31b5ae08c53",
+      "git_blob_sha": "dce54382d70666ec31f460934db08ad1a5e70ada"
+    },
+    {
+      "path": "resultados/combate_v016/derrota_0.png",
+      "size": 185758,
+      "sha256": "0d109f504b196bcdf4153612805a4f92c72f0e90d4cd3695364882bd5217fa87",
+      "git_blob_sha": "3cec04d94bae78d3b0e64b9f132384fb2c0ce547"
+    },
+    {
+      "path": "resultados/combate_v016/derrota_1.png",
+      "size": 187315,
+      "sha256": "9feb559ff9944c2a766e7e80cbaff20cf59d8025980febed970b0686765444be",
+      "git_blob_sha": "d83800dd05006898ef69d9fbc435fb4daea2fc01"
+    },
+    {
+      "path": "resultados/combate_v016/derrota_2.png",
+      "size": 189627,
+      "sha256": "fdaebb034766ab06fea757d2f32d291207efc3837e5e6b45b5736a9ecb6634a3",
+      "git_blob_sha": "ff6075eac78b49a694e88572f3a7964beb9aa93f"
+    },
+    {
+      "path": "resultados/combate_v016/derrota_3.png",
+      "size": 185441,
+      "sha256": "1d5149d45f316b5369d96f262ed71a532342a606005592a23b28c331ca2661f7",
+      "git_blob_sha": "71eb8a5d532b06c5bdb76c9995d970cccf3ea35d"
+    },
+    {
+      "path": "resultados/combate_v016/evolucion_0.png",
+      "size": 231212,
+      "sha256": "1902dd02be9674f98a8f6085e0dff3bfaa71157a839ff7697e7f1dc1af3868f5",
+      "git_blob_sha": "9fa3b9dd4aca399869b1cff5b0ce2618ede292a1"
+    },
+    {
+      "path": "resultados/combate_v016/evolucion_1.png",
+      "size": 225608,
+      "sha256": "686077b96a1dc4081b8725eff50c7b4e389baf73d32dc499afc55613e7e44cac",
+      "git_blob_sha": "97c7f39154b6dbc76d0ebf694e4b605e55798006"
+    },
+    {
+      "path": "resultados/combate_v016/evolucion_2.png",
+      "size": 228304,
+      "sha256": "f60d3524134ed210e7cf452d7323436d74133dd25e8944518e4b0a89b0c915d5",
+      "git_blob_sha": "038a54ef44701ddc9bc1f8717e226e8e571aac4e"
+    },
+    {
+      "path": "resultados/combate_v016/evolucion_3.png",
+      "size": 224835,
+      "sha256": "d018f54425c22bb1e1265fbe2e0b91da66f8fb2c75f93ca3b7a983d389685109",
+      "git_blob_sha": "7592b988a5f95920e8a530487c1c30e7f2888631"
+    },
+    {
+      "path": "resultados/combate_v016/golpe_final_0.png",
+      "size": 191146,
+      "sha256": "171540f68317edb466c89d9ca63dde337840938841eddcbb7e49c9467a6000b5",
+      "git_blob_sha": "96d078ae95ca74da2378d2d14f9b8ad6f9660aa4"
+    },
+    {
+      "path": "resultados/combate_v016/golpe_final_1.png",
+      "size": 189044,
+      "sha256": "8d3596c553bc452d0928cc73daf1228ca5f9c7975b6ad163262387a1b0bca28d",
+      "git_blob_sha": "84ea144e9c062d4b0376264b62c4b16d8d37d9ea"
+    },
+    {
+      "path": "resultados/combate_v016/golpe_final_2.png",
+      "size": 191374,
+      "sha256": "36e328817b8efb684b7122702cb912ba51984074416a4dcded89aa9f28d19c98",
+      "git_blob_sha": "b56d014f85ad6a2ee03a67f4283ad571dd403e60"
+    },
+    {
+      "path": "resultados/combate_v016/golpe_final_3.png",
+      "size": 191374,
+      "sha256": "36e328817b8efb684b7122702cb912ba51984074416a4dcded89aa9f28d19c98",
+      "git_blob_sha": "b56d014f85ad6a2ee03a67f4283ad571dd403e60"
+    },
+    {
+      "path": "resultados/combate_v016/impacto_0.png",
+      "size": 207447,
+      "sha256": "16b4ae2da10e34ee4d6c30c52c9bfa83c00cff1c11f6f55462942e8e170cf406",
+      "git_blob_sha": "e128c74fd1221f97f3bbd29df3b21a07326e9b77"
+    },
+    {
+      "path": "resultados/combate_v016/impacto_1.png",
+      "size": 210323,
+      "sha256": "00b2b5ce00ac1ce526d3b4816d923b0795a9e215117c8b915043923d7ff6799d",
+      "git_blob_sha": "a792b92de40f497cd64f94c5c0f73bee1cc3acec"
+    },
+    {
+      "path": "resultados/combate_v016/impacto_2.png",
+      "size": 211100,
+      "sha256": "9a1f360f14589744f3ea7586d7dfe7785abb80b985bff7fe9a1f4af1695d486b",
+      "git_blob_sha": "8ceb8859a39ba8c53e458c8657d5c6bd25b6666a"
+    },
+    {
+      "path": "resultados/combate_v016/impacto_3.png",
+      "size": 206982,
+      "sha256": "e45460437d3c286ed9ed8aa412b611a11335db9636820d3b71b7e361261a0d20",
+      "git_blob_sha": "0e3d6a97fd1c730556d188d1d0c8506ca02890ae"
+    },
+    {
+      "path": "resultados/combate_v016/intencion_cargada.png",
+      "size": 228874,
+      "sha256": "de5f6f8bf76ebe4df405fdac0db01a0c3f1e0d8c9c14ecade7bc619fddf2291a",
+      "git_blob_sha": "9c8b671208f35d8b467cea359463cc34729e34a2"
+    },
+    {
+      "path": "resultados/combate_v016/intencion_normal.png",
+      "size": 229528,
+      "sha256": "2ae9fa6089913838b4e01c394d890e30e6911f784ffca8c3db0bc69fd5f4e859",
+      "git_blob_sha": "9528c056746337abbcd850cae8c070a68d7adf07"
+    },
+    {
+      "path": "resultados/combate_v016/interrupcion_0.png",
+      "size": 204539,
+      "sha256": "976a7f253506089f86395e97d3bea4c842927c43799f8a470fbd50f8b864996c",
+      "git_blob_sha": "6bd754d7d6788db5774203256f6a1241849157a9"
+    },
+    {
+      "path": "resultados/combate_v016/interrupcion_1.png",
+      "size": 207522,
+      "sha256": "c75415da0eaece410d045f49a9dcd0b2404a685d5682d7e03f975d986edeaf69",
+      "git_blob_sha": "974288fbffd9d4d65a772fec12547611244d6b24"
+    },
+    {
+      "path": "resultados/combate_v016/interrupcion_2.png",
+      "size": 205126,
+      "sha256": "9f04741f5b8cb3a3c962f65b44a75bba5756fbafdc4b7b0c1a307757efbba549",
+      "git_blob_sha": "2549a2e99e9a4de8d86a01a6a0a1eb7ff9fec003"
+    },
+    {
+      "path": "resultados/combate_v016/interrupcion_3.png",
+      "size": 205344,
+      "sha256": "6fe1374dbc45ff745f8011e2437acb0dfb12485911c6d0a6cdc533bb2649b428",
+      "git_blob_sha": "e0b8696dec48254f7993f4051bcf4f42eed30714"
+    },
+    {
+      "path": "resultados/combate_v016/interrupcion_fallida_0.png",
+      "size": 204128,
+      "sha256": "9a6c36d275ba86d78fbb66ed6f0f3118cfae701bd72dde83c5a4cc5e8a7f8ca7",
+      "git_blob_sha": "6fbe0036f6386e08cdf94bdaafd86fb6f701c1f3"
+    },
+    {
+      "path": "resultados/combate_v016/interrupcion_fallida_1.png",
+      "size": 207319,
+      "sha256": "bc24e3e0c2dd98c70e8c0fe2df64c2efbee34ad11b81612c70cbf02c68d82a07",
+      "git_blob_sha": "c160e62cedb8e7ff0a8f5ef5b8bf684876b6ce92"
+    },
+    {
+      "path": "resultados/combate_v016/interrupcion_fallida_2.png",
+      "size": 208639,
+      "sha256": "c6fd482f5804aaf7d2434434ae574298d2d9bcb04b615d4b081e03a48fa801f0",
+      "git_blob_sha": "ecbadaa33a6606340134921ed7bf70be1da8096e"
+    },
+    {
+      "path": "resultados/combate_v016/interrupcion_fallida_3.png",
+      "size": 204637,
+      "sha256": "285c0aaf7e84fc2404b015cbc1ef40a9c2a2922ca048a986d456d944e0252689",
+      "git_blob_sha": "82a88e3ae258fde0eae77e96c1c7c1a6e7b0fe3e"
+    },
+    {
+      "path": "resultados/combate_v016/nuevo_turno_instantaneo.png",
+      "size": 227133,
+      "sha256": "16470fa9814c91e441825d2b016c4aee560fb03c5df930eae6071211a0051e81",
+      "git_blob_sha": "0828a48b3c19051fe834243859d4bcab2308cb53"
+    },
+    {
+      "path": "resultados/combate_v016/pausa.png",
+      "size": 107165,
+      "sha256": "c46826d082b5283d1643c29675b70b53940ced45b44fe582045e47449d42d59c",
+      "git_blob_sha": "d32f11c74dc38163e83729cefde915a3deccbd40"
+    },
+    {
+      "path": "resultados/combate_v016/pocion_0.png",
+      "size": 205081,
+      "sha256": "6daea250106bd9b08129bd6b92fadc2bde309168434da741ab407dc33a402491",
+      "git_blob_sha": "958986e94cd4a14b89353222265f03d9a8cf843c"
+    },
+    {
+      "path": "resultados/combate_v016/pocion_1.png",
+      "size": 206542,
+      "sha256": "d3be528e4c2b1c2e0b4cbea36599e62d71f0186a45c1ce301018a9d724273d96",
+      "git_blob_sha": "f51cdb263f8c5a7f7365d8207c966cc1a4f23edd"
+    },
+    {
+      "path": "resultados/combate_v016/pocion_2.png",
+      "size": 210193,
+      "sha256": "e9d1c4938c0e13bac6569ccf66f7cca52c3764526d1610219e4c441a745d6974",
+      "git_blob_sha": "59fac08be6fa3e614467c8d622a783c6a99a27a9"
+    },
+    {
+      "path": "resultados/combate_v016/pocion_3.png",
+      "size": 206202,
+      "sha256": "8d26f68dcb189a452146cd755c43e93ab1025b43fd530db4dfa81b427033741e",
+      "git_blob_sha": "3aa95a14e04330d2a32ab8aa218b944583f525e3"
+    },
+    {
+      "path": "resultados/combate_v016/sin_animacion.png",
+      "size": 231265,
+      "sha256": "f3536c9b9f7467e3b2632295c7032ddcb55f841e33edb0c50d2d852dd97d6f7c",
+      "git_blob_sha": "10a9d7fea33ee2b520250b068e1c4ee98dc2446d"
+    },
+    {
+      "path": "resultados/combate_v016/sin_contra_dano_0.png",
+      "size": 205335,
+      "sha256": "ab9c9e9e7b07338836817f70dbdbe71e7c60a96d7bee39e12d9e75892d7a38d0",
+      "git_blob_sha": "f29305009dbe13ba06c2fbe61647c9ae4e996d55"
+    },
+    {
+      "path": "resultados/combate_v016/sin_contra_dano_1.png",
+      "size": 205980,
+      "sha256": "416474fd4b12e3a705233ace8fb644adff22df296e685f689bec985a7b4ff7cd",
+      "git_blob_sha": "6787d621f974ec3005ede56ce2916d8fc456ad33"
+    },
+    {
+      "path": "resultados/combate_v016/sin_contra_dano_2.png",
+      "size": 210652,
+      "sha256": "10983aa93ab5aead974f0cc59309ce3bf3a409ce13558188d14cf3af7591b062",
+      "git_blob_sha": "ab9a479c74c61c4ddb74351d5cab329520028736"
+    },
+    {
+      "path": "resultados/combate_v016/sin_contra_dano_3.png",
+      "size": 205613,
+      "sha256": "00c67caba07c78e0905c655a10423b27f61da2c1591ac7564ab666798319cf86",
+      "git_blob_sha": "674b662d497f94faeac669a7cb4ba129008edd8f"
+    },
+    {
+      "path": "resultados/combate_v016/sin_dano_0.png",
+      "size": 207538,
+      "sha256": "eced748fd134434233aec0901f48f387af437b2fc1b33873fe8f3fe85bd4fd60",
+      "git_blob_sha": "a86f8c5311bbf051606387796ad2d108683e7b9b"
+    },
+    {
+      "path": "resultados/combate_v016/sin_dano_1.png",
+      "size": 211103,
+      "sha256": "686d348a07bac611ce3c0095a586e44bb6d77288e4f6fd17d97496da4394fda5",
+      "git_blob_sha": "28f22b32dbe7c1dc0d1c50f3fb9a1b6d00cf7033"
+    },
+    {
+      "path": "resultados/combate_v016/sin_dano_2.png",
+      "size": 211098,
+      "sha256": "d3e3ff78ab8fcb637f03f472202404645b91edc5ba54f988c8f0123effe1431a",
+      "git_blob_sha": "721d25b7737725ae3fb5db3c11bf2f531c42ea7e"
+    },
+    {
+      "path": "resultados/combate_v016/sin_dano_3.png",
+      "size": 206965,
+      "sha256": "1d9b05b0e799893a2e293361e2c8202eee6ee8f2a48b79086138bd247efb5415",
+      "git_blob_sha": "f35f43ab9cfa9888bf2e7f754719e4ac73c2cba5"
+    },
+    {
+      "path": "resultados/combate_v016/validacion.json",
+      "size": 3395,
+      "sha256": "0a0a208cc930b79a657b2186d3558beb6999b4ffa4fd7feccba23ef2f8adf420",
+      "git_blob_sha": "614ba0b04478d782adbf624ac460d8eba08cd3d3"
+    },
+    {
+      "path": "resultados/combate_v016/velocidad_rapida.png",
+      "size": 208126,
+      "sha256": "36ea803e10ffb401b43576fa5cf2b0c281ccd1bc62b13e3036c91aeec58a1674",
+      "git_blob_sha": "05fef5b346a9c65b75934da062a2d129b1f71888"
+    },
+    {
+      "path": "resultados/comparacion_v0_7.png",
+      "size": 27796,
+      "sha256": "4ebbc1555ec577b46512b0ac5d3351ce2288355aed40354b25fdbaa800c13a9a",
+      "git_blob_sha": "2904c072d7cafb3da5b953c92c678b7ec46a883f"
+    },
+    {
+      "path": "resultados/comparacion_v0_8.png",
+      "size": 35416,
+      "sha256": "70d5576598b2978fb9bc522ea08859aff1f789dfb31740620991331537722741",
+      "git_blob_sha": "54a9c2bc4f24becafdcefa77d3f9364d85d4029d"
+    },
+    {
+      "path": "resultados/continuidad_v013.json",
+      "size": 6789,
+      "sha256": "d437cad6d861b3a186cf54c8e2d3f45fb886c3c499bdbe9cd56dcf82a45e3d49",
+      "git_blob_sha": "583a0bef316d01a4fa9ca0de112f9fa9767f0700"
+    },
+    {
+      "path": "resultados/continuidad_v014.json",
+      "size": 3984,
+      "sha256": "4c944528d49fb12bb5bcd971677657de092d4de8ec44108dd65750b3162fcb2c",
+      "git_blob_sha": "a30078f9ccfb32a0f5ff366405cf903763de9626"
+    },
+    {
+      "path": "resultados/continuidad_v0141.json",
+      "size": 3943,
+      "sha256": "780edd9a131b246df815a1bb0be459b22d62cf06ea16a5cfb775085c720fc2a4",
+      "git_blob_sha": "f181f63f78e6ecd5b7f6dfda8d5dcdef709dc6c8"
+    },
+    {
+      "path": "resultados/continuidad_v015.json",
+      "size": 2675,
+      "sha256": "070d002da0263aa70774192a650e543cad97407d9eadfaed7559b2364f59134e",
+      "git_blob_sha": "115c2196845e93a176e6d891fdf763e6d006ff29"
+    },
+    {
+      "path": "resultados/continuidad_v016.json",
+      "size": 330,
+      "sha256": "6d8ce6486175207ff7ddb9a588cbb57dc72be152bd39854b9fadb72e40077f46",
+      "git_blob_sha": "5824c5b96595ffcded41a00584695df90b4b59e1"
+    },
+    {
+      "path": "resultados/continuidad_v017.json",
+      "size": 347,
+      "sha256": "7eb435bea23282260e4d1030672b44a894f72eea8cde29649c6ab208c5e711bf",
+      "git_blob_sha": "6d52c5df02865bdc038666ed55137e9c54e9a969"
+    },
+    {
+      "path": "resultados/continuidad_v018.json",
+      "size": 320,
+      "sha256": "cb9d3b10e5c6e76d003b11e383fd93372719be4ab7196f8ab79f1c90c081bbdf",
+      "git_blob_sha": "e1eae93f0e433a4c2f60192af2ec1e0dd7b56d27"
+    },
+    {
+      "path": "resultados/continuidad_v019.json",
+      "size": 319,
+      "sha256": "c4ed440558734f8e36ac239e4e0fbce3f1e37b30358a36b74115234ae10bc0e7",
+      "git_blob_sha": "16d54cf5a0b6245fb0d6b24c3267f61d3ba6b41e"
+    },
+    {
+      "path": "resultados/convergencia_v011/cobertura_v011.png",
+      "size": 39567,
+      "sha256": "40052abe5aa6703096595e45d479a0e5d2986cd3076626c8df2d5539eb2307a2",
+      "git_blob_sha": "c8c3e30ca146d509162d7f9a4d182a2a4d422b14"
+    },
+    {
+      "path": "resultados/convergencia_v011/cobertura_v011.svg",
+      "size": 3953,
+      "sha256": "53f47b07750a874c903e3cc7558ac6bb566e48ae84280fcbd85445bb2147d20b",
+      "git_blob_sha": "5a5188a8b17bc9d49c9c0530be49fa5e78a06a3d"
+    },
+    {
+      "path": "resultados/convergencia_v011/convergencia_v011.png",
+      "size": 45408,
+      "sha256": "fc806702eda3ac398d02f832fc1ab2b78c29fbc572dc5dbea9f2e9b42fa79921",
+      "git_blob_sha": "281234548d40aefa4ced2500fc538ef42b65d1fc"
+    },
+    {
+      "path": "resultados/convergencia_v011/convergencia_v011.svg",
+      "size": 4134,
+      "sha256": "9f71aa76065008b66d5fa2f3abbec9788b910cdd26d1d6b5e78fa82cfb48d05f",
+      "git_blob_sha": "353dc96ca519824497a41375fd1d9f6b307799b6"
+    },
+    {
+      "path": "resultados/convergencia_v011/curvas_resumen.csv",
+      "size": 816,
+      "sha256": "4327bda3974f0cd0be30f7bc409a0a46c2ab80328890883c917df7fa51be134e",
+      "git_blob_sha": "3c795cec50972ef036f5c05d92a93af708c74916"
+    },
+    {
+      "path": "resultados/convergencia_v011/resultados_por_semilla_y_checkpoint.csv",
+      "size": 4016,
+      "sha256": "ad992b31a92b649f60e7cb9f03b5eff754228b1c4ad04c9930f3b62471b94daf",
+      "git_blob_sha": "ec765d2072c45ead15490373a047fa6a0272d503"
+    },
+    {
+      "path": "resultados/convergencia_v011/resumen_v011.json",
+      "size": 24885,
+      "sha256": "0d765a1aa160565ea9a8d2b5e585153f4bd5e424c1fb53d1428b5e1444514f3c",
+      "git_blob_sha": "47e38ad44d42d2013ceb7ffbe4d2904c7ac988cd"
+    },
+    {
+      "path": "resultados/convergencia_v020/cobertura_v020.svg",
+      "size": 3952,
+      "sha256": "c4d4189643d3013a899289cf62e93987866e99a6070f1754cd5927c42785addb",
+      "git_blob_sha": "b87e4a60ea87c825f57a222a83ac813a380d0e3c"
+    },
+    {
+      "path": "resultados/convergencia_v020/convergencia_v020.svg",
+      "size": 4133,
+      "sha256": "b977242cc728d772e6e0e5d50de3634dd0e4c689a5144546fae08f30fe1c122e",
+      "git_blob_sha": "3bbb79d3d75eb4cf1851a4fa5879d566b1fbc893"
+    },
+    {
+      "path": "resultados/convergencia_v020/curvas_resumen.csv",
+      "size": 822,
+      "sha256": "4ea029de0f5ab72ce7f088a5910f6fefd260b97cb997a76acd3c87cccbc231f6",
+      "git_blob_sha": "c8d3e5ab880b3eac4ad9ddeed07acc5b9b0a17ea"
+    },
+    {
+      "path": "resultados/convergencia_v020/resultados_por_semilla_y_checkpoint.csv",
+      "size": 4014,
+      "sha256": "bc51a613ffbcaaf16ecfe3c8f269c7b0bb3c52fa6e0cde9a0be956e1a2b5dd5b",
+      "git_blob_sha": "3c5482598bb308d8aa2abd71f3b75f976135e37d"
+    },
+    {
+      "path": "resultados/convergencia_v020/resumen_v020.json",
+      "size": 24919,
+      "sha256": "0e3633da336726f2a250e21c6712a7c56e4d1381a4ebb2b874a543fb50d8316f",
+      "git_blob_sha": "7279a6d39a5d6d379a361ddbc65910e01a9ba389"
+    },
+    {
+      "path": "resultados/convergencia_v021/cobertura_v021.svg",
+      "size": 3952,
+      "sha256": "1caf070ee65b3b86556b783416906c84af9d91d2b5f91a92afcb7fe4bea46bc7",
+      "git_blob_sha": "55cb446a37cbe2caa63d440c4979147c124d8cd2"
+    },
+    {
+      "path": "resultados/convergencia_v021/convergencia_v021.svg",
+      "size": 4133,
+      "sha256": "89f36082f7c279b866fd1410454cdc3ec74b627392d5107c5ba79d5b63482534",
+      "git_blob_sha": "eec98b5995ee2178706e878601316316cfb6ec65"
+    },
+    {
+      "path": "resultados/convergencia_v021/curvas_resumen.csv",
+      "size": 833,
+      "sha256": "a963c2b84e3bb079da02ed1e23ce52a9c76a12948f0419f03f782e2c8ff21f8f",
+      "git_blob_sha": "1b2b020fea3f209d093ff9ccea5697bcb926f252"
+    },
+    {
+      "path": "resultados/convergencia_v021/resultados_por_semilla_y_checkpoint.csv",
+      "size": 4038,
+      "sha256": "fe9eb57ccd1913b53ae4f287aa56c5a61690186ada266a03a56d1e963f866916",
+      "git_blob_sha": "9f37417ff3ead4ec09df9e3f66c201e7689d7429"
+    },
+    {
+      "path": "resultados/convergencia_v021/resumen_v021.json",
+      "size": 24928,
+      "sha256": "8af2142c191b7b60fbc88f1cfff3aa5d121c415c4fabe282645574c4a9c8ab2b",
+      "git_blob_sha": "2165d67720ea0cf574d04d31b237256e78d93dd6"
+    },
+    {
+      "path": "resultados/correccion_guardromon_v0211.json",
+      "size": 1105,
+      "sha256": "04480c61fd19b0f01d0de8123934c375d74578a0e464f40ccc8b125042631b7a",
+      "git_blob_sha": "77f2fcb2bc6f16d4c8c6ce992bb139f43c6c1a8a"
+    },
+    {
+      "path": "resultados/correccion_v0211_modelo.json",
+      "size": 463,
+      "sha256": "7976eb3a03cec33df8624a8a209cc920223331db5d356ad0fe5c25e39e7d71b8",
+      "git_blob_sha": "4d903e5d348406d002790a87e897e5711b9b1a3c"
+    },
+    {
+      "path": "resultados/diario_v022/continuidad_v0211.json",
+      "size": 15898,
+      "sha256": "e615ab23e6d3e57888e3beae914fe2527678a00aac84498ada86e3778ac01f2c",
+      "git_blob_sha": "6836dd7fdfdf134fd51704f5c78d04945b24c718"
+    },
+    {
+      "path": "resultados/diario_v022/interfaz/diario_en_curso.png",
+      "size": 70491,
+      "sha256": "0192374616d5a61c3ad38274b074ec7c59647979c35c95f36f244cc735d9099b",
+      "git_blob_sha": "1065be47b55291b2ffbc3fd4d17359cd99464b02"
+    },
+    {
+      "path": "resultados/diario_v022/interfaz/digidex_guardromon.png",
+      "size": 104644,
+      "sha256": "57e00be2de125003c6424093234585059e1c31a75bea50352ef5d1f5453f49b5",
+      "git_blob_sha": "49aa9cc2215a8d817ebd96bbeb5238a4db172dd3"
+    },
+    {
+      "path": "resultados/diario_v022/interfaz/digidex_wargreymon.png",
+      "size": 104201,
+      "sha256": "2cbec7cc62b7ffa0babe096b341b25a00bf3c824b9853df660c5f1c8a38b5482",
+      "git_blob_sha": "6b3caea0f80945743656b16fefe0ad7eab186e6f"
+    },
+    {
+      "path": "resultados/diario_v022/interfaz/laboratorio_turno_1.png",
+      "size": 79904,
+      "sha256": "008581ebb34c6ec23436443cd0a865942b95a6545ac2d6f28b91baca6748fee3",
+      "git_blob_sha": "38ee57e1d31dc25d30f49c415fd769c7a7983ea9"
+    },
+    {
+      "path": "resultados/diario_v022/interfaz/laboratorio_turno_11.png",
+      "size": 83756,
+      "sha256": "10a853e05113ac803bf4a5ea97d8e8f0436eddf20bb6daca4414966f24445f27",
+      "git_blob_sha": "834240ccb6d9571ef70a28abd317271efbcc4015"
+    },
+    {
+      "path": "resultados/diario_v022/interfaz/reporte.json",
+      "size": 1735,
+      "sha256": "955039d2f86449780c10c587af84189ec9a988d1becb5890b2880708d708ce88",
+      "git_blob_sha": "0f61c30ecd2014b459a90ca00e887ac5fda252d2"
+    },
+    {
+      "path": "resultados/diario_v022/interfaz/resumen_derrota.png",
+      "size": 75394,
+      "sha256": "9c0a54b859dc13af58ac3f51dba0a4a6714818d7ea328301b52fe7b9ee3f7d38",
+      "git_blob_sha": "48805a4a5cc1162fef1938fe2fd79f7c7ccf800b"
+    },
+    {
+      "path": "resultados/diario_v022/interfaz/resumen_limite.png",
+      "size": 73411,
+      "sha256": "8618a994f18bf5c3b60df76ce45d3daacf0f359db65bbad309006dbd715d5dbb",
+      "git_blob_sha": "7a35bbd21bec87d4cad3a5bf0d48ba455d26dd51"
+    },
+    {
+      "path": "resultados/diario_v022/interfaz/resumen_monte_carlo.png",
+      "size": 104220,
+      "sha256": "10b7d3d102b0555b6ceb839ab55cb19a350d79f80e32ed081209aca5770852eb",
+      "git_blob_sha": "e2c61e8aa3630a55f1d57d07af34225a6daf4434"
+    },
+    {
+      "path": "resultados/diario_v022/interfaz/resumen_ultimas_decisiones.png",
+      "size": 90628,
+      "sha256": "a5c68f598cdf8a33df1bde20e1d617468a263cbaa6f0c1cc34a8c4ad3204b3bb",
+      "git_blob_sha": "6c4d702bb8bd7d90c408de8fb3106d9d7f35dc5a"
+    },
+    {
+      "path": "resultados/diario_v022/interfaz/resumen_victoria.png",
+      "size": 108320,
+      "sha256": "e19b9cbb90f1a8f8745b477a7b17404a48ed6cab703d000732c50cd3330a5276",
+      "git_blob_sha": "d343efd1042ffca3441d3dd200ce81ae351c05f0"
+    },
+    {
+      "path": "resultados/diario_v022/pruebas_197.txt",
+      "size": 26377,
+      "sha256": "339b7f0b4656d25917264bec6ba36a4041648c1a72d096086db5e98954df1605",
+      "git_blob_sha": "428e8c15ed87d8d3a3edcff66fac9a61c7e8d8a2"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/audio/validacion.json",
+      "size": 3267,
+      "sha256": "5ae1fc6e4b51f7f3ecd25a216b6eebb685d22c6150c5537d147b59e381c56cc9",
+      "git_blob_sha": "edc892a854422a905b68fd14a7498b2bcbec4787"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/audio.txt",
+      "size": 3382,
+      "sha256": "880cf75f334d6c42c25904b938534646150416380c11a5a1976e84b051c89465",
+      "git_blob_sha": "3a9c4dbe6f0e18364f1c5e66f8c4bf794893fcd5"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/auditoria.txt",
+      "size": 292,
+      "sha256": "bee72ed29bbff44a86cdd20a1e29104bff480bfd568fab912b3031d8e1b2e47d",
+      "git_blob_sha": "d5032968b84644ab2c34e26f332682d692554a93"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/balance_actual.txt",
+      "size": 464,
+      "sha256": "7518331f9e3324b1bd0b4355ef5ce35a810013ef838c3e12ca794e42e1c96ac3",
+      "git_blob_sha": "5f513fc0fed8090dcb5975494f86eae2dd8a3975"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/balance_historico.txt",
+      "size": 494,
+      "sha256": "fc98af98e114ffbde4e982b3222f8341b987f252e88face2ce68d0554db66645",
+      "git_blob_sha": "5c025e4ad70a2bebdc211e1861ef1d754158b9ba"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/balance_v020.json",
+      "size": 493,
+      "sha256": "306dbcfac855333ca52691abe77571c5c5418d1be440155412967a23c666afd3",
+      "git_blob_sha": "d5ab9ea57213c1b6676929fbcf851131533c60c5"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/balance_v021.json",
+      "size": 463,
+      "sha256": "7976eb3a03cec33df8624a8a209cc920223331db5d356ad0fe5c25e39e7d71b8",
+      "git_blob_sha": "4d903e5d348406d002790a87e897e5711b9b1a3c"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/basicos/validacion.json",
+      "size": 3560,
+      "sha256": "09afcf37b463099fd8352ad7b476e268c5a98270c5f1244a71dd25677d2b886d",
+      "git_blob_sha": "33a55ccd96ff8e664a2c4ec5fdcf7e122ddea2d0"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/basicos.txt",
+      "size": 3675,
+      "sha256": "fdb1cd83ee9d04a335db11b395994382a30e11099740bbf3372ce2f822870cf2",
+      "git_blob_sha": "6fc167b43cb2190c5eead29e4fdf4232367857fa"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/combate/validacion.json",
+      "size": 3395,
+      "sha256": "0a0a208cc930b79a657b2186d3558beb6999b4ffa4fd7feccba23ef2f8adf420",
+      "git_blob_sha": "614ba0b04478d782adbf624ac460d8eba08cd3d3"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/combate.txt",
+      "size": 3510,
+      "sha256": "6183954ce773c664434642b922dc211c84b7fcea4fbf33e2f7d896dba492dc45",
+      "git_blob_sha": "e5ed5fba2037dfb437be952c0bbc91ede5f79097"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/efectos/validacion.json",
+      "size": 1953,
+      "sha256": "2577470edfe885035134703c05596a7f33dfe1d720a0d1c49fd4f03234a612b0",
+      "git_blob_sha": "27635a26361d0bb8293e6ba6b7d887ff640a43ad"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/efectos.txt",
+      "size": 2068,
+      "sha256": "eec946ee2817ebf30558037426232485938e1efc5cc001860d0ef994fa41ad2f",
+      "git_blob_sha": "adc7d948b2ee7a368534d5f6b8885c8ea203e954"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/entrega.json",
+      "size": 707,
+      "sha256": "a78c39fbbfc31e56ad47f7da1b74a55de6d77a4ec492851a85ec6bb5b8be6102",
+      "git_blob_sha": "60c46f64817642036cd32f87d18f860e9b918bc4"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/entrega_historica.txt",
+      "size": 708,
+      "sha256": "e66b39b777751001e3d755b5aee232970577badcfc1c855f8d822b6d33d18b0a",
+      "git_blob_sha": "831f94d844ab064b2c8d36c848bc100b7a648734"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/fondos/validacion.json",
+      "size": 2617,
+      "sha256": "4ea1fc9e002c02cc8e383fefedd1f8a1ec4973f22f41d4b71ddc1d380b4162e0",
+      "git_blob_sha": "aedb7c52f485e3c16515d8029bc6339bc6689f40"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/fondos.txt",
+      "size": 2732,
+      "sha256": "2d307622ef9267f6db6f3fc021ed6f01f2481f7b0828248e2733fb1982e50eb9",
+      "git_blob_sha": "38024626b6990faef5a77d24b3f73d8d99779cdb"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/interfaz/validacion.json",
+      "size": 1460,
+      "sha256": "d066e30794045ccaca223a476ddc0f4469d780f7bbec509099f858195f10bf3c",
+      "git_blob_sha": "3ca22038b5feab63feb4e484ead67e3b9322988c"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/interfaz.txt",
+      "size": 1575,
+      "sha256": "b335eb39990ae05b66ecb0d77170716bc06227042eeb5fab78876602f8715e21",
+      "git_blob_sha": "f5ba37686dd1b63d61a25abc172cabe06c2c73d0"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/jefe/reporte.json",
+      "size": 438,
+      "sha256": "5a62c74d1adcd842f1d3963d1cd7a7d57f7fe560ace2178ac23dfa1707860e3a",
+      "git_blob_sha": "741b5f05ec31af89c84fdb46c598a6c66ce968fe"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/jefe.txt",
+      "size": 553,
+      "sha256": "9d6efe94dc13892bec7002aec47f48d77284b96987c11a60aeb8f2302de43451",
+      "git_blob_sha": "bcc6c4cd57cea214e0676e4f2247fcf4cac45fd6"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/mapa/validacion.json",
+      "size": 3655,
+      "sha256": "e968896bb05f06d6231563265050ae3a80cc61be311dc29023d3a708aea77c2a",
+      "git_blob_sha": "28a0dcc07b30a35a47c31a824a27ad760aa18767"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/mapa.txt",
+      "size": 3770,
+      "sha256": "7e509b86ceefb574e13706374cf9612cfbe009981b563acfe24fa62039da99c2",
+      "git_blob_sha": "45dbec515a50452b7bf4476efab7886cc6731dde"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/resumen.json",
+      "size": 697,
+      "sha256": "517a0d4996db932fea6f00c3f9b00b40df9725ebdf36ae70839d812cb41ad95c",
+      "git_blob_sha": "ae3a7e847b91992e12fd974edfbeed7d6d01dec0"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/rutas/reporte.json",
+      "size": 712,
+      "sha256": "9ac382084817902edce4a2a0649023af3ac9ea4e60e42c017a6a7d5cbf715a69",
+      "git_blob_sha": "2c4f579d9006310cb1caf31cfd56543c30fbd117"
+    },
+    {
+      "path": "resultados/diario_v022/regresion/rutas.txt",
+      "size": 827,
+      "sha256": "345c8aa2008d5ec57e6732d50a7be3e9d9811ee6185dbcea43255c4b35e327d0",
+      "git_blob_sha": "5af418c38fb55cd447bd2b64962d3ff4efebcfe5"
+    },
+    {
+      "path": "resultados/diario_v022/validacion_v022.json",
+      "size": 523,
+      "sha256": "0d28ca12d11382b47c298682dc1d9dde0e63477047e28625cb7ba200ed6c61cd",
+      "git_blob_sha": "2551b9f0894ed7800d0f2d7a055a6b671340adc7"
+    },
+    {
+      "path": "resultados/efectos_v014/Vista_Previa_Habilidades_v014.gif",
+      "size": 4231363,
+      "sha256": "4a825b1beb0fb41289f125cb3e836a83e5f2e0fe5a9373c55ca968b738d64048",
+      "git_blob_sha": "0612662538ea8780536a42a84367eb06f5162925"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_baby_flame_0.png",
+      "size": 109458,
+      "sha256": "33d111a900b88641d7485f3d7a333e157cf0c8ff0de997490650b09ebfc1e790",
+      "git_blob_sha": "caf285b28cef64a6e8add9d61a95b482493706a1"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_baby_flame_1.png",
+      "size": 110133,
+      "sha256": "9ed6ecc1acbc8fbbf739e736469b48c316f1d2f151a1d021039864c148b2fa53",
+      "git_blob_sha": "ad0986613c386ec340684f9f75040cf7f25f9b5c"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_baby_flame_2.png",
+      "size": 110972,
+      "sha256": "c03100afd445ec15cf67e6ee3506eb9bd99d849723aa147046e661b613628df1",
+      "git_blob_sha": "edbfc42cde4cac0fa653831459667f93eb06da78"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_baby_flame_3.png",
+      "size": 111398,
+      "sha256": "538953258ec10ad670722aec2e7cfa4cf34d9919de43080c88de444ff0daddd8",
+      "git_blob_sha": "4faf1a51dc390196c97de8250fa457af0ff96600"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_death_claw_0.png",
+      "size": 118535,
+      "sha256": "9705781eba9cb770aa26d6c942b053fa8070dd5cc13e691a56d184e9c1da626b",
+      "git_blob_sha": "47c3ec059cfec9309e9d90ca8a5a061ca338925c"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_death_claw_1.png",
+      "size": 119130,
+      "sha256": "b69615a932cac8a8dc7b9e58d3b671023946d45122c0c0f055a88c74dc07b258",
+      "git_blob_sha": "bc63f23318e2cb7204c21e721184575315864ba0"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_death_claw_2.png",
+      "size": 120800,
+      "sha256": "4e9768575e44311b5e3f2e6ca7b70351a347934d5acc84358fe731a498257f2c",
+      "git_blob_sha": "d411e7c092b7e6b89125b41120323f729f519a6b"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_death_claw_3.png",
+      "size": 122177,
+      "sha256": "21db6786f1f5896277bce824182d94c9555a3b4d5fd7135d9012b835f09aeb31",
+      "git_blob_sha": "02b2aabb7cede1d0ac2d5648ca7e2485f3582586"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_electric_shock_0.png",
+      "size": 117551,
+      "sha256": "44bbceb6d3885e5f1217363365dfc6db9c385c8c72d30f919995a349456c846a",
+      "git_blob_sha": "0eb3a9bb07e682bc2dafb586def726d574db6184"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_electric_shock_1.png",
+      "size": 118773,
+      "sha256": "914a65d6525de82785a41f3d5f76556f12d9b9563bb93170c51e92fb23a166c2",
+      "git_blob_sha": "8757947af518670eed46c288aae8bb1d44784497"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_electric_shock_2.png",
+      "size": 120000,
+      "sha256": "ea45f1e4a4715b662ee7167d1203a42f648cea7436cec77c8ea81d02ddd1f588",
+      "git_blob_sha": "8828ea80bd732a247da4421e8a210f480f60c43b"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_electric_shock_3.png",
+      "size": 123131,
+      "sha256": "4d7a0b7d11e0849083dee29c01113490d47a1850a68d9e6502ea1f95686db8cc",
+      "git_blob_sha": "c9eb24033012a65e497034b48276ef0b5ba773c5"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_giga_destroyer_0.png",
+      "size": 120047,
+      "sha256": "86082fc49491d0de12a8f801c421057c01a9e6f9c39047b3f06a3b9bdbc7f287",
+      "git_blob_sha": "a01f47ed920f788f71fb0d32d647e7c542f2cc8c"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_giga_destroyer_1.png",
+      "size": 121794,
+      "sha256": "f3401e7c2503ab919643217406db02c19e821abef52b6cfa0d5558a256a2847a",
+      "git_blob_sha": "b24249a48eae72588a45deced74960ee7b0e4bd8"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_giga_destroyer_2.png",
+      "size": 122618,
+      "sha256": "e976effc75adfaf9e80be9868edd752dc1de65048e6d21cc0e6b85a67f5d9fab",
+      "git_blob_sha": "15911c0f286b604bb5d59122ead81b442aa9962a"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_giga_destroyer_3.png",
+      "size": 124376,
+      "sha256": "af31580f125d1cabaf2a6076d52e733ce1051fd8b7c905421bd514b32aa0c0e5",
+      "git_blob_sha": "08bd1995fc2991b2d3ed3d505f42b7f34d899653"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_goblin_strike_0.png",
+      "size": 117650,
+      "sha256": "b300f767fb995a58150a10b5e96e7f3e332948d8f3c84b63313c9bd2688636e2",
+      "git_blob_sha": "6797e3605a39aa2d572922f0375c82b7d683cefd"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_goblin_strike_1.png",
+      "size": 118825,
+      "sha256": "853009c9e98d8d97a39016b1b7ab70a3c01cbdfb50657d55af4f7a209c981724",
+      "git_blob_sha": "15ba2f7af185dd14a8c0d25c8077cb6fa4498ab6"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_goblin_strike_2.png",
+      "size": 119949,
+      "sha256": "789dfd044996c18537ac25e02b4994345deefacab8186815a77c39ec66a0a793",
+      "git_blob_sha": "542b9adfe50eb3000a3f878a5b2871d6aafaa21b"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_goblin_strike_3.png",
+      "size": 121655,
+      "sha256": "9e654e9f60aa2419652e09eb9e6509e872cfd8efcf4b59abc715af934a86d53d",
+      "git_blob_sha": "e2ee0e1a877ada614640705732f68ce3f8c87849"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_haouken_0.png",
+      "size": 118631,
+      "sha256": "dcb40b2f714ec305b359f1f06426797336b086cd01db40706529809450c090e6",
+      "git_blob_sha": "4205422a624744f623e7cd852c1fc84b45bcbff0"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_haouken_1.png",
+      "size": 120074,
+      "sha256": "e6484eb1f637a055d0a41ab6ffe48ed5040efca42b517ab10da8ec7836011e2c",
+      "git_blob_sha": "1e1a622a4239f7a2f91ee79c40168f2592a18e61"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_haouken_2.png",
+      "size": 121827,
+      "sha256": "d1ad02f756e5b1590742bb3ca9dc382456f2737686d8c64285a66e9247d6d639",
+      "git_blob_sha": "b69ae858ae4e2de8a3b2413f29089f4ca694cb58"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_haouken_3.png",
+      "size": 122756,
+      "sha256": "4b4d412590e44106a66b3bae0c9277ea7e70eb7628e57e8ae7590fd8ce4bee50",
+      "git_blob_sha": "fd354aab34e5332d9ab871ba8e410d8fd8d93f7c"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_mega_flame_0.png",
+      "size": 114486,
+      "sha256": "15385637639a9475d13452fa7c8836304d6f379cb9b236bd578c9f77c857a3a0",
+      "git_blob_sha": "f99736fa049d98b0e3c80e24156bc13f84a2203c"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_mega_flame_1.png",
+      "size": 115801,
+      "sha256": "0887efcbb2688c476b27b331bd301a623cf230fc7468bb6aa0972a6b391670fc",
+      "git_blob_sha": "bd7964a1c7ffee6ccbf33b2254a896a8c87c9a8a"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_mega_flame_2.png",
+      "size": 116555,
+      "sha256": "21a04f144d62b172b5802f535a07466830950df8217348c7aa6b8dcd768688c8",
+      "git_blob_sha": "0ed918afd01aac8ff7e53223ebf6cba520e77d81"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_mega_flame_3.png",
+      "size": 118417,
+      "sha256": "dec9e5254032a3d8ba83ec35525d7fdcbc819a911283739793a4e11db78ffe97",
+      "git_blob_sha": "5ca7118d77bcc6f454c2fb6a98b70674d736a243"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_spiral_sword_0.png",
+      "size": 115858,
+      "sha256": "3797559555eba13d25c42f30654d19ba87d8508b7e7da9559551e95d1535e330",
+      "git_blob_sha": "5231a5ed2df75ca00ec3f79b5cf0978cc19d56fb"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_spiral_sword_1.png",
+      "size": 117095,
+      "sha256": "024e32335a427facd46a69bce4cb9e4082a93b1cfec5a5a7ee30fcf11661b5db",
+      "git_blob_sha": "5b42435d8d3f685ead1e5e3b41290bbb6f4b7b61"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_spiral_sword_2.png",
+      "size": 118707,
+      "sha256": "cba2613589cd4a0be035630b5bbaa9517f63999c1e47f36c0710e4415a9bb808",
+      "git_blob_sha": "eef3b608db5f08d7a208319706b24d12f5b08e56"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_spiral_sword_3.png",
+      "size": 118944,
+      "sha256": "d91210bd0f0683bebb6d844b781023a6f526b74280cccf6e05b66f5734ddb94a",
+      "git_blob_sha": "4ed4bc652f33130cf0afe777fe856c7aa961b1f6"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_terra.png",
+      "size": 118334,
+      "sha256": "43e639141e094c3ba5bc67260137e42e35b465a868007caa7d086b9fcc26ff19",
+      "git_blob_sha": "a424690e382bb01eb18f5e655eed84c7c3dddd8b"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_terra_force_0.png",
+      "size": 114180,
+      "sha256": "51baae949f425f828ae8280bc2a24b3a17e9b2bfd70f4fad705d8f251c20cac4",
+      "git_blob_sha": "cea9f40c03ca0609298b4f4439dca31ce04b3ba8"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_terra_force_1.png",
+      "size": 115257,
+      "sha256": "dfb60f12275d70d6d57d299d31a548df445f10c8cb423873c120468ff1b6e289",
+      "git_blob_sha": "9479e450c4f6fdbbd8823a3b9a03f7c3f6c5cdb1"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_terra_force_2.png",
+      "size": 116740,
+      "sha256": "3ab71a13360246aea235ba7de3ba1aaad3415b3ed06c40a1438c35b0df96c918",
+      "git_blob_sha": "c0e12104aa71963eb80ff19164d6dcde9a8d0c51"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_terra_force_3.png",
+      "size": 120275,
+      "sha256": "aa3eea24510ae01005b822945b8718e1b2de9822f489201d3ffe045618a52280",
+      "git_blob_sha": "7b457558164e94e9e559d4d1a43b4afb5384ae5a"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_trump_sword_0.png",
+      "size": 118111,
+      "sha256": "589d5cf9c8a452802e9f94bc0982298c81a3be141a5242cc0b6a5dfd5a00128f",
+      "git_blob_sha": "914ac68e190da544f234931fa4ae1a96b629fdf9"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_trump_sword_1.png",
+      "size": 120180,
+      "sha256": "1e89d448831076b39b8e53ec2b9937b36f5ecc8653df20a3be9715d5fd6b0af2",
+      "git_blob_sha": "a59002913a2b9c727d7273c669c9e60fce6cc786"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_trump_sword_2.png",
+      "size": 120082,
+      "sha256": "f42a5ea0447e1ddd8bb42d1ef926bc07b0e65b7d575a55696f09de87519d8dec",
+      "git_blob_sha": "9e63eec6de95bd9cfb92c29244d788fc1e246a20"
+    },
+    {
+      "path": "resultados/efectos_v014/combate_trump_sword_3.png",
+      "size": 123568,
+      "sha256": "820e6b49a1c70b349d86556cd6025185d5a61c6405b21ba97b6facf340949111",
+      "git_blob_sha": "b56d85a6b020cf289172cb323a25b47df04ab7dc"
+    },
+    {
+      "path": "resultados/efectos_v014/contacto.png",
+      "size": 401872,
+      "sha256": "d82efece723ef1de49dd1acd6e5c71210f086605809f344a859e8da5cd88a9d3",
+      "git_blob_sha": "5884ed65cc36b9b9f3e0d719024dd3ec73f3cf3b"
+    },
+    {
+      "path": "resultados/efectos_v014/galeria_baby_flame.png",
+      "size": 74303,
+      "sha256": "52f62ef26a2acbdd090cb202cd0809df89bb364053f0126776cc1ae4252ca7b2",
+      "git_blob_sha": "aaec987dd9528f15bc951e2a0061cf1cfb9b0843"
+    },
+    {
+      "path": "resultados/efectos_v014/galeria_death_claw.png",
+      "size": 86790,
+      "sha256": "5750fbbaf7bd228819da77d7924f5299b968c121fa1a02a0fabc3cc6bc8dd35b",
+      "git_blob_sha": "951c42757007991abe86282802e6147de1128d06"
+    },
+    {
+      "path": "resultados/efectos_v014/galeria_electric_shock.png",
+      "size": 91452,
+      "sha256": "b79e2dea9cc5e6862646dba348c16b181ffeedc8db29936ee3f63901552ad4bb",
+      "git_blob_sha": "dac0b72ebd593e509c0832e71265acc9c7c48152"
+    },
+    {
+      "path": "resultados/efectos_v014/galeria_giga.png",
+      "size": 82723,
+      "sha256": "e2bf667509f9cee7e225dadf9995c7c4025d8aafbf6be042a31c2c81f2a59398",
+      "git_blob_sha": "5330c5bb55d667b7ab15e7896e525751fd086098"
+    },
+    {
+      "path": "resultados/efectos_v014/galeria_giga_destroyer.png",
+      "size": 82723,
+      "sha256": "e2bf667509f9cee7e225dadf9995c7c4025d8aafbf6be042a31c2c81f2a59398",
+      "git_blob_sha": "5330c5bb55d667b7ab15e7896e525751fd086098"
+    },
+    {
+      "path": "resultados/efectos_v014/galeria_goblin_strike.png",
+      "size": 89049,
+      "sha256": "a9b05d91be3dabcc4a3feb24aa9058f76771be483eba5f35ae0766baaeb75cce",
+      "git_blob_sha": "82b6c791e1d08773f1e8af79016fd7be1a92b5f7"
+    },
+    {
+      "path": "resultados/efectos_v014/galeria_haouken.png",
+      "size": 91187,
+      "sha256": "a59c7aecd3e46665ec14d86e691cde77c9b9aadc6b6ec37648bb71c2aa0e3d6d",
+      "git_blob_sha": "4d1307a3d650da981fb81997bb318e3a9cd3ced6"
+    },
+    {
+      "path": "resultados/efectos_v014/galeria_mega_flame.png",
+      "size": 92566,
+      "sha256": "a524677eb6d5242c7616437fe697c5594a03582fd7f5df23d1fff5b9e566176e",
+      "git_blob_sha": "9961bae512de267ab8d083bba19b8f6e1a509d4a"
+    },
+    {
+      "path": "resultados/efectos_v014/galeria_spiral_sword.png",
+      "size": 120479,
+      "sha256": "c46c63541927e7daec3c745dd9763539f4d5aa4d2d13564bb3d05b43ad2147fa",
+      "git_blob_sha": "68a90fbda5ca48eea385627d327cd6ba231751ee"
+    },
+    {
+      "path": "resultados/efectos_v014/galeria_terra_force.png",
+      "size": 89130,
+      "sha256": "c81177f7e6c00e2837b0b566867d403d595e00a2b92ccccb37a1b373cdb4d040",
+      "git_blob_sha": "89575b890f010fef4b9c0ad240f94bc1c96d37d9"
+    },
+    {
+      "path": "resultados/efectos_v014/galeria_trump_sword.png",
+      "size": 87594,
+      "sha256": "a6bef87dbaf5805ed516431e47492737985189c678c0837b4abb174368767358",
+      "git_blob_sha": "79e23b7c16d139be161f8fa26022d6a61cf976dd"
+    },
+    {
+      "path": "resultados/efectos_v014/validacion.json",
+      "size": 1953,
+      "sha256": "2577470edfe885035134703c05596a7f33dfe1d720a0d1c49fd4f03234a612b0",
+      "git_blob_sha": "27635a26361d0bb8293e6ba6b7d887ff640a43ad"
+    },
+    {
+      "path": "resultados/ejemplo_valores_q.csv",
+      "size": 190,
+      "sha256": "ee7316b7d7a6d5369133e6efa0e629a02b4f2ecc9ef882f8f3932ed9aa2c960e",
+      "git_blob_sha": "8cbb16065d6a353554515a898135b7c163720c1a"
+    },
+    {
+      "path": "resultados/entrenamiento_v0_7.csv",
+      "size": 2373,
+      "sha256": "0ad1ce4e23797f1e28beff454f429a4bbf31748472f4b831cfde17f6c74efbe5",
+      "git_blob_sha": "ec44d7cb578e94d71a5f9bd0b2c7867089981eab"
+    },
+    {
+      "path": "resultados/entrenamiento_v0_7.png",
+      "size": 66867,
+      "sha256": "a4957e6a7f2dc07592b1f6d22c3f37cdc0279ab5cef9ef752f8677c368a4ee0d",
+      "git_blob_sha": "d3b8fb4f31e8bc0ddc37fd682268bae42b5b82d7"
+    },
+    {
+      "path": "resultados/entrenamiento_v0_8.csv",
+      "size": 3518,
+      "sha256": "b8858ecb8b8d6428e0494de5c6cbe528c45914b8bf5695dde6bfcd5eeb548f01",
+      "git_blob_sha": "46d7566b6a4d32022d6049500d1876c2a6ca462f"
+    },
+    {
+      "path": "resultados/entrenamiento_v0_8.png",
+      "size": 68832,
+      "sha256": "f403c67425ad5b858915d71f31d66c12ce59641ff9762ec07e183cb78fe7840d",
+      "git_blob_sha": "b5d1661d4cc4abbf667a6bd4aafe5af77f762ff3"
+    },
+    {
+      "path": "resultados/evidencia_informe_v019.json",
+      "size": 1210,
+      "sha256": "3c2d3c8fb669b7a830cfc396a8ea76b352b5f4fb8a5111971643f82e82cb80ce",
+      "git_blob_sha": "bbd8d3b759df489dbdab049fb36debf692c01581"
+    },
+    {
+      "path": "resultados/fondos_v015/00_inicio.png",
+      "size": 398579,
+      "sha256": "667231b56dcce65043db4d817b0fe023c572903118c3dd0a25fecac6d0300bd0",
+      "git_blob_sha": "b48ac4eeed01189943f2d1df1f76e4b674693a45"
+    },
+    {
+      "path": "resultados/fondos_v015/Vista_Previa_Fondos_v015.png",
+      "size": 1071255,
+      "sha256": "2dd7cba13f925e5903d25b52eb11dc9124127b7f63e099c285d9fc49ba204cd1",
+      "git_blob_sha": "2e330ea11d89ca584172ce086258bac8337d16d3"
+    },
+    {
+      "path": "resultados/fondos_v015/cave_forma0.png",
+      "size": 207488,
+      "sha256": "5b655924c9b2284328f70a6864d3f7c46a276f59e66141c4f512a390217bd317",
+      "git_blob_sha": "8ccab5312ea4d342dadf4522a37d6b69033c0562"
+    },
+    {
+      "path": "resultados/fondos_v015/cave_forma1.png",
+      "size": 213896,
+      "sha256": "755e9cd78e51889e02d4ad15a265c372c639dad0c40aa9e2dec006832f741e9e",
+      "git_blob_sha": "288ed6a844a84d033b4a6b4a586c927ba7200abf"
+    },
+    {
+      "path": "resultados/fondos_v015/cave_forma2.png",
+      "size": 210178,
+      "sha256": "1f0e7975637a5adf2ec3ce9ff468e6899e72edc8f6aadd0e120c3ad36ee3779b",
+      "git_blob_sha": "e836ccf42987b8f6265f3f6c3e77737d8aa83176"
+    },
+    {
+      "path": "resultados/fondos_v015/cave_forma3.png",
+      "size": 211079,
+      "sha256": "a135cffbe38674a86a9445af7522758d2759db781df4b9be8b42d9ef33824db1",
+      "git_blob_sha": "dd614a5d12c9a0b0d1a7342315d03bd1ee27099e"
+    },
+    {
+      "path": "resultados/fondos_v015/forest_forma0.png",
+      "size": 225609,
+      "sha256": "5a2d3236eb56ed6b00bd13cee7b75eac053f7cacb2c6847840fa70ee8445c4d0",
+      "git_blob_sha": "6c4a2f0a5c6d287ff9c90c84c15beea7faa3d934"
+    },
+    {
+      "path": "resultados/fondos_v015/forest_forma1.png",
+      "size": 232603,
+      "sha256": "973d5fe1144da5fd439bd0d37aa4aa8a7a605e74714ff9e388b620dfe714be2c",
+      "git_blob_sha": "2b4707b2b74cbb9e8952abaaa96f447af986df90"
+    },
+    {
+      "path": "resultados/fondos_v015/forest_forma2.png",
+      "size": 227463,
+      "sha256": "5ec52f9893ea7191a8896738943525d32efd971a7bcbfab2dc18609d2e827fa9",
+      "git_blob_sha": "5651642bff23777c9a6c8be520659fb36037c71a"
+    },
+    {
+      "path": "resultados/fondos_v015/forest_forma3.png",
+      "size": 229924,
+      "sha256": "98c74466fe31a2fe3dfed6620cd7aeb80dcde76aca1c0e7537d4fd230ac8f5ab",
+      "git_blob_sha": "0e335c56e02bafd4f8f36677c6b95e85b6dae82d"
+    },
+    {
+      "path": "resultados/fondos_v015/fortress_forma0.png",
+      "size": 202561,
+      "sha256": "43ff714599a48e4d25661b0e7423a5218301979018f170257718c8f76f176456",
+      "git_blob_sha": "dd1933da6c8c44df9668d318ac82713fc0c040cb"
+    },
+    {
+      "path": "resultados/fondos_v015/fortress_forma1.png",
+      "size": 210547,
+      "sha256": "412ea8b8f22ab247b3eb3bdec7d24928ed2063cdf6576355d99df9f90ae6c0b4",
+      "git_blob_sha": "81f12c3524187b1045f3dc7fecab3318b7daf83e"
+    },
+    {
+      "path": "resultados/fondos_v015/fortress_forma2.png",
+      "size": 206696,
+      "sha256": "b9e70e92d5d0587fe8658d711f26b293c2755bf5519642df0bb6fd59de8ad759",
+      "git_blob_sha": "1987ff99fc155337de566db074ab179a146b3ffa"
+    },
+    {
+      "path": "resultados/fondos_v015/fortress_forma3.png",
+      "size": 205132,
+      "sha256": "cec1cec5d0cf1e8fdab4e92d3fb185ca7067aa0b1f544ffb8f35a024e8445ff1",
+      "git_blob_sha": "b8a7bea24526bd7231391aa92a1d0048b225a4e4"
+    },
+    {
+      "path": "resultados/fondos_v015/galeria_region_4.png",
+      "size": 346324,
+      "sha256": "13e2fb83d02837b61a80e909a2cbcb0a251cc78e5b17bd2e93e4cd7a38dde78a",
+      "git_blob_sha": "e979fa1491eb832001de71023bf703e27342b2e6"
+    },
+    {
+      "path": "resultados/fondos_v015/galeria_region_5.png",
+      "size": 300803,
+      "sha256": "1368d3760ae50503086566fc2f6544c60eb3d77097295508ebda6215ebb5692d",
+      "git_blob_sha": "a81b7d7d9f938361e5bc734bd21f5d8b29f45bff"
+    },
+    {
+      "path": "resultados/fondos_v015/galeria_region_6.png",
+      "size": 323377,
+      "sha256": "f8b6c1a6e8b9ab36a59b2edfbe7691bc1b326d7edad5cdbf317b9a1f4149fb67",
+      "git_blob_sha": "4712c44eac17cea85ca5481fe7e52f679f4f02db"
+    },
+    {
+      "path": "resultados/fondos_v015/galeria_region_7.png",
+      "size": 390636,
+      "sha256": "58a6eefdadc0f4aacbf4c85e0e4f890894ed54d0524fcc02fe4947e47b52e3ee",
+      "git_blob_sha": "8ff92133f62084162cfea8d8812c6f5ff1b726bb"
+    },
+    {
+      "path": "resultados/fondos_v015/galeria_region_8.png",
+      "size": 311731,
+      "sha256": "0030401771cea565df87118bda5732ffa60da7589fc7765e93305f81a6fd18fa",
+      "git_blob_sha": "580e653d118a4be6db665fce2c27a0928e43a61d"
+    },
+    {
+      "path": "resultados/fondos_v015/galeria_region_9.png",
+      "size": 287969,
+      "sha256": "b4f5e6fd6a30d14d19c012fb7400361e5c64d90f5e6f06ae2c0617378f8bd5b3",
+      "git_blob_sha": "c9b3af1c94def4573ef864161a8b6c8c8248c550"
+    },
+    {
+      "path": "resultados/fondos_v015/ruins_forma0.png",
+      "size": 245260,
+      "sha256": "7bd25f4bdbb2a8511ef61396300c5793266a5ea1f9183eba31406af3a72dce13",
+      "git_blob_sha": "2ea86008ca3f8b0319c7c03473bd90df47717fc4"
+    },
+    {
+      "path": "resultados/fondos_v015/ruins_forma1.png",
+      "size": 256069,
+      "sha256": "220cb87060105ad330511fb50ce259132cf51c1492de7eb343e7a96d25842f2a",
+      "git_blob_sha": "2fd50b2fdbc25d35f0472538b6c9f5fd7d223243"
+    },
+    {
+      "path": "resultados/fondos_v015/ruins_forma2.png",
+      "size": 247541,
+      "sha256": "3b5ea3ab7643fb7183c478a8cd137d52bd99e3c40b98c31d9cded65961cca27b",
+      "git_blob_sha": "fc055e5e84e430f4d71cb1fcf596787953328de3"
+    },
+    {
+      "path": "resultados/fondos_v015/ruins_forma3.png",
+      "size": 248905,
+      "sha256": "89271ac248c4a7334bf113f3123054357ecd1c4ba10730ada9c4f9f5532d177d",
+      "git_blob_sha": "ce6607d72f147ddc83aeba6829f6a8f6d65d11ad"
+    },
+    {
+      "path": "resultados/fondos_v015/swamp_forma0.png",
+      "size": 223315,
+      "sha256": "70217bdb878f647c068b17aa0fea204dfd8fdb1e579720298b3c1667b4ddedca",
+      "git_blob_sha": "2f0ed8c08b76d541ee27782a51133b0b2fb740bc"
+    },
+    {
+      "path": "resultados/fondos_v015/swamp_forma1.png",
+      "size": 230693,
+      "sha256": "93171e1308c1e6c510b22eb89f939d602133423bbfb083681a86aa55f88e46b3",
+      "git_blob_sha": "a81a19e4a540ee9c58aa00679c73b27a8caecdc3"
+    },
+    {
+      "path": "resultados/fondos_v015/swamp_forma2.png",
+      "size": 225356,
+      "sha256": "a3412c6bac08b5dfd50e5aacb196e214c3920a3e761d1cb9d5d939a962d2bc30",
+      "git_blob_sha": "a1a5d70ff2c84038eae5d623c71fb22ca33b7128"
+    },
+    {
+      "path": "resultados/fondos_v015/swamp_forma3.png",
+      "size": 227061,
+      "sha256": "f8509ca5e4962e568e2464884c15cdcd0d736459b1954270554debdfb3f7583b",
+      "git_blob_sha": "9020d09f783534a5101d0b741582f6cdc3a1496e"
+    },
+    {
+      "path": "resultados/fondos_v015/tower_forma0.png",
+      "size": 214048,
+      "sha256": "ef712fb7206c7324d414257fd18e9ca8eed5b06f3219381031c0bf27f6f04870",
+      "git_blob_sha": "9fca0b1459928062c2caae6e4a1d471dcc0254f5"
+    },
+    {
+      "path": "resultados/fondos_v015/tower_forma1.png",
+      "size": 223108,
+      "sha256": "f4b802ae55dd928c257d6c0284e5db17ac873121465c0ca3d95eb2c309f968a8",
+      "git_blob_sha": "3d2124a3a19f7c9632f46727d9734c146809186b"
+    },
+    {
+      "path": "resultados/fondos_v015/tower_forma2.png",
+      "size": 216015,
+      "sha256": "f04196aa8d6d206e12ef1f9cd4ff0739b717e14d0dfdb97914546379d2887279",
+      "git_blob_sha": "442389f91388fa83711f1a24c5e42c6d199f7400"
+    },
+    {
+      "path": "resultados/fondos_v015/tower_forma3.png",
+      "size": 218231,
+      "sha256": "a305a02dbcfa3cb99295ee9d9b5bc8a65b22a1ba40517186e291ffb3591b857e",
+      "git_blob_sha": "6b6f79bb9789f2629df41211d0e28167461246e4"
+    },
+    {
+      "path": "resultados/fondos_v015/validacion.json",
+      "size": 2180,
+      "sha256": "b1c097234d3e2331f0e42144643ae73c51b921ee9ca768f449fab68b207cf934",
+      "git_blob_sha": "fa0e9ab08b89113ceae0426fdc50c2d62ecb536d"
+    },
+    {
+      "path": "resultados/fondos_v015/village_forma0.png",
+      "size": 257896,
+      "sha256": "1f02c87d665b2ac0922fb993011f9759d2b17a84bfe8ff8b0633f5663c0c726c",
+      "git_blob_sha": "9dc7f2d84146054300351e6d087b3197b75022ab"
+    },
+    {
+      "path": "resultados/fondos_v015/village_forma1.png",
+      "size": 267220,
+      "sha256": "861370a46330b50a9fea959653c05c72bb6eec5a4f2d38abf8c65e99bba0ec2f",
+      "git_blob_sha": "b9542471530b667da0db3b4068a1ba1aed60f31b"
+    },
+    {
+      "path": "resultados/fondos_v015/village_forma2.png",
+      "size": 260891,
+      "sha256": "4a4dfc458c2a56dd60101a1942e78673a3f2f38b78cfe984a5a59b81886b836a",
+      "git_blob_sha": "89b0dee4403689cb19cb3cc8f13f21925c573bb8"
+    },
+    {
+      "path": "resultados/fondos_v015/village_forma3.png",
+      "size": 264567,
+      "sha256": "7c76b3ba5c7820c6ac909457161db07a6edeca0b4f45da88c254b17440e881d7",
+      "git_blob_sha": "4f33011a9ece468d77e2b5588ed3f3bce72d8ec6"
+    },
+    {
+      "path": "resultados/interfaz_v013/01_inicio.png",
+      "size": 88373,
+      "sha256": "a4087455d2d8be8c125e6234f2c92f2c8f3da5979402e53b2b19934bc3a57d4b",
+      "git_blob_sha": "4fd234b3c1d76848150138c1062f2b3d15fd2f51"
+    },
+    {
+      "path": "resultados/interfaz_v013/02_mapa_manual.png",
+      "size": 108234,
+      "sha256": "4eb1270279330755c71a189402ba75fbeaf339f2c84d6e8ca5ac24f8999b2bf1",
+      "git_blob_sha": "2fca643e8a2196751ca7c09e281f7d6393bb25f9"
+    },
+    {
+      "path": "resultados/interfaz_v013/03_siete_acciones.png",
+      "size": 119140,
+      "sha256": "b991cedfc2dcf689110cbcc090cecdff1ff5cc881897490a9a97bc2d5bc80490",
+      "git_blob_sha": "5acfe61a7344aa3ada30332112a6a073d1aa47b7"
+    },
+    {
+      "path": "resultados/interfaz_v013/04_forma_0.png",
+      "size": 115265,
+      "sha256": "270749c8e6c7db6f1289070f8d58bf0e5bccd8328869bdd5fec409d3e94841f3",
+      "git_blob_sha": "f88f7625f31b7be8242645235cd50d256b8fec97"
+    },
+    {
+      "path": "resultados/interfaz_v013/04_forma_1.png",
+      "size": 117105,
+      "sha256": "5e721636c2f43af41734e74f6d80c260567e4b75c1e2dac9e55499fa1d52ea83",
+      "git_blob_sha": "a2298e2b44922dcc81b446cf4f7c259cd86ab276"
+    },
+    {
+      "path": "resultados/interfaz_v013/04_forma_2.png",
+      "size": 119140,
+      "sha256": "b991cedfc2dcf689110cbcc090cecdff1ff5cc881897490a9a97bc2d5bc80490",
+      "git_blob_sha": "5acfe61a7344aa3ada30332112a6a073d1aa47b7"
+    },
+    {
+      "path": "resultados/interfaz_v013/04_forma_3.png",
+      "size": 116546,
+      "sha256": "7db1293e0b7999e850fadc39068beaed676c7382d204473fc70888672987bd7a",
+      "git_blob_sha": "9bd6f32a63c4573fbfe04c66c3043d98f01e1272"
+    },
+    {
+      "path": "resultados/interfaz_v013/05_laboratorio.png",
+      "size": 75193,
+      "sha256": "1556a9dbd238fe646d8c13c4a713d0fe63f2010d02750cbb97af99568585cad2",
+      "git_blob_sha": "78d567a599c44be61ba04a72fbbceb53b86991dc"
+    },
+    {
+      "path": "resultados/interfaz_v013/06_resultados_0.png",
+      "size": 60687,
+      "sha256": "94ece94a980b3201424c0b859b77079006218b7db5cf396293c4d3d7303a3f9b",
+      "git_blob_sha": "c7411609d0a1d4c16aa11d37711d484ce1822603"
+    },
+    {
+      "path": "resultados/interfaz_v013/06_resultados_1.png",
+      "size": 56058,
+      "sha256": "2f4fb0a20e67e66305508327c10b4180ebac12c2907ff7bd8fb0653e1a108359",
+      "git_blob_sha": "afb31f6d43f197e78ab1076e9b81e836a7446e30"
+    },
+    {
+      "path": "resultados/interfaz_v013/06_resultados_2.png",
+      "size": 55898,
+      "sha256": "ca5a5aef3fd9952275d260e5abf305f849814d9d90cb4f04b024f3ae7edfa1f0",
+      "git_blob_sha": "73d3a61959a60a71fcdb89a10c68673078064a49"
+    },
+    {
+      "path": "resultados/interfaz_v013/06_resultados_3.png",
+      "size": 56138,
+      "sha256": "6d1bf3a7054b5badd83c296501a750e8edee1d5fb67d08636cadf69332c9abc5",
+      "git_blob_sha": "89284de936a519f70d397bdc557d0a11df4d7e1a"
+    },
+    {
+      "path": "resultados/interfaz_v013/07_presentacion_0.png",
+      "size": 44857,
+      "sha256": "82fdef99ef0df456011c5f21889bf7fccfec2a8cb0c479abd95d122d14e7b42a",
+      "git_blob_sha": "33ad8ab0b917e29b78e2e3a51013c367f9de7038"
+    },
+    {
+      "path": "resultados/interfaz_v013/07_presentacion_1.png",
+      "size": 42881,
+      "sha256": "2c734831a65c7b7bdc19fdcea1d74974a6d10fb65cc58db3788a274dd1379a80",
+      "git_blob_sha": "2f6fae7b3ace2de0ee027e374942ce7ef479b54f"
+    },
+    {
+      "path": "resultados/interfaz_v013/07_presentacion_2.png",
+      "size": 43869,
+      "sha256": "1026d028d6189c938a19a798af8a67754853c4a35523f76d1cf3ac449cfee9f2",
+      "git_blob_sha": "134238bd50e484e7519af7e3421644e11da0d40c"
+    },
+    {
+      "path": "resultados/interfaz_v013/07_presentacion_3.png",
+      "size": 48172,
+      "sha256": "57c206d2a2fda35e248e79d49a3f51d67565963acb24422a6ce2bea55b9f59ac",
+      "git_blob_sha": "23f159522916b6de1049471b2e6a9130df89a6e2"
+    },
+    {
+      "path": "resultados/interfaz_v013/07_presentacion_4.png",
+      "size": 47649,
+      "sha256": "c8867587c67a68a541e426852eaa473ac483c9943f1ce81ac9a5c6b7589aef1f",
+      "git_blob_sha": "5e4785c2dcf5d4d322b737443e88f1f43253f7c6"
+    },
+    {
+      "path": "resultados/interfaz_v013/07_presentacion_5.png",
+      "size": 49050,
+      "sha256": "85541620463913f0e2ef23944626fe976baed648eb36e7a87a043fca684e4ece",
+      "git_blob_sha": "27004b22aaf8bd57ceff609d6a0f9e0ba39265b3"
+    },
+    {
+      "path": "resultados/interfaz_v013/08_final_dp.png",
+      "size": 113334,
+      "sha256": "ac769cb7d00e245f7ebe9269f6c1bfef7180e0f486acf498a98b740e8d27e2e1",
+      "git_blob_sha": "ccc7388a0726e924241bafd4acef7fdcd2d8fa5b"
+    },
+    {
+      "path": "resultados/interfaz_v013/08_final_mc.png",
+      "size": 113116,
+      "sha256": "8e6c29064da368dc4b2ad9c9173c92099a92e9726b478009dbb3a29eceb412cb",
+      "git_blob_sha": "5ddd57bf69bedb84e061c491745b860b9eb82efe"
+    },
+    {
+      "path": "resultados/interfaz_v013/09_derrota.png",
+      "size": 112170,
+      "sha256": "1a84e245732bfd19294c7f8a5572400b6c53661b61914b4ffd6b9b2be19f5bcb",
+      "git_blob_sha": "48ffa3ccf063826131b0d0b5226e5caefe605dfa"
+    },
+    {
+      "path": "resultados/interfaz_v013/09_victoria.png",
+      "size": 113116,
+      "sha256": "8e6c29064da368dc4b2ad9c9173c92099a92e9726b478009dbb3a29eceb412cb",
+      "git_blob_sha": "5ddd57bf69bedb84e061c491745b860b9eb82efe"
+    },
+    {
+      "path": "resultados/interfaz_v013/10_ayuda.png",
+      "size": 91010,
+      "sha256": "dcb520d6c0d1447d2d9720116d7e6312f6728e5ed966d85af0c70ca3e53459c6",
+      "git_blob_sha": "96ce294917da65ca37b05b3053a5e77d306509ce"
+    },
+    {
+      "path": "resultados/interfaz_v013/11_creditos.png",
+      "size": 87330,
+      "sha256": "dc4a8192aea4d02eb71b73f37e7467205246fcaab67ddc1b4f730fade16e12f0",
+      "git_blob_sha": "774218fa21a3db316e95f9b157188814482de80d"
+    },
+    {
+      "path": "resultados/interfaz_v013/contacto.png",
+      "size": 547472,
+      "sha256": "638c3eec8e324cfc8b2eb776ee6161ecf1411e879088f04d84ad310967991eb2",
+      "git_blob_sha": "da33808a1c82bbdba9b05a1398bdfeca2c1d0007"
+    },
+    {
+      "path": "resultados/interfaz_v013/validacion.json",
+      "size": 1460,
+      "sha256": "beda32c19bbf8f63a83869da9f8249f89139133520128379daee0478b3a3f247",
+      "git_blob_sha": "d3b42c19605f2e2bc5468591019b0909282ae273"
+    },
+    {
+      "path": "resultados/mapa_v017/00_inicio_con_narracion.png",
+      "size": 762338,
+      "sha256": "cf7b2cfff0cabb3151262e92fc89e0389dfe1bac9ed678929c5fdd24231fae26",
+      "git_blob_sha": "02735dd0fb42d4eb8e96e1d883614a481d4189af"
+    },
+    {
+      "path": "resultados/mapa_v017/Vista_Previa_Mapa_v017.png",
+      "size": 756074,
+      "sha256": "d82f856c22f7dd05fc98936b7ce7ebdfd17ba6012e178b503a36b5ae8aa22601",
+      "git_blob_sha": "afcf1d91fa6d6a9e74c969f4143ed4cfdb009ae8"
+    },
+    {
+      "path": "resultados/mapa_v017/aviso_cave.png",
+      "size": 734499,
+      "sha256": "5eef8262b4aadad8b9a64293a7ba46908f18be113b8616efb4c3d7521d238dc5",
+      "git_blob_sha": "68845b0ddecb263760dbe0b6ced86eea364c7658"
+    },
+    {
+      "path": "resultados/mapa_v017/aviso_forest.png",
+      "size": 754292,
+      "sha256": "5a16c996091c61bf27ef33bdfca73ae739ebc17216defadc9704fb90677c3c60",
+      "git_blob_sha": "6494bd5bdb6604f031146d325d1307254b421b3b"
+    },
+    {
+      "path": "resultados/mapa_v017/aviso_fortress.png",
+      "size": 718499,
+      "sha256": "0021aa62b6ff7b44039b03844b344300ea4bc2392ab1b0edabc469878b7da3f6",
+      "git_blob_sha": "14190a2851c1481fe0bf8d1f6a65feb47d2e96e1"
+    },
+    {
+      "path": "resultados/mapa_v017/aviso_ruins.png",
+      "size": 767678,
+      "sha256": "380421d90fced7d20b5bebcbd6decb04898c59df899b7c8f94c5dc9f84ca01e5",
+      "git_blob_sha": "0f37d201a122dacf908ca2d8ecd51ab495e6774c"
+    },
+    {
+      "path": "resultados/mapa_v017/aviso_swamp.png",
+      "size": 745892,
+      "sha256": "a3a32958327648c252b5a87c9749cbd4327cd6f4d8a679617372989da0488ba6",
+      "git_blob_sha": "12e4ea4e6815772f2e1bb6f8c3099df3384f6c44"
+    },
+    {
+      "path": "resultados/mapa_v017/aviso_tower.png",
+      "size": 731926,
+      "sha256": "f439cd94dd9aa3f51929d51731f7926b3e1d41a81c12fd5d4da7630440982145",
+      "git_blob_sha": "e46b61e2c9ccade0a0e0dda23e6f765fdf03ee01"
+    },
+    {
+      "path": "resultados/mapa_v017/aviso_village.png",
+      "size": 762338,
+      "sha256": "cf7b2cfff0cabb3151262e92fc89e0389dfe1bac9ed678929c5fdd24231fae26",
+      "git_blob_sha": "02735dd0fb42d4eb8e96e1d883614a481d4189af"
+    },
+    {
+      "path": "resultados/mapa_v017/combate_bloquea_rutas.png",
+      "size": 702024,
+      "sha256": "bbfadc98e85f0b8103017ea54248299cb2d18b86a3141d41f3192cb18c674162",
+      "git_blob_sha": "e452e97631bb5e568c10fbd118a5be4981f3e0ab"
+    },
+    {
+      "path": "resultados/mapa_v017/despejada_cave.png",
+      "size": 729960,
+      "sha256": "108b1e10b7b97f17fdc3a53918d403e0aa2c12820b115e64863f98329275a38e",
+      "git_blob_sha": "67f34d19030bc66b81c2b0fe25267c21e62f8ea6"
+    },
+    {
+      "path": "resultados/mapa_v017/despejada_forest.png",
+      "size": 750352,
+      "sha256": "fea2820cc3ad32dd9aefccf6d1d2e47527016108fdda9971522fff9b4a00f627",
+      "git_blob_sha": "db46f72538aa77df3e85c9bef0b58a35f9d4b55f"
+    },
+    {
+      "path": "resultados/mapa_v017/despejada_fortress.png",
+      "size": 712802,
+      "sha256": "8c5d87d74b22e5d03b8b067a04611f370db3e49f0b13a2c425094c5ef0abf3eb",
+      "git_blob_sha": "c9d867186d5670999406bcd8bcd4ead78ceda4b8"
+    },
+    {
+      "path": "resultados/mapa_v017/despejada_ruins.png",
+      "size": 764307,
+      "sha256": "4b706bb9fe02c7950cea7dd7b0679c595c2ea79ab9fc5af2569a918338a79522",
+      "git_blob_sha": "5dc1e080b3e20ec304d7458df9e13660f5724d4d"
+    },
+    {
+      "path": "resultados/mapa_v017/despejada_swamp.png",
+      "size": 741297,
+      "sha256": "742fa6821f906a267e4636828f8b1985f8226f8479d49d60f493b7dc42f08ad5",
+      "git_blob_sha": "c339cdf34d93c56976ea2ccf63f5f0dc1f0533c9"
+    },
+    {
+      "path": "resultados/mapa_v017/despejada_tower.png",
+      "size": 727465,
+      "sha256": "4293336eb65b072e5e482e8e98662ccde941d6bb2514e1bbec64d2c5f8240961",
+      "git_blob_sha": "e4734af125623d66ebfce71db79930f66e18dc0a"
+    },
+    {
+      "path": "resultados/mapa_v017/despejada_village.png",
+      "size": 757317,
+      "sha256": "f9a76c93de23c3824ec1fe15fe4ba76cd18bcbf50e7f14be46637ecd6a7c9f02",
+      "git_blob_sha": "02c68e7197ebae5149d50e8a3cea46e54e2dbbd4"
+    },
+    {
+      "path": "resultados/mapa_v017/forma_0.png",
+      "size": 699826,
+      "sha256": "6016f856bfebe4a1f8387c09e2c9c7015ad3ceca3f8b075cc2ebc31ac833a04e",
+      "git_blob_sha": "54a634604b14f9e020eebefcafa936c07ffff1d9"
+    },
+    {
+      "path": "resultados/mapa_v017/forma_1.png",
+      "size": 708865,
+      "sha256": "2081afc4dc55211770764e8811f02d923b5ddaf480ccdec344d12ee7054e0a15",
+      "git_blob_sha": "18813737733bdfb914f8bc4711e4a2546455a6be"
+    },
+    {
+      "path": "resultados/mapa_v017/forma_2.png",
+      "size": 705905,
+      "sha256": "086626cdbf50ccc7e3818ab4e519191094f1313c4c8ba8319760bc9c8c14c383",
+      "git_blob_sha": "6dd141db530b0b2b125312812847731916c06869"
+    },
+    {
+      "path": "resultados/mapa_v017/forma_3.png",
+      "size": 704461,
+      "sha256": "4c60ca6852bdd6eebb3332660e07d04fcf18d2c3c86797569455db3a08565ab1",
+      "git_blob_sha": "b1cc4b2024d3c92c74ea958df15b226867b28da9"
+    },
+    {
+      "path": "resultados/mapa_v017/informacion_riesgo_caverna.png",
+      "size": 722053,
+      "sha256": "d631abe917bdd92170c97da3f0c702576a13e953e970ad589db8f07158680bcf",
+      "git_blob_sha": "22c4d60a51e8af864fab4c7e8ed1ef7d5dc5fbf0"
+    },
+    {
+      "path": "resultados/mapa_v017/region_cave.png",
+      "size": 706088,
+      "sha256": "d84a455d950a2dfce48f0c2e3f70477250f388ab1678a9d4678662143bed4c3a",
+      "git_blob_sha": "2fad709283aa9bcaae28843d56d15305f20e681c"
+    },
+    {
+      "path": "resultados/mapa_v017/region_forest.png",
+      "size": 724120,
+      "sha256": "3a0ca2561afad2ce10f116c800dbc0181a2ca3e0625db2535c2f8153e961a653",
+      "git_blob_sha": "465fba3c5d067fd026c4837dd5ee344e369fa0c1"
+    },
+    {
+      "path": "resultados/mapa_v017/region_fortress.png",
+      "size": 699826,
+      "sha256": "6016f856bfebe4a1f8387c09e2c9c7015ad3ceca3f8b075cc2ebc31ac833a04e",
+      "git_blob_sha": "54a634604b14f9e020eebefcafa936c07ffff1d9"
+    },
+    {
+      "path": "resultados/mapa_v017/region_ruins.png",
+      "size": 740546,
+      "sha256": "a5952968fa0b5a9043eb0d78eee968001056e6fa3ffc56999f7c22376a134f08",
+      "git_blob_sha": "85ff57a9e3f6228a6ed2c07a359c7a05b2badfc2"
+    },
+    {
+      "path": "resultados/mapa_v017/region_swamp.png",
+      "size": 720044,
+      "sha256": "a74953d3d89fc0609d99fdb1c469990f116fb32b8dfbb013860adb9b431caa3b",
+      "git_blob_sha": "6078640843c8741b2528571f8949b2b0b056eb2c"
+    },
+    {
+      "path": "resultados/mapa_v017/region_tower.png",
+      "size": 711055,
+      "sha256": "09539933fffe34d6415e19f32c95bd0d207e507693eab13fa416398fc55f3692",
+      "git_blob_sha": "6938d020cb349d60db654508bb84157cd7485187"
+    },
+    {
+      "path": "resultados/mapa_v017/region_village.png",
+      "size": 757317,
+      "sha256": "f9a76c93de23c3824ec1fe15fe4ba76cd18bcbf50e7f14be46637ecd6a7c9f02",
+      "git_blob_sha": "02c68e7197ebae5149d50e8a3cea46e54e2dbbd4"
+    },
+    {
+      "path": "resultados/mapa_v017/respaldo_sin_imagen.png",
+      "size": 263289,
+      "sha256": "cbb4339550d88251f43ac6c8c57187f28f52a7de745ccda6dc453559e8d96668",
+      "git_blob_sha": "675cfd488233ebce7f15639a76229256e4249bac"
+    },
+    {
+      "path": "resultados/mapa_v017/ruta_cave_swamp.png",
+      "size": 718567,
+      "sha256": "6086163c004f4c3f811bb2eb29341c3e9fc76fc38448fab46b4d2157da334a5e",
+      "git_blob_sha": "0a32d2e2abb2ddc2d839ee024c9fe8db481e5f43"
+    },
+    {
+      "path": "resultados/mapa_v017/ruta_forest_swamp.png",
+      "size": 718224,
+      "sha256": "7d43db2122338918c8e6dc4a68c87d119e154c7270a82ecb2d1deef755e76844",
+      "git_blob_sha": "431153ae35796c542de9339406004c6c93277a83"
+    },
+    {
+      "path": "resultados/mapa_v017/ruta_ruins_fortress.png",
+      "size": 699798,
+      "sha256": "828ff5f2bb2f83a586063a1abeb3652a540275d0dc4ccd30d07c1638a0a80712",
+      "git_blob_sha": "644ad390b6122452527547903a368b55b7a8fc65"
+    },
+    {
+      "path": "resultados/mapa_v017/ruta_swamp_ruins.png",
+      "size": 736770,
+      "sha256": "479f20e09932d3b997c9c37a835f5230a7328acc500725c25015610e5f4db5eb",
+      "git_blob_sha": "30ce4f93ee083c657479b4ebad76455f1e1cb37c"
+    },
+    {
+      "path": "resultados/mapa_v017/ruta_swamp_tower.png",
+      "size": 709755,
+      "sha256": "40de2ddbe5fdb378b675083b3ee3fad2fec5f88a2bd6ca9f47d57b54138bfc08",
+      "git_blob_sha": "05149936865e86acfb78eba2339ec494379603e8"
+    },
+    {
+      "path": "resultados/mapa_v017/ruta_tower_fortress.png",
+      "size": 699859,
+      "sha256": "bc647fc5973d724950ce9781d879cd5e4a4257de29f74bd30bbfd15afbff53f9",
+      "git_blob_sha": "4e4d2eeaee2ebe16f7e9489b470d0f20b2252e9a"
+    },
+    {
+      "path": "resultados/mapa_v017/ruta_village_cave.png",
+      "size": 705534,
+      "sha256": "225cdcf4544a35da2c83291bad924ac2c884ef09aa30c51ae886afcfee19f004",
+      "git_blob_sha": "add86bd8605bc69ed66b9be7fda9ca591a964c58"
+    },
+    {
+      "path": "resultados/mapa_v017/ruta_village_forest.png",
+      "size": 722743,
+      "sha256": "42347b3bf6b70a4df0fcf5864f06ab6e77207649a3beec266f015832bf5fd0c4",
+      "git_blob_sha": "5ad4ad9b8193c44df187a1d6a3573fce6646c2ab"
+    },
+    {
+      "path": "resultados/mapa_v017/solo_lectura_dp.png",
+      "size": 763774,
+      "sha256": "35fd4584f2aacfefcde90bdde6171b0b22b700551de3b5b2d09d2635a757eb78",
+      "git_blob_sha": "a6cb2959e20e6a18789c6d3fa76af3994f7e5761"
+    },
+    {
+      "path": "resultados/mapa_v017/solo_lectura_mc.png",
+      "size": 763884,
+      "sha256": "cdce994183ee2a686e141305d6755d2378d72b19dd299abcdb26a8743a75dc1e",
+      "git_blob_sha": "a594caa3a6d6cab91fd47f3449479bcd70103fa8"
+    },
+    {
+      "path": "resultados/mapa_v017/validacion.json",
+      "size": 2742,
+      "sha256": "99f9e7fac455d880fb8e4b1966c42f01cf21e845b330955930cbc1c8fe31b74f",
+      "git_blob_sha": "7588809d954e889eabcd0c57e6525ab2c6c3ff41"
+    },
+    {
+      "path": "resultados/mapa_v017/ventana_1024x768.png",
+      "size": 757317,
+      "sha256": "f9a76c93de23c3824ec1fe15fe4ba76cd18bcbf50e7f14be46637ecd6a7c9f02",
+      "git_blob_sha": "02c68e7197ebae5149d50e8a3cea46e54e2dbbd4"
+    },
+    {
+      "path": "resultados/mapa_v017/ventana_1366x768.png",
+      "size": 757317,
+      "sha256": "f9a76c93de23c3824ec1fe15fe4ba76cd18bcbf50e7f14be46637ecd6a7c9f02",
+      "git_blob_sha": "02c68e7197ebae5149d50e8a3cea46e54e2dbbd4"
+    },
+    {
+      "path": "resultados/mapa_v017/ventana_1920x1080.png",
+      "size": 757317,
+      "sha256": "f9a76c93de23c3824ec1fe15fe4ba76cd18bcbf50e7f14be46637ecd6a7c9f02",
+      "git_blob_sha": "02c68e7197ebae5149d50e8a3cea46e54e2dbbd4"
+    },
+    {
+      "path": "resultados/mapa_v017/ventana_800x600.png",
+      "size": 757317,
+      "sha256": "f9a76c93de23c3824ec1fe15fe4ba76cd18bcbf50e7f14be46637ecd6a7c9f02",
+      "git_blob_sha": "02c68e7197ebae5149d50e8a3cea46e54e2dbbd4"
+    },
+    {
+      "path": "resultados/pruebas_v013.txt",
+      "size": 14841,
+      "sha256": "30d0ced8e265556f30f772967cef23958d681e06db60c99178eef0e4256cc112",
+      "git_blob_sha": "edb810a6e81d0505abdb02cb09a2ce493da8052e"
+    },
+    {
+      "path": "resultados/pruebas_v014.txt",
+      "size": 16332,
+      "sha256": "6923ac34e694ae87862ffcafce5e468ea93e1f374b7e8caf93e5cf0c1769f792",
+      "git_blob_sha": "38209c5c6e10fc5aba795a15f731d08d1f41a27c"
+    },
+    {
+      "path": "resultados/pruebas_v0141.txt",
+      "size": 16823,
+      "sha256": "c295688ceb9f745ec80f50a2147d7a3a7f7e81ba3bdced8c4734cfcb99686ff2",
+      "git_blob_sha": "1cead073b254be5783a2ed472ee4054f83e89c8e"
+    },
+    {
+      "path": "resultados/pruebas_v015.txt",
+      "size": 16987,
+      "sha256": "f723fb1bab137755fcc8be56d673ecd8629f5f7da93a8c66c4268e45116595d7",
+      "git_blob_sha": "22be3d970a0b0df303db3701c664457b45e1d114"
+    },
+    {
+      "path": "resultados/pruebas_v016.txt",
+      "size": 18506,
+      "sha256": "e53011e3e739e6cf60f371314581dc16343a056f01e2b3af8ce8d99058560589",
+      "git_blob_sha": "b6bd8dd5125732a236d3d3dcb4a9e90037bf729e"
+    },
+    {
+      "path": "resultados/pruebas_v017.txt",
+      "size": 19624,
+      "sha256": "194bc12772b1e33956b2c9413769c06e0ee665c09bc9c2624cc6a9fadff56652",
+      "git_blob_sha": "ef60f32e0cb5dc4b9183e85c4597c20c6e4f305d"
+    },
+    {
+      "path": "resultados/pruebas_v018.txt",
+      "size": 21081,
+      "sha256": "08f21d7afb3b1fdb3a263b2539f6e3799b92d7fcd7446c7567891a40ea5336f0",
+      "git_blob_sha": "c06dcfa5227b8012fc5690fd28f7125982317839"
+    },
+    {
+      "path": "resultados/pruebas_v019.txt",
+      "size": 21081,
+      "sha256": "a45b5410a4dd52af7fc54123a56e31afb24d0ebaab1780a863348ee8c74dcb4f",
+      "git_blob_sha": "10ec4467cc87437f31ea9e38d41bb4a17b472265"
+    },
+    {
+      "path": "resultados/pruebas_v020.txt",
+      "size": 22393,
+      "sha256": "04ae84ef42da6cfef8a775b3ed23bed270a6d807e32e53b1801dd44347dbfb33",
+      "git_blob_sha": "7c5596847aede2bd4ba1a46f3c544cf9ccc30f7d"
+    },
+    {
+      "path": "resultados/pruebas_v021.txt",
+      "size": 23664,
+      "sha256": "141657ba620e90923a25b16b90c040bf24965d0af8a4d821509b91461b858e5e",
+      "git_blob_sha": "baa10ce050bcc1d524c2ef631addafebf947fe24"
+    },
+    {
+      "path": "resultados/pruebas_v0211.txt",
+      "size": 24212,
+      "sha256": "1d25f54cd99f9e1fb986d461fbf839005a905899f0481629adae058e4a7342f5",
+      "git_blob_sha": "71a0a5247be59004101c7f7ebec03a078d8e946d"
+    },
+    {
+      "path": "resultados/publicacion_v022/cambios_documentales.json",
+      "size": 1262,
+      "sha256": "a4a422d9b728bd74f6f1f5491afcf9c1952ee3e8f309ef349e60aba885815dd8",
+      "git_blob_sha": "552951fd5861365136f41ae3bf46dfa6a1cbc479"
+    },
+    {
+      "path": "resultados/publicacion_v022/creditos_publicos.png",
+      "size": 244144,
+      "sha256": "21d2dc68c5369bf4047564af02c00a0cb85ccd10160b58f2214b15fc75ef00c9",
+      "git_blob_sha": "d7de339f78c589b995f527788c384828d6e74e08"
+    },
+    {
+      "path": "resultados/publicacion_v022/pruebas_publicacion.txt",
+      "size": 100,
+      "sha256": "3b29cdd9b96cc209dadcd6ac16fe3412dc78feca454676e1eb4934ee55932f72",
+      "git_blob_sha": "2b08bfc092ef8882a4adb23af8edeb35b19e914f"
+    },
+    {
+      "path": "resultados/publicacion_v022/resumen_publicacion.json",
+      "size": 1221,
+      "sha256": "f08ea130d0f1de23e55f04487ea137ba4e7447ae0ccd2a2fac6884994d4800de",
+      "git_blob_sha": "4a69912347887f3aa547beca784cebbfcc0a034a"
+    },
+    {
+      "path": "resultados/publicacion_v022/validacion_creditos.json",
+      "size": 1689,
+      "sha256": "72e73d855542e8074fb449498d7e55c3f15a58cced3490434c5e3377bbf59c90",
+      "git_blob_sha": "f86b0b00bf154804e0b2c40dfd0c9f053f2e7385"
+    },
+    {
+      "path": "resultados/revision_visual_informe_v019.json",
+      "size": 265,
+      "sha256": "3b4f2c9e0dd23ea9d612635dedf3b45150b6b17093c39743e71a3950359e4d74",
+      "git_blob_sha": "59e3f4572886f48ed8af4d31cdda0f1fff73121a"
+    },
+    {
+      "path": "resultados/rutas_v021/auditoria_sin_rl.txt",
+      "size": 291,
+      "sha256": "3626f86f61d38f7ed79cf6675c3ab9b6d9eeafea0009f6250e2dfd9325617611",
+      "git_blob_sha": "cacea3a86b11fed5ef88e8d6afca59d605229c77"
+    },
+    {
+      "path": "resultados/rutas_v021/balance_v020_historico.json",
+      "size": 493,
+      "sha256": "306dbcfac855333ca52691abe77571c5c5418d1be440155412967a23c666afd3",
+      "git_blob_sha": "d5ab9ea57213c1b6676929fbcf851131533c60c5"
+    },
+    {
+      "path": "resultados/rutas_v021/continuidad.json",
+      "size": 1469,
+      "sha256": "cf15782973540c85b6b767327a66baa1fae324bff1f6a9a36d730fe7a1557ef2",
+      "git_blob_sha": "41222ab15e3d1e109a8912b7213a83a46cbea168"
+    },
+    {
+      "path": "resultados/rutas_v021/entrada_juego.json",
+      "size": 221,
+      "sha256": "553dcf8150da05e89135eda9cf1a360797e8222519926094b5cb35a51102ba1d",
+      "git_blob_sha": "005fb679691b2c6783c0cd55c28c2cb1037c245f"
+    },
+    {
+      "path": "resultados/rutas_v021/informe_historico.json",
+      "size": 707,
+      "sha256": "a78c39fbbfc31e56ad47f7da1b74a55de6d77a4ec492851a85ec6bb5b8be6102",
+      "git_blob_sha": "60c46f64817642036cd32f87d18f860e9b918bc4"
+    },
+    {
+      "path": "resultados/rutas_v021/interfaz/01_antes_del_refugio.png",
+      "size": 758568,
+      "sha256": "04341977d3e789913cc0d8c1c8a5a8c3ad0e961c06ac9cde40dc5bc1d9dabe6a",
+      "git_blob_sha": "3b43e090df22f3e1075dda3599da24727b58d644"
+    },
+    {
+      "path": "resultados/rutas_v021/interfaz/02_refugio_de_cristal.png",
+      "size": 783221,
+      "sha256": "7a4b684377dc386b41a709ed621b6d3686a3a1bcd7dbe0ff7853300df779bc92",
+      "git_blob_sha": "f760f661c392d5465e8d735ae693f4cdb54fb074"
+    },
+    {
+      "path": "resultados/rutas_v021/interfaz/03_guardromon.png",
+      "size": 724048,
+      "sha256": "05fe8888fa56b7a6cf61a8e07d710876d20f28cc06dfd1477574f9f8e18c0c54",
+      "git_blob_sha": "2cecc3882db46d9701a010833a5bcf2b21c308c3"
+    },
+    {
+      "path": "resultados/rutas_v021/interfaz/04_botin_del_abismo.png",
+      "size": 757350,
+      "sha256": "3ff5c8d884f477080736c395110f5840f9a9c6ab0291a51810ae3d900c514e6b",
+      "git_blob_sha": "d3efde3f6189a73905fbddc5606b7162f685e107"
+    },
+    {
+      "path": "resultados/rutas_v021/interfaz/reporte.json",
+      "size": 712,
+      "sha256": "9ac382084817902edce4a2a0649023af3ac9ea4e60e42c017a6a7d5cbf715a69",
+      "git_blob_sha": "2c4f579d9006310cb1caf31cfd56543c30fbd117"
+    },
+    {
+      "path": "resultados/rutas_v021/validacion_fondos.json",
+      "size": 2617,
+      "sha256": "4ea1fc9e002c02cc8e383fefedd1f8a1ec4973f22f41d4b71ddc1d380b4162e0",
+      "git_blob_sha": "aedb7c52f485e3c16515d8029bc6339bc6689f40"
+    },
+    {
+      "path": "resultados/rutas_v021/validacion_interfaz.json",
+      "size": 1460,
+      "sha256": "d066e30794045ccaca223a476ddc0f4469d780f7bbec509099f858195f10bf3c",
+      "git_blob_sha": "3ca22038b5feab63feb4e484ead67e3b9322988c"
+    },
+    {
+      "path": "resultados/rutas_v021/validacion_mapa.json",
+      "size": 3655,
+      "sha256": "e968896bb05f06d6231563265050ae3a80cc61be311dc29023d3a708aea77c2a",
+      "git_blob_sha": "28a0dcc07b30a35a47c31a824a27ad760aa18767"
+    },
+    {
+      "path": "resultados/validacion_audio_v018.txt",
+      "size": 3260,
+      "sha256": "b23511633b131d06b49791361e6b5fd7161039dfdf2e41b07f1425efe76d058d",
+      "git_blob_sha": "4f6b459610d27f03dee49c6eb832e8d08785b9ce"
+    },
+    {
+      "path": "resultados/validacion_basicos_v0141.txt",
+      "size": 3675,
+      "sha256": "fdb1cd83ee9d04a335db11b395994382a30e11099740bbf3372ce2f822870cf2",
+      "git_blob_sha": "6fc167b43cb2190c5eead29e4fdf4232367857fa"
+    },
+    {
+      "path": "resultados/validacion_combate_v016.txt",
+      "size": 3510,
+      "sha256": "6183954ce773c664434642b922dc211c84b7fcea4fbf33e2f7d896dba492dc45",
+      "git_blob_sha": "e5ed5fba2037dfb437be952c0bbc91ede5f79097"
+    },
+    {
+      "path": "resultados/validacion_efectos_v014.txt",
+      "size": 2068,
+      "sha256": "eec946ee2817ebf30558037426232485938e1efc5cc001860d0ef994fa41ad2f",
+      "git_blob_sha": "adc7d948b2ee7a368534d5f6b8885c8ea203e954"
+    },
+    {
+      "path": "resultados/validacion_fondos_v015.txt",
+      "size": 2295,
+      "sha256": "8a304224f3b7aa94e19aa9cffc4edf06b5f3f135521ba45695a387bab74e1032",
+      "git_blob_sha": "63facf1d67c0c4298903d91f04547c30fddcb510"
+    },
+    {
+      "path": "resultados/validacion_interfaz_v013.txt",
+      "size": 1575,
+      "sha256": "57cfc1a5069ab2672219ead79b8a46b49801d8e4afb4cf1ca9fcda0bf609e0d4",
+      "git_blob_sha": "460ece0b2f168e0ee7c1fb3545370347e8c226e0"
+    },
+    {
+      "path": "resultados/validacion_mapa_v017.txt",
+      "size": 2857,
+      "sha256": "e186fee8a95efef3ef9a9db93fbb327959178bdf60b1b6e018dbcbfead9b81ba",
+      "git_blob_sha": "c6ddfcd074f7e1798ebb582a71791cec12df2347"
+    },
+    {
+      "path": "resultados/validacion_v0_7.json",
+      "size": 726,
+      "sha256": "1f1824db1963e52cff8c0a60909ed9ae5fa41f53e5d031edb538d21003e44577",
+      "git_blob_sha": "cc637e6a730dcc96df9043d4ae830bb01fad67fc"
+    },
+    {
+      "path": "resultados/validacion_v0_8.json",
+      "size": 1206,
+      "sha256": "df936d93e1f4980a744ca394b6972e210c5a79e4194e414f303a85bacbf27497",
+      "git_blob_sha": "0b06724f33dbc6ea73f8fee1c864a0f100e7ffb7"
+    },
+    {
+      "path": "resultados/validacion_v0_9.json",
+      "size": 953,
+      "sha256": "a4ae5727c0e360a60b197f44d372725c5fb31df8e977919136c41234f27d8392",
+      "git_blob_sha": "e1556ca4c1fc77e008c43be6c43c42a1b6cdff3d"
+    },
+    {
+      "path": "resultados/verificacion_entrega_v019.json",
+      "size": 670,
+      "sha256": "43737b9d9fb74bfebacd4716a722582427a8d899fac621da7adc3ef1de9d1015",
+      "git_blob_sha": "1e7166a3c14aa39a430c67d921990d536e71ceb0"
+    },
+    {
+      "path": "scripts/auditoria_academica_v082.py",
+      "size": 9695,
+      "sha256": "2ed586e74ae6cf2d1bab79dd93182a2e2346350f1360a39b2121fa6f2f71a157",
+      "git_blob_sha": "3cc8f3b59d5d3f4ef322fea21f08d2117bbcb5d7"
+    },
+    {
+      "path": "scripts/auditoria_academica_v09.py",
+      "size": 9763,
+      "sha256": "6a5713b76c2178389eb15c142473992e4413b0e31ef10e13bc7034fdaaa56d8f",
+      "git_blob_sha": "ea2df8d92d8031c1f2fffabbe39a9d629e5fdb5b"
+    },
+    {
+      "path": "scripts/curvas_aprendizaje_v011.py",
+      "size": 13479,
+      "sha256": "85eb8a444e571b6c667fec1a4defdb7d337c91771dc6279b22fcb0b9fa2130ac",
+      "git_blob_sha": "4c90c5c5fd01bb57c83c5ce381ea40c60f742a02"
+    },
+    {
+      "path": "scripts/curvas_aprendizaje_v020.py",
+      "size": 13573,
+      "sha256": "b5c4cf8dd2e8bd490e393b3599aea13b56ab26f66ef072edfe4632219e5d1b70",
+      "git_blob_sha": "ed3d214a822e30379ae4a52475a548186a469b02"
+    },
+    {
+      "path": "scripts/curvas_aprendizaje_v021.py",
+      "size": 13405,
+      "sha256": "ccd6a941e0ada72b0ce689388ec0a51d13ac5fcddcbec299210f9d2c27dc1bb0",
+      "git_blob_sha": "461e0c7575fd443585546cd09038c36849a14282"
+    },
+    {
+      "path": "scripts/entrenar_balance_v020.py",
+      "size": 5102,
+      "sha256": "208f2016219a1e1c1db50084207e2cd471880477dee0c1fb9fa1b2bccfdd69b2",
+      "git_blob_sha": "bdbad836ecb7b61b291712736b7b3b7570c3badf"
+    },
+    {
+      "path": "scripts/entrenar_balance_v021.py",
+      "size": 5123,
+      "sha256": "7793864dc2803fbd58c013b21b0e8a05046faf4ac0f72053049fb096a112eca1",
+      "git_blob_sha": "4e62961979e4cca07b548c77e78306a369a7ebd6"
+    },
+    {
+      "path": "scripts/generar_informe_v019.py",
+      "size": 16327,
+      "sha256": "8975d1d4da2a96d564b42a767af77e2329268242650d768c3fa142c4fdc0030d",
+      "git_blob_sha": "72464e7dd74cc7fbb34637a96d728b6e3abbe175"
+    },
+    {
+      "path": "scripts/generar_sonidos_v018.py",
+      "size": 5044,
+      "sha256": "a007c51c16427dc9d95d55ba55ceeca7f40fe524bead86944dad6097153ef39d",
+      "git_blob_sha": "edd2763672fc4402bd75123a1de3f7cb9c8035bf"
+    },
+    {
+      "path": "scripts/generate_demo_art.py",
+      "size": 16047,
+      "sha256": "55764a11bbbee81e18294791e6e8c8732668ebc6e0aa2b9111bad8fbf3cc6cdb",
+      "git_blob_sha": "ae10676011876df260b3d72454f3be761df6c798"
+    },
+    {
+      "path": "scripts/grabar_demo_v018.py",
+      "size": 7033,
+      "sha256": "739dc23b98f87a3d2cd44fc349fb7e383a1f885c8e9f4c25990f0eabd31279b4",
+      "git_blob_sha": "5d86c4c45c9e7e68160eb4ee3df7fdcf9328a4b8"
+    },
+    {
+      "path": "scripts/graficar_balance_v020.py",
+      "size": 2934,
+      "sha256": "cff0ce79be4643a93b7da5aa053bdc3d7590189a82cc9f21db726ab8a428aadd",
+      "git_blob_sha": "38f5b1d46355c5f66d16866dace6f19cdd8c5487"
+    },
+    {
+      "path": "scripts/graficar_rutas_v021.py",
+      "size": 420,
+      "sha256": "390c11bd487dedc4a7b4e49e959207ffc9dd99b89b66a583284d6bf2bb9d7851",
+      "git_blob_sha": "726d618c52ef451231f07460aaf9b87df1499ce7"
+    },
+    {
+      "path": "scripts/import_digidex_sprites.py",
+      "size": 2208,
+      "sha256": "398617441eace755f1ed0c80eb17bf1ff22bb63593aee80b7ed0d136cf35d1ae",
+      "git_blob_sha": "9ea243355559f6dfafbad190a6d2b85266626c23"
+    },
+    {
+      "path": "scripts/plot_results.py",
+      "size": 2748,
+      "sha256": "2c877abed528fd2bcbe8a62a5a7ca8f5a1c78388289f98a3fa1e2b1e96d985a4",
+      "git_blob_sha": "f948825a0bbee748b6a58e18c9484bf49981c7c6"
+    },
+    {
+      "path": "scripts/reproducir_balance_antes_v019.py",
+      "size": 2089,
+      "sha256": "3a04168df26a0501b4e6cf0396aab6a00f651f67eea3ebd7a1b92dfdcf421c4f",
+      "git_blob_sha": "2e96a0c10aff3f00bada162f853427959c91e4e8"
+    },
+    {
+      "path": "scripts/retrain_mc_v082.py",
+      "size": 2047,
+      "sha256": "e5fad51fa96d220ca85e67251a5ccaf853df4f28c0cddfcfa34f4a9da30d6b55",
+      "git_blob_sha": "314e7a429a206f4f68dea82b29249b3aee1cc15a"
+    },
+    {
+      "path": "scripts/validar_audio_v018.py",
+      "size": 12143,
+      "sha256": "da2a1023a5a85bb805af56b71f57487d368f7c0778a84080b0555b0d80705dc5",
+      "git_blob_sha": "b48a0fe62433d6073af9e55d7277723713a53a4f"
+    },
+    {
+      "path": "scripts/validar_balance_v020.py",
+      "size": 5266,
+      "sha256": "b312e88a2b0fb4d87fd477123e349ca0fce34503ca77bc6b19340a8c966666c4",
+      "git_blob_sha": "7ae30033db5bde5226a90c5d9790151431ca3daf"
+    },
+    {
+      "path": "scripts/validar_balance_v021.py",
+      "size": 5186,
+      "sha256": "81ada19ef3deb4abff069aa4a165be4d815f67ae84f0b38d43df3f74baec454b",
+      "git_blob_sha": "529dd575557207f20820e49523904b7f354bc746"
+    },
+    {
+      "path": "scripts/validar_basicos_v0141.py",
+      "size": 5497,
+      "sha256": "e92c314bd7745a032c72e88a11a009bb87ed919ed4000434082d3a4548c577af",
+      "git_blob_sha": "08385233eb218e88a6ff1a6ecbc44377bbd03ab2"
+    },
+    {
+      "path": "scripts/validar_combate_v016.py",
+      "size": 9592,
+      "sha256": "a6a878f94369c5d13b8076635c43ab6eb93f90c25b84f46fe46c2d656d04fb66",
+      "git_blob_sha": "69e1d618863f68bbfe36bc47db19cc0941911057"
+    },
+    {
+      "path": "scripts/validar_digidex_resumen_v022.py",
+      "size": 10193,
+      "sha256": "a606a02fa720d41b443e16ab18b75e4b227aec56f56a977524d218b7178b71ec",
+      "git_blob_sha": "a9a0ef561da2ce7ff23161d767ced32d290b1954"
+    },
+    {
+      "path": "scripts/validar_efectos_v014.py",
+      "size": 6921,
+      "sha256": "b990baf5281df0aeff0fe69dfbe1df6773bf5008bf875bd49adfed13d62817b0",
+      "git_blob_sha": "833899b42d01178f720fecbebee4ed78497c6e6d"
+    },
+    {
+      "path": "scripts/validar_fondos_v015.py",
+      "size": 6740,
+      "sha256": "f8ce29baf0039de2af7abd74d247e8ca65460f2226f7539ce7b009a16d3600ec",
+      "git_blob_sha": "8135afaceae12094131e65db0a2fd6166ebc08f2"
+    },
+    {
+      "path": "scripts/validar_interfaz_v013.py",
+      "size": 8923,
+      "sha256": "dce86d9e117eec3d27db3381d495d5bdd34886ddce50a478fbb47e4ed7e99b74",
+      "git_blob_sha": "f68be3945f6b2c001962b3f31fe063c50d7e146e"
+    },
+    {
+      "path": "scripts/validar_jefe_v020.py",
+      "size": 3686,
+      "sha256": "289bbaf965206fe5c4edceac20b13ddfa27fe3bbb23c30aab9c14316a36742dc",
+      "git_blob_sha": "baefae324b386c00be7ab5fe1c89325e7e3e2ef1"
+    },
+    {
+      "path": "scripts/validar_jefe_v021.py",
+      "size": 3579,
+      "sha256": "e5ab5c3c8733c1be2ba49aea694865ff70334fb6cbbd4ed5b5515d7311091ce1",
+      "git_blob_sha": "390032a2aa43bc5c323cb3ab7756e4cf22121685"
+    },
+    {
+      "path": "scripts/validar_mapa_v017.py",
+      "size": 11305,
+      "sha256": "b70bce294ba946b4a37d53371ef3906f25caeaab4c742025b3df8357862bbb6f",
+      "git_blob_sha": "2253aa2aa5895fdb87675914acb950a9dc96a828"
+    },
+    {
+      "path": "scripts/validar_rutas_v021.py",
+      "size": 5052,
+      "sha256": "5388d41bb8cf240e55d1bd032628eb77f7a82a81dcceec685dc03468db21c513",
+      "git_blob_sha": "09bf6a614bb58440773147f7454c7b537d561068"
+    },
+    {
+      "path": "scripts/validate_v06.py",
+      "size": 4270,
+      "sha256": "5c54b36c2567328e0532f7c8ca08380bb9d662482f40624a167a02148c3d9076",
+      "git_blob_sha": "c29d496a2444274aff1e41f75a715034a263250f"
+    },
+    {
+      "path": "scripts/validate_v07.py",
+      "size": 4421,
+      "sha256": "4c697a529a7113da3a2f05ab1e993abd73ad603e8397f99b130abefbe7d73f44",
+      "git_blob_sha": "3338d42f63ee40ee1ab69fb688603eecf831dbf9"
+    },
+    {
+      "path": "scripts/validate_v08.py",
+      "size": 4500,
+      "sha256": "342e50abecb7e17b9670111786a99409ec4e2ba6840a092bd55ffbe1fa678261",
+      "git_blob_sha": "0b51a7a2ad36952a56e936f91b10bbf9064f1755"
+    },
+    {
+      "path": "scripts/verificar_continuidad_v022.py",
+      "size": 1696,
+      "sha256": "5592a1defe528848cea99e4c3d21ced26a24909051b14bb42ba876b654d79b28",
+      "git_blob_sha": "abb3185a16c8f9ccc612772a5059c02929e06d5a"
+    },
+    {
+      "path": "scripts/verificar_entrega_v019.py",
+      "size": 7885,
+      "sha256": "e2ec6ede1bc6e5fea5870463983aed4edb740fea428064c20f13112f5e3378af",
+      "git_blob_sha": "a2fed72d9e23e34411cbfbe635a68664fd43b45d"
+    },
+    {
+      "path": "scripts/verificar_sin_librerias_rl.py",
+      "size": 3813,
+      "sha256": "6ac4d6ea5ce57d9d8716513aa04aeedcf8e5b49ea9052dd099d27b806ef5e81b",
+      "git_blob_sha": "41b62fff9784cb08b67c55f812d0c26c11e97f88"
+    },
+    {
+      "path": "src/digimon_rl/__init__.py",
+      "size": 395,
+      "sha256": "0065b16e8f648353222131ec75c32547030b1573dc8107739d191fab37c48571",
+      "git_blob_sha": "845776a108fae2f1685068b4f80805ca32762bc8"
+    },
+    {
+      "path": "src/digimon_rl/__main__.py",
+      "size": 4849,
+      "sha256": "cd3e5059a72ae0debb2ddf694601fdad48261da9dac96faf8183c2b2dc94f8f4",
+      "git_blob_sha": "c6b4fcbd22a1b309a6068694063d5b5eec93de15"
+    },
+    {
+      "path": "src/digimon_rl/academic_dashboard.py",
+      "size": 9364,
+      "sha256": "b0fc6e502406003c5040da47550cedb634c0941786aedc4eaabda44f56660104",
+      "git_blob_sha": "71b9c3413bcc7c7780460bb1b8a8bfaf58952f84"
+    },
+    {
+      "path": "src/digimon_rl/adventure_summary.py",
+      "size": 4673,
+      "sha256": "96e2391771b0b0a38f569264b8135c250184165ef8054ff2f2f350f9679d4819",
+      "git_blob_sha": "ee47adb83f841b9586004aa4e27ef8d466b013c8"
+    },
+    {
+      "path": "src/digimon_rl/agents.py",
+      "size": 7941,
+      "sha256": "bce0e77a598c356154faa973bb572a0d240a9712ed1b26662cbc767d34672f8b",
+      "git_blob_sha": "5db97d12a3e76af33df589c1cfa71161efc1f2e0"
+    },
+    {
+      "path": "src/digimon_rl/assets_catalog.py",
+      "size": 2030,
+      "sha256": "39017378fdad55319132a024f18da7b66e4dc3770791e2c3de946c21a058f020",
+      "git_blob_sha": "b49b729254695ebac617329ed914896f55319314"
+    },
+    {
+      "path": "src/digimon_rl/audio_events.py",
+      "size": 2056,
+      "sha256": "661be808b69e512990921d82561935f5aeec91ea63cf7d8bbe89d8c9d8344ff4",
+      "git_blob_sha": "95812afec9c4dc1f6681b9f09c42f858f2401242"
+    },
+    {
+      "path": "src/digimon_rl/audio_settings.py",
+      "size": 1495,
+      "sha256": "421e5c87effdd4e0fd757fefa8e0a066321ca7ef756c394ff536867722eadb18",
+      "git_blob_sha": "d6737ab6058ee3c90db2373f8c0f5f9b91c54345"
+    },
+    {
+      "path": "src/digimon_rl/combat_feedback.py",
+      "size": 6267,
+      "sha256": "02b701cc186502e6866faafb61b16c1dd4374b4408d682cd9edd3e224b190acf",
+      "git_blob_sha": "2c0cc093bf244289b5e6e025d2167cda021a01ed"
+    },
+    {
+      "path": "src/digimon_rl/combat_visuals.py",
+      "size": 5456,
+      "sha256": "3856ae2eb20d76802090e6dde02fb19c0a7c371bf9f3a044bf684978783c2533",
+      "git_blob_sha": "45904ef110770b3382240f070aec3b3cb538672e"
+    },
+    {
+      "path": "src/digimon_rl/data/digidex_v022.json",
+      "size": 4977,
+      "sha256": "87e3bfd35a42da935c6f5ecbf2c2534516748f74451297a420c825667b8b33df",
+      "git_blob_sha": "6cb54d31ce98eaaac6037bba672db30add7a7258"
+    },
+    {
+      "path": "src/digimon_rl/digidex.py",
+      "size": 3781,
+      "sha256": "4a20e8d74b1097d46be0b81d31cb3227ebc4e2a7850ff1ce5e5a321fba6f0cb0",
+      "git_blob_sha": "727b45c1c54bc9536fd3c45f0160b4928685d97e"
+    },
+    {
+      "path": "src/digimon_rl/domain.py",
+      "size": 2484,
+      "sha256": "b1fe64a2306aa65ac1d60ba1319eac1c642b98c80284445fc25afa0be1d1ddfe",
+      "git_blob_sha": "e106a9629907fb7145d4199f21ab06260745b65b"
+    },
+    {
+      "path": "src/digimon_rl/environment.py",
+      "size": 18888,
+      "sha256": "1a932ddaccbd12190bf6232464af4f2f6263f1063e798d24ad0fadc668a2d5b6",
+      "git_blob_sha": "a1c016e2c7ada3779db9ea8b3dfe403dab15f6d8"
+    },
+    {
+      "path": "src/digimon_rl/experiments.py",
+      "size": 2909,
+      "sha256": "c7ee88ee90ac69be58339be0c515777282e315aceb7ad145ee0540c7ac5deca8",
+      "git_blob_sha": "f064a941fb51263451a98aaef7d1be2561644198"
+    },
+    {
+      "path": "src/digimon_rl/gui/__init__.py",
+      "size": 73,
+      "sha256": "25aa7f743249305f26146460beb4f38c5b86128e3731d41d49d139e2967444b6",
+      "git_blob_sha": "9c7375b0603cdac60f9f4b478d72a18dc1e356e9"
+    },
+    {
+      "path": "src/digimon_rl/gui/app.py",
+      "size": 91550,
+      "sha256": "276a75eb882f4acc4196cfceb36296fba3ec5ab56d2373da4a44d547b3726d10",
+      "git_blob_sha": "2d8062d659a9498c39b3a90e784f36c205c87f02"
+    },
+    {
+      "path": "src/digimon_rl/gui/audio.py",
+      "size": 4529,
+      "sha256": "c4a3597412f16d93661e8aff543f833b5fab4c8f863d8f70c33243b9ac07b092",
+      "git_blob_sha": "2fcff3a47cb71a341f508ef3e1ba388f94968a62"
+    },
+    {
+      "path": "src/digimon_rl/gui/effects.py",
+      "size": 1862,
+      "sha256": "2981cffe95cea3b156afe0e392596882a43cea11924fb606f69edfde653521a2",
+      "git_blob_sha": "e011c5fdf980df9abd23376fb5fdc86fc415ac43"
+    },
+    {
+      "path": "src/digimon_rl/gui/journal.py",
+      "size": 9194,
+      "sha256": "93cf618f07fe20991eda8516ecdd6dd10b88ed5d4e7ac976b7bac55ab2b8084b",
+      "git_blob_sha": "46739f4b6afc7497aa0d88f935444899d94ecea4"
+    },
+    {
+      "path": "src/digimon_rl/gui/layout.py",
+      "size": 1553,
+      "sha256": "f3b44206909a735c2187bb1681becfd389a0ba0bdf2b0d1616979f4b14088534",
+      "git_blob_sha": "ef7a9e322276ae0843b7cfe0db6c93459d76bd22"
+    },
+    {
+      "path": "src/digimon_rl/gui/sprites.py",
+      "size": 4229,
+      "sha256": "11f6c9984b99a99f68de456602816cfe1915b300ae0d31e04560f104ffb2e6d4",
+      "git_blob_sha": "3e01dcbbd4d3a1b5c547c8065eac9bec96080987"
+    },
+    {
+      "path": "src/digimon_rl/gui/world_map.py",
+      "size": 6138,
+      "sha256": "3c0c85ddf10b3c25d87400fbd911f8f5a8d2b2eb6804fd516c664a3d771d6741",
+      "git_blob_sha": "b460ceaaf685816baf2c7823c6d362b9275bccb3"
+    },
+    {
+      "path": "src/digimon_rl/inspect_policies.py",
+      "size": 2784,
+      "sha256": "19a16a50e2c340bded3803c6e0df22c0b4c134b03e17fe8670beb4ea90c29999",
+      "git_blob_sha": "62f67de7a4d9e43fc08187c4ddf1a27c543c5715"
+    },
+    {
+      "path": "src/digimon_rl/inspector.py",
+      "size": 6916,
+      "sha256": "74eb07fc48d451d01af275e2c6b8548ed01a388b3bb8a0db2ab76c3f1d13ee46",
+      "git_blob_sha": "9df159a63136ca7c17f8912a10224c48233f029b"
+    },
+    {
+      "path": "src/digimon_rl/play.py",
+      "size": 2659,
+      "sha256": "a16920d270c62aa692f6bed0d9bc8e85c4a120b7cebd1499e59bb69d2581d21e",
+      "git_blob_sha": "25c0744a8b73ac218bdd7b99b849adc5cf424cd5"
+    },
+    {
+      "path": "src/digimon_rl/policy_io.py",
+      "size": 3527,
+      "sha256": "31c5ccdcbf87248b0702b6c926f7c4d996ccc53253f66f7bf4efca1698cfbfcd",
+      "git_blob_sha": "50267b049db2cddf1c069c71ed1bc0fa01c93d37"
+    },
+    {
+      "path": "src/digimon_rl/presentation.py",
+      "size": 5339,
+      "sha256": "25ef2fb7c6a5898810ab68e30b5369cb907ab1f8e6cd2b6a3c7dfdcdeff77ea0",
+      "git_blob_sha": "7e05e2ab28e67a572a8d99316232a1873629b7f1"
+    },
+    {
+      "path": "src/digimon_rl/region_transition.py",
+      "size": 1094,
+      "sha256": "21534edb1dbe8d3ad7a511be209b68bb42ab4cf40c2ddd4b859394118cd9ec3e",
+      "git_blob_sha": "b3b20efe58dfe12e8d9b96ca7ed795e602b5e3fb"
+    },
+    {
+      "path": "src/digimon_rl/session.py",
+      "size": 8268,
+      "sha256": "7ca44e8a133fce14fa1e2c7a0c39fc2866ef0ce04af3432e46ca1e1bdf95db30",
+      "git_blob_sha": "fb68c196ba170639536f576fb22b6b2c7125e618"
+    },
+    {
+      "path": "src/digimon_rl/techniques.py",
+      "size": 924,
+      "sha256": "3095acf14ba53668e097f90b7f9b9e7dcffb2dd51703e9504ce88694c0cc2cbd",
+      "git_blob_sha": "49b7bce79198f7d0f77577ea9e74f687e641a443"
+    },
+    {
+      "path": "src/digimon_rl/train.py",
+      "size": 1893,
+      "sha256": "11d875496a932193d860768e83945301408c973c7f398c81efc4b6e915cf9fc1",
+      "git_blob_sha": "3eb4ba823ba75f2861e35b3d997d2c2d22f70f29"
+    },
+    {
+      "path": "src/digimon_rl/world_map.py",
+      "size": 3928,
+      "sha256": "da4ef0a7f9e67a83194c67694595e4d1104fe4fbde9e3b478a77e247f98ee140",
+      "git_blob_sha": "8bd07479168b24762bf8918104716a4c507f92ce"
+    },
+    {
+      "path": "tests/test_academic_dashboard_v012.py",
+      "size": 5782,
+      "sha256": "8f1382d14217daf558ee4efcb4d6eeba7091c982db41e24fa0c2b0f2cf251f58",
+      "git_blob_sha": "8fa47820df380f9fe35caadbf7771a197159ff4b"
+    },
+    {
+      "path": "tests/test_academic_v011.py",
+      "size": 3245,
+      "sha256": "c978a96b636438bf39b2f5dd87f9a03640403fea3ae48b8aa2159132226ac942",
+      "git_blob_sha": "c6d585f492cfec747a8e2f1ef5cdc321e03440aa"
+    },
+    {
+      "path": "tests/test_algorithms.py",
+      "size": 1135,
+      "sha256": "f80ded0c157a6e36bb7042c3cb923fafcf15ecb45954db25f9da5f037288a740",
+      "git_blob_sha": "c3d4b6fc173877851d26b9560fa862c4983c1108"
+    },
+    {
+      "path": "tests/test_assets_catalog.py",
+      "size": 1638,
+      "sha256": "51e008d41939ee4bd8fe7ebc2219e5e213c129d21203629cff74db493ea401d8",
+      "git_blob_sha": "914ecce104fd3074e78b1e0ec88a5e3a906873b6"
+    },
+    {
+      "path": "tests/test_audio_events_v018.py",
+      "size": 5259,
+      "sha256": "d54455acf30d894d170547adc0b1f3bd6bff25989a30a5c69ffa79278fd9dfae",
+      "git_blob_sha": "294acb4228a4cc91884e782eca8971f1ac5afc48"
+    },
+    {
+      "path": "tests/test_audio_render_v018.py",
+      "size": 1494,
+      "sha256": "e4d1525cdddced49f0c89c7aeb64e33be6d8480abe2fe0b6cdbd898fc5caf09f",
+      "git_blob_sha": "6a46f573d0a83a25049b013cd2885a032fb80358"
+    },
+    {
+      "path": "tests/test_backgrounds_v015.py",
+      "size": 1226,
+      "sha256": "3125d3b240aaa406edd6be75296d22f332b29d6cbfa94d456832722bcf02b2dd",
+      "git_blob_sha": "e939ab19a2fa66d03f769a62bcc66194810454d7"
+    },
+    {
+      "path": "tests/test_balance_v020.py",
+      "size": 3833,
+      "sha256": "0566b261ff5ff4d816cb2d751669aace32ee8cb42001a27a4315248e5248c2e5",
+      "git_blob_sha": "7ea13cf7eceec6de78dbab30395b1493633b0351"
+    },
+    {
+      "path": "tests/test_basic_attacks_v0141.py",
+      "size": 2287,
+      "sha256": "0012e65f69c312b9640d2da15e146a3576d821b8bea2779dfd4cdb47fb9ce876",
+      "git_blob_sha": "765b1f0906e052f1d980a9b33b693987c99defa8"
+    },
+    {
+      "path": "tests/test_bundled_demo_assets.py",
+      "size": 1845,
+      "sha256": "94b1548baa27fa4675f1381612b74494c5532213da5c821eb70672de7172d2e4",
+      "git_blob_sha": "c2aa6d2d0d61746e3dc61efb5f5911694baaccf5"
+    },
+    {
+      "path": "tests/test_canonical_v0211.py",
+      "size": 1893,
+      "sha256": "be3b912cf7a07871f3a6a0dfa5400f4b312b3ffef2baaf2bd85f66662993e3a0",
+      "git_blob_sha": "24d26b4095f61455f85170e7dd93972980e83493"
+    },
+    {
+      "path": "tests/test_combat_feedback_v016.py",
+      "size": 6507,
+      "sha256": "8352ab37b4ceffee8a86d01fe3895883d32733c29137d95c8345454508ccb8d7",
+      "git_blob_sha": "19f9acf8129e5766843f9a324cc9f4b31fb1bf14"
+    },
+    {
+      "path": "tests/test_combat_render_v016.py",
+      "size": 1482,
+      "sha256": "24dc7a8fb8ea1a28c96cea180d9c2af0349c4e2c00a56eba80f7ce3ec9e779b4",
+      "git_blob_sha": "74a7335917dd31b75e87a35498edcd7573e516f8"
+    },
+    {
+      "path": "tests/test_combat_visuals_v014.py",
+      "size": 3508,
+      "sha256": "75c1d427f45178268fe6a630857a638f6591054dcd799229556d7d34025f3c93",
+      "git_blob_sha": "85b9417bea86c7a7b9efd91bf92580ed0d5ef78d"
+    },
+    {
+      "path": "tests/test_effect_render_v014.py",
+      "size": 980,
+      "sha256": "12aa188ecbcc7c798633ce51f06b0e16ae366fbfb3b6618fa6ea89ce0fc9bba6",
+      "git_blob_sha": "dee5ac6288143778de4b1d58d206679c4728056f"
+    },
+    {
+      "path": "tests/test_enemy_intent_v06.py",
+      "size": 3442,
+      "sha256": "a251c11eb2778fa80d0af316815233b149f037ca89698aaf3f6170dfe64be54e",
+      "git_blob_sha": "f8edd4b4680b84f382a486db02bf2240f92cf99f"
+    },
+    {
+      "path": "tests/test_environment.py",
+      "size": 2103,
+      "sha256": "3aa0c73f9a80b85359a2a816a9307929d62a04957385afa4e6a450ce384fcdea",
+      "git_blob_sha": "ee9f24b6e444ffb2162967e97dd9b6ff18b0d8d7"
+    },
+    {
+      "path": "tests/test_evolutions.py",
+      "size": 3977,
+      "sha256": "c5c0a3610c40fea5805e538716f9666c865d3b57b083ad5474ed8ee1a5a4b140",
+      "git_blob_sha": "33b6d754e7d1536d593363884a0f5677313ea029"
+    },
+    {
+      "path": "tests/test_exploration_v07.py",
+      "size": 3212,
+      "sha256": "0def7970e69c03cb8b1522931a75e314b43fcc810d53d13fb0395af5cee893c5",
+      "git_blob_sha": "a8adba3d26dc0f4b0ec0b5b10eb09769f51043b9"
+    },
+    {
+      "path": "tests/test_gui_controls_no_pygame.py",
+      "size": 4607,
+      "sha256": "6f945509e2da58925b64746a047fe2d3dc213631e89722d647e6501922203500",
+      "git_blob_sha": "74a18ce78769423d27fbdce22c51222545e046e7"
+    },
+    {
+      "path": "tests/test_gui_render_v013.py",
+      "size": 1257,
+      "sha256": "22cea7f6a5dc352f532ce4f655e59eead392c7d395b3bfe15bef93327182850a",
+      "git_blob_sha": "6c25782a82fc26ae9beb9d9e875278341e1f49dc"
+    },
+    {
+      "path": "tests/test_journal_v022.py",
+      "size": 7007,
+      "sha256": "2c524aad501618923fc0b8fc7d7dd782a004479d7e5dface5103417af00d671c",
+      "git_blob_sha": "69dba48d06f26bf6b1659d0657774cba978150f8"
+    },
+    {
+      "path": "tests/test_layout_v013.py",
+      "size": 1969,
+      "sha256": "4c7a32af402e9bc5d29a60be3b0ee28b7c9d8b87add5324831c301879d16b36c",
+      "git_blob_sha": "c46adf0ac882e8aef912b9981fc9e38300a16d45"
+    },
+    {
+      "path": "tests/test_map_render_v017.py",
+      "size": 1167,
+      "sha256": "2d5103f598271c7170fd63b824f7cd52fde3ae6c63afd71f4c2673c5cbd172b6",
+      "git_blob_sha": "4ec4c9039cd231314bd07f217fd54cda46eaed3c"
+    },
+    {
+      "path": "tests/test_mc_audit_v082.py",
+      "size": 3942,
+      "sha256": "a11ec332bf701d7e66bcf3c139eab626662accc517e5ba6b41dd7793a2efa1cf",
+      "git_blob_sha": "fedfc6887a4fcc7aa0670e28f1375c4a8eaf63b4"
+    },
+    {
+      "path": "tests/test_policy_inspector_v010.py",
+      "size": 3915,
+      "sha256": "499b94522b08e523275c1875452b626d1d6383cd15641bc3fcc02973f8910b73",
+      "git_blob_sha": "dd60766e57ee0f40670dd2e92f29159e58697158"
+    },
+    {
+      "path": "tests/test_policy_io.py",
+      "size": 1913,
+      "sha256": "94da28dc3ecb52a8caa1288912a66859d646c709628c11a8dbd89a16f8a48dde",
+      "git_blob_sha": "28b4befa59bf50632fa056b3dbacb2073650de25"
+    },
+    {
+      "path": "tests/test_presentation.py",
+      "size": 2770,
+      "sha256": "978ff867fe82585f2bc7076ed524a498784c4576f923b50b4b7023db32e88821",
+      "git_blob_sha": "a8101a0bbf5ea532a813d32a4db24f4bc015522c"
+    },
+    {
+      "path": "tests/test_progression_v08.py",
+      "size": 3761,
+      "sha256": "8fd98d1502be64451170012d5d46287c10f6716b813cf7d19582392bdb16949b",
+      "git_blob_sha": "35325df625143cd2d8625906d661300881f17b2d"
+    },
+    {
+      "path": "tests/test_routes_v021.py",
+      "size": 4825,
+      "sha256": "ee0cf059e22d4e1bc6caf3857a2e90979b6bbb6a9276ef6dc0bbeb0875d836c5",
+      "git_blob_sha": "4d794066882cbaa0e93cd40ee6c015fb25095517"
+    },
+    {
+      "path": "tests/test_session.py",
+      "size": 2662,
+      "sha256": "453cc8442ea76985718a2dbe1f93fe82c26f390736f9b6510ad8ad3154d820d5",
+      "git_blob_sha": "2219ac8b9b49fae0cdf4438425181ef33571fbfc"
+    },
+    {
+      "path": "tests/test_sprite_import.py",
+      "size": 2000,
+      "sha256": "aea6c69ee21e08ce01c3bae266daf8e211c675892fcc54756de0ae0e6435501e",
+      "git_blob_sha": "f0e54fc0b954a7a250ac62a17514bd3afb30daae"
+    },
+    {
+      "path": "tests/test_techniques_v09.py",
+      "size": 3626,
+      "sha256": "d72c112b841d3268284ddb79957d1fa8980102c4a350ef5458d70f418213d5fe",
+      "git_blob_sha": "669401d15c116011202f37dfa84cedfcdfd18e87"
+    },
+    {
+      "path": "tests/test_windows_launcher_v081.py",
+      "size": 1836,
+      "sha256": "974a718bc29b861791c20050bf2acb3733cfd8affb8c34df222198160dbf9743",
+      "git_blob_sha": "d240b98554915ca07aad0a14cd8d6c68852783c8"
+    },
+    {
+      "path": "tests/test_world_map_v017.py",
+      "size": 3588,
+      "sha256": "39e7fdc84c83198634a1529f075239ebf06df3810bdb3eccfdbce5fde56b072e",
+      "git_blob_sha": "13d2d5447b4afee970876c3182dc303dd74db341"
+    }
+  ]
+}

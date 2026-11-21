@@ -1,0 +1,19 @@
+{
+  "release": "0.22",
+  "status": "PASS",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "native_windows": false,
+  "unit_tests": {
+    "count": 197,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "regression_diagnostics": 13,
+  "regressions_passed": true,
+  "journal_sdl": "interfaz/reporte.json",
+  "protected_files": 107,
+  "policy_retrained": false,
+  "manual_acceptance_windows": "pending",
+  "notes": "SDL dummy; physical graphics, audio and Windows batch execution require native acceptance."
+}

@@ -1,0 +1,447 @@
+{
+  "status": "PASS",
+  "baseline": "v0.21.1 Guardromon",
+  "baseline_zip_sha256": "310bdb58dbefdecbabc55dc3091c853a9a4b6d2f2e5e5aff4c0227c9dd7298da",
+  "release": "0.22",
+  "rules_version": "v0.21-rutas-y-guardian",
+  "files_unchanged": 107,
+  "scope": [
+    "MDP",
+    "manual learning algorithms",
+    "techniques",
+    "policy serialization",
+    "all assets",
+    "all policies and inspector exports",
+    "current convergence experiments"
+  ],
+  "files": [
+    {
+      "path": "assets/ARTE_ORIGINAL_v021.md",
+      "sha256": "cfc776b70cca8bb8eebc5c434795c157b3bf4b4d114739bb8e8c68d7e18113e0"
+    },
+    {
+      "path": "assets/DIGIDEX_MANIFEST.json",
+      "sha256": "e99b30d170f9d0ce74d03d0885108db61bd2729dc39835b55e93fa29490d68cc"
+    },
+    {
+      "path": "assets/PLANTILLA_CREDITOS.md",
+      "sha256": "1ae9a031e15bbf58ed993e274dcb676abdf9c605ceb2eb16a36e42639e2ba821"
+    },
+    {
+      "path": "assets/audio/baby_flame.wav",
+      "sha256": "20271323f7890ccdf542e769aa069b79afc0bccabfda7d812fcd310453fe0c0a"
+    },
+    {
+      "path": "assets/audio/basic_attack.wav",
+      "sha256": "428ee3077cd139502bfda9b42d24c37069695a12a5f17b9dcb378d5420a7189c"
+    },
+    {
+      "path": "assets/audio/cancel.wav",
+      "sha256": "ba6e2d5e1ceeb7100bae9c1f922fdee70227ccf95a71bb64ed8955ac0b708edc"
+    },
+    {
+      "path": "assets/audio/death_claw.wav",
+      "sha256": "6407c9a25e698b889020ca569664b6dab0d4c68c781d42249aeb3752ac4b5456"
+    },
+    {
+      "path": "assets/audio/electric_shock.wav",
+      "sha256": "7451d48be35f6f2b137bc1ab8fd62d1a3214c47984f34f6f024b88bde6342d29"
+    },
+    {
+      "path": "assets/audio/evolve.wav",
+      "sha256": "f3181656405ce0cee0e37a6940c302a777e2e1fb912266f2f7f93daac502ff0e"
+    },
+    {
+      "path": "assets/audio/giga_destroyer.wav",
+      "sha256": "0848d10ca478f41f4159be3983cc0d2cc05eacbf979923558e0d4d3fb608ffed"
+    },
+    {
+      "path": "assets/audio/goblin_strike.wav",
+      "sha256": "d9b363ff45642fd6bd2704a42fea88c3caae223053a0e1d5321f8b883aba2513"
+    },
+    {
+      "path": "assets/audio/guard.wav",
+      "sha256": "c492f31542bb5dc43329cc024bbdcd6fe9de68c783a55e276e0fb3af066bff4b"
+    },
+    {
+      "path": "assets/audio/haouken.wav",
+      "sha256": "84bd01af8b839f6b61e99151751f5af88f67a81ff6133a557389ccab4a7e8c18"
+    },
+    {
+      "path": "assets/audio/heal.wav",
+      "sha256": "691275a73a077da644a73430ac39583dce31308925feb445ada93824a5139993"
+    },
+    {
+      "path": "assets/audio/impact.wav",
+      "sha256": "fc53882a31b1af7f8cff84cd1f50fc3a2382b0fec446ac3fbcedda86d23f1f0c"
+    },
+    {
+      "path": "assets/audio/interrupt_strike.wav",
+      "sha256": "06a747836bd2b77cd64bea963615e27c54b9f97681a67d6cca51cf3b2e28c1f8"
+    },
+    {
+      "path": "assets/audio/loss.wav",
+      "sha256": "792085bbe70c38740617f34c9c4907b850aae121d9e2343232e8fc2e5e0b8dfa"
+    },
+    {
+      "path": "assets/audio/manifest_v018.json",
+      "sha256": "a793c9b7588e30cadb9cf5c6a976d0e9ff208957ab458148526fb43aee38c1e2"
+    },
+    {
+      "path": "assets/audio/mega_flame.wav",
+      "sha256": "cfb4da4469a09e4d7cf3d5905ec7cafe4d45943608cafba3604b0d533b8231d1"
+    },
+    {
+      "path": "assets/audio/no_hit.wav",
+      "sha256": "f93bf87672f0f13603394f81089ced0e327467419b283102d30b39ad227cf6d3"
+    },
+    {
+      "path": "assets/audio/power_attack.wav",
+      "sha256": "9eb8ec46715741bf36fb761b8b276d770aef8e30d61f3a316676cdfa1d8ab0f7"
+    },
+    {
+      "path": "assets/audio/spiral_sword.wav",
+      "sha256": "fb885184f05a53e8cc7a810231238c7ec517ab937ab516bf909cc27df61eb01f"
+    },
+    {
+      "path": "assets/audio/terra_force.wav",
+      "sha256": "63967249e94be69a3e761f2246c39d6ebc0917890248b7f79cf5427cff4fa903"
+    },
+    {
+      "path": "assets/audio/travel.wav",
+      "sha256": "8b81309a29e92a64040eb592e917e1111480e0b6433436740e39d317238e2eb5"
+    },
+    {
+      "path": "assets/audio/trump_sword.wav",
+      "sha256": "6abfd452e353bc273775dceee4961b4f13ac1a83df9b74e69b02ddeb30033061"
+    },
+    {
+      "path": "assets/audio/ui.wav",
+      "sha256": "9975ad022550d857bd3797f0970f30d38a8e6c31e69948114a81fb076cc34f02"
+    },
+    {
+      "path": "assets/audio/victory.wav",
+      "sha256": "a56e9c6644938ac39ed9762074b4a0d95ee52e4be0b1842a079991d18ba7b498"
+    },
+    {
+      "path": "assets/backgrounds/LEEME.txt",
+      "sha256": "4c393ad5d7121a4792a4d026cd00d530abd7af7426d194de1c98b7d9fab99ec9"
+    },
+    {
+      "path": "assets/backgrounds/abyss.png",
+      "sha256": "331f02d1d66b0543a24930450f6b2790b2cb0024c1643d49fcc59973031768e1"
+    },
+    {
+      "path": "assets/backgrounds/cave.png",
+      "sha256": "b6d18352552f8f03171fbfddfb7111a82e676cdb9f702c4488863aeff2dbdd4e"
+    },
+    {
+      "path": "assets/backgrounds/forest.png",
+      "sha256": "7c2d747c74c82dd5bae08be2acb5cf0b5259653aa21ba47279b86b35b9ca2f70"
+    },
+    {
+      "path": "assets/backgrounds/fortress.png",
+      "sha256": "9e517a070fac92d5a8cdb567018de6a4e478e8ad23f0b25ebe8a50e9d3652ba0"
+    },
+    {
+      "path": "assets/backgrounds/manifest_v015.json",
+      "sha256": "92bf9b5132aa1d4bfee1856f70cfdf7585d834d2789414291ae2c6c8f1ffd27f"
+    },
+    {
+      "path": "assets/backgrounds/refuge.png",
+      "sha256": "7fe3966b31965a5deb4c70293f478f51546dc1ce906d4406e0ac4fcc5b4368a3"
+    },
+    {
+      "path": "assets/backgrounds/ruins.png",
+      "sha256": "d9f33117fd85d168bf7f9541fd998af3c6854406b419429d746d0b6dd994265b"
+    },
+    {
+      "path": "assets/backgrounds/swamp.png",
+      "sha256": "07e3d0155b7bb07974a5a314b4b13de70994585776b0ec2f11f502dd8fc32483"
+    },
+    {
+      "path": "assets/backgrounds/tower.png",
+      "sha256": "deef2e3b7d3880d73d69902166a176a66ecededd4cc879f9f628974085c2fea0"
+    },
+    {
+      "path": "assets/backgrounds/village.png",
+      "sha256": "1f8d2f396cd6eaec9a0e11d8818e92bb9b9e74580ae1f41bd30d9a0725394c11"
+    },
+    {
+      "path": "assets/demo/backgrounds/abyss.png",
+      "sha256": "331f02d1d66b0543a24930450f6b2790b2cb0024c1643d49fcc59973031768e1"
+    },
+    {
+      "path": "assets/demo/backgrounds/cave.png",
+      "sha256": "a847ae46a2d77fbeab49cefef607439545ee0e0d8943e581be67e06d45ef262d"
+    },
+    {
+      "path": "assets/demo/backgrounds/forest.png",
+      "sha256": "ce32593b4a43b0c93877adeedc8eee97704fe97993d26c5882c85663ecc32c28"
+    },
+    {
+      "path": "assets/demo/backgrounds/fortress.png",
+      "sha256": "c1a8b9dd4000c7f5803487b49386c3982a89bcf9198e5167424108e80bba1a4f"
+    },
+    {
+      "path": "assets/demo/backgrounds/refuge.png",
+      "sha256": "7fe3966b31965a5deb4c70293f478f51546dc1ce906d4406e0ac4fcc5b4368a3"
+    },
+    {
+      "path": "assets/demo/backgrounds/ruins.png",
+      "sha256": "aeaf4d4ecfebe5dbba75a59aa3d62b38c0081c523e316875bd4ed986b9ab8303"
+    },
+    {
+      "path": "assets/demo/backgrounds/swamp.png",
+      "sha256": "876c7691e795de64db0899a9cb91f79a4cca94d41120183a9c5d1130d91430be"
+    },
+    {
+      "path": "assets/demo/backgrounds/tower.png",
+      "sha256": "190070264de0c4c25f16301df88be37b77c4a1abefada7f1bb4302b6bb55ebe4"
+    },
+    {
+      "path": "assets/demo/backgrounds/village.png",
+      "sha256": "1d2a1aa1426b43b385bbb0cc63818d6b3176eb8578ed0b1ca4e36d08f7bc679f"
+    },
+    {
+      "path": "assets/demo/digimon/agumon.png",
+      "sha256": "1654f5afcf45dbbbd33ff72abf739498a6de746e732d06a4521ff60a901c82fe"
+    },
+    {
+      "path": "assets/demo/digimon/andromon.png",
+      "sha256": "2e7e6edc54962199c02082601fe20d4558ae391ed9322b2e93d42cba6dd0eb2e"
+    },
+    {
+      "path": "assets/demo/digimon/betamon.png",
+      "sha256": "2f987ce6120f5d42c02666950ac569c25387b316f01224fe5dd58bb17f8edcbd"
+    },
+    {
+      "path": "assets/demo/digimon/devimon.png",
+      "sha256": "31c832b5cc6f309358b99b8274af771181cb4f6aaf5bedf0e182c6a20a6cddef"
+    },
+    {
+      "path": "assets/demo/digimon/goblimon.png",
+      "sha256": "55790f7b398d06ae85e470618570d0a478e28ff2de303230ff843b68c5b31480"
+    },
+    {
+      "path": "assets/demo/digimon/greymon.png",
+      "sha256": "72dc250ab1042ebbac10c19260fd0617056a0fb765a6cf2a9a9e2f5b5f442074"
+    },
+    {
+      "path": "assets/demo/digimon/guardromon.png",
+      "sha256": "7d95c06dc40e46cb9450b7b02efbed5f825ab74e1b726991da26f73ed2b99b05"
+    },
+    {
+      "path": "assets/demo/digimon/metalgreymon.png",
+      "sha256": "a441fdb958b62621439c5a3d439a53e13291c2d1dc5807a5eb8bc4ce78df6c3f"
+    },
+    {
+      "path": "assets/demo/digimon/ogremon.png",
+      "sha256": "fbd3adf11a34271310ac19a0e6717e807e25273b76f6fbe714cec91d01ffe062"
+    },
+    {
+      "path": "assets/demo/digimon/piedmon.png",
+      "sha256": "63729ad48386b2f4ef34f18bcfb5bf720e0e2fad2b1d2861f1559d1ed7e02753"
+    },
+    {
+      "path": "assets/demo/digimon/wargreymon.png",
+      "sha256": "a441fdb958b62621439c5a3d439a53e13291c2d1dc5807a5eb8bc4ce78df6c3f"
+    },
+    {
+      "path": "assets/digimon/LEEME.txt",
+      "sha256": "99b022ae54d4ad41b647c3339c4ca1629d2ef9a4d329cf14d0c32c749cddcf35"
+    },
+    {
+      "path": "assets/digimon/agumon.png",
+      "sha256": "21255b3c82bd09a4937b95d34d9b82129753fc1caa2829f0b8c46a25636e2d08"
+    },
+    {
+      "path": "assets/digimon/andromon.png",
+      "sha256": "2e7e6edc54962199c02082601fe20d4558ae391ed9322b2e93d42cba6dd0eb2e"
+    },
+    {
+      "path": "assets/digimon/betamon.png",
+      "sha256": "2b9589b4b6b91e36ef31b5651e12691f856124804c03459385d12231c5ace45b"
+    },
+    {
+      "path": "assets/digimon/devimon.png",
+      "sha256": "fb4ff64bd571fe28c74c6cc6ca5a07bb95cadf95fcfcbc0a2a11cfc1054def06"
+    },
+    {
+      "path": "assets/digimon/goblimon.png",
+      "sha256": "9f83c3e0a8139fde81aadc3293d07868680f5dc031ae1099d87223b3bbee333c"
+    },
+    {
+      "path": "assets/digimon/greymon.png",
+      "sha256": "4cbde5f2a67e739e46c6c3c3cc6f44d6c2ed797cfe0ce459a85b17e6d1ae6c04"
+    },
+    {
+      "path": "assets/digimon/guardromon.png",
+      "sha256": "7d95c06dc40e46cb9450b7b02efbed5f825ab74e1b726991da26f73ed2b99b05"
+    },
+    {
+      "path": "assets/digimon/metalgreymon.png",
+      "sha256": "4add8a82e8c241f6f41a762e70e61378de94d753ba14759df0eee306b7b46f01"
+    },
+    {
+      "path": "assets/digimon/ogremon.png",
+      "sha256": "79dde14bee64b7e5220d81c3f6618adeda60d2329e253ea31cfc82512d6d9617"
+    },
+    {
+      "path": "assets/digimon/piedmon.png",
+      "sha256": "4c9a9deafab5036b0bd03460a67028ed701048b2275e6ceaeeae8e97d9ca6dbc"
+    },
+    {
+      "path": "assets/digimon/wargreymon.png",
+      "sha256": "fcf63ad99079a55bc881a9f4e99f871055edf7eae041739c3902aa76c5e866d6"
+    },
+    {
+      "path": "assets/effects/GENERACION.json",
+      "sha256": "1033da76b10b0e58c6a0b7f48c2dd281f541ac727b0a265ed63f2a1e0d87c331"
+    },
+    {
+      "path": "assets/effects/GENERACION_v0141.json",
+      "sha256": "b90b8eb489ccca7dc843ef9d80135dc86a6fa65df07a7809439bb15119e19911"
+    },
+    {
+      "path": "assets/effects/baby_flame.png",
+      "sha256": "0d8aa98cf5130f3691faf7d0cee67dc39641fa9d91397556269810a2376e1816"
+    },
+    {
+      "path": "assets/effects/basic_attack.png",
+      "sha256": "0aad55682344bc3491050c5e9b24bde710573aecf0647ff16bf67267a1b69ce4"
+    },
+    {
+      "path": "assets/effects/death_claw.png",
+      "sha256": "acd7a6f0c400baf48c8cda91b8e8300de61bb5e4d0e7e8dfb33b941718ac4fea"
+    },
+    {
+      "path": "assets/effects/electric_shock.png",
+      "sha256": "42e7446d4215e0b711b75974534f2febf45f38e6e30170aef3ec189e5735e816"
+    },
+    {
+      "path": "assets/effects/giga_destroyer.png",
+      "sha256": "3b8a0215036c4456eccf38698787fff48eb7691fc2e42cc5303be79e6f012a1d"
+    },
+    {
+      "path": "assets/effects/goblin_strike.png",
+      "sha256": "6206f350e62f934e730f72d25c6065bca356757569344bbebed531fcef04ceb5"
+    },
+    {
+      "path": "assets/effects/haouken.png",
+      "sha256": "ee76c6c17be2ea9484ed17b3e7ba1ae4f36b5e48426f2179965714fe4fc715b1"
+    },
+    {
+      "path": "assets/effects/interrupt_strike.png",
+      "sha256": "b3e36dbe5818a135e66d16cc611379905eecfce21d1cfaaace5e03589499f74f"
+    },
+    {
+      "path": "assets/effects/mega_flame.png",
+      "sha256": "d52c24e3eaf2edb25a4d0b285df8493a2861a2ba32a5b001ff910bc765745d16"
+    },
+    {
+      "path": "assets/effects/power_attack.png",
+      "sha256": "9e05c692a63b9e7e3788214566f8d887488736f521adbc40884fa8135f53451b"
+    },
+    {
+      "path": "assets/effects/spiral_sword.png",
+      "sha256": "53a7a2496f75eead1706740eb7323ee2457602b71f2c5f1978e82dd63d94b106"
+    },
+    {
+      "path": "assets/effects/terra_force.png",
+      "sha256": "2de1d380e0fa1f3f19b85a52a00bfdd94535c6aec40ba3de754098484120b612"
+    },
+    {
+      "path": "assets/effects/trump_sword.png",
+      "sha256": "4eaa0a250d0e437e271b7cc21f2ae2472d87f830b2a29cfbe6158dca45e1933a"
+    },
+    {
+      "path": "assets/maps/manifest_v017.json",
+      "sha256": "0334073aef5f76941d983f20881f737d168099e30b02dbdb16555da2d51b62c0"
+    },
+    {
+      "path": "assets/maps/prompt_v017.txt",
+      "sha256": "afdbfa453bf4198a71975fc199d42cc9e881c3da4319eb444b7ddc176a9705e8"
+    },
+    {
+      "path": "assets/maps/world_map.png",
+      "sha256": "fcb71c5a14a830f99525db2ba6374319cd48b1f8863a73e695db973d734b230d"
+    },
+    {
+      "path": "politicas/analisis_v010.json.gz",
+      "sha256": "f0f17c0fcb6182436cfb146b4bccb544afb80fcf8535acf8805fd680ea2dd9ef"
+    },
+    {
+      "path": "politicas/dp.json",
+      "sha256": "c6118c26528aabaa0b89477d0012cd3af9525f2fc422fec3c6c565c39680fada"
+    },
+    {
+      "path": "politicas/historico_v019/analisis_v010.json.gz",
+      "sha256": "4402034b595b2b7dc5daaca00949fa99dce9aee75c1f79254c90efb9b109a760"
+    },
+    {
+      "path": "politicas/historico_v019/dp.json",
+      "sha256": "53dfc2a71904b47873f8391edc27b2e6842aeb957da06422164cbe3d5d3c38cc"
+    },
+    {
+      "path": "politicas/historico_v019/mc.json",
+      "sha256": "72b27c14b8d52f0ace2fc3c0b187151d3b40c34ed6cf1a4a40baa2e3c4b1e832"
+    },
+    {
+      "path": "politicas/historico_v020/analisis_v010.json.gz",
+      "sha256": "17a3441763979bfad0f87f88a24cee20717e586fcd5f40619f9d2f29615e2c8f"
+    },
+    {
+      "path": "politicas/historico_v020/dp.json",
+      "sha256": "7656b4efddc5b0c6b91cecd773f835a390cf70fd858dd6d5897fb5518f112744"
+    },
+    {
+      "path": "politicas/historico_v020/mc.json",
+      "sha256": "7972decaafbcbab6dda74aeb7af7016c2f0775ab21f45e0b6fb9b1dcfeada7f8"
+    },
+    {
+      "path": "politicas/mc.json",
+      "sha256": "5667677aadea3675d15d60b412a90f90b7cf9e9e41ad567d97ddfcc80448df40"
+    },
+    {
+      "path": "resultados/convergencia_v021/cobertura_v021.svg",
+      "sha256": "1caf070ee65b3b86556b783416906c84af9d91d2b5f91a92afcb7fe4bea46bc7"
+    },
+    {
+      "path": "resultados/convergencia_v021/convergencia_v021.svg",
+      "sha256": "89f36082f7c279b866fd1410454cdc3ec74b627392d5107c5ba79d5b63482534"
+    },
+    {
+      "path": "resultados/convergencia_v021/curvas_resumen.csv",
+      "sha256": "a963c2b84e3bb079da02ed1e23ce52a9c76a12948f0419f03f782e2c8ff21f8f"
+    },
+    {
+      "path": "resultados/convergencia_v021/resultados_por_semilla_y_checkpoint.csv",
+      "sha256": "fe9eb57ccd1913b53ae4f287aa56c5a61690186ada266a03a56d1e963f866916"
+    },
+    {
+      "path": "resultados/convergencia_v021/resumen_v021.json",
+      "sha256": "8af2142c191b7b60fbc88f1cfff3aa5d121c415c4fabe282645574c4a9c8ab2b"
+    },
+    {
+      "path": "src/digimon_rl/agents.py",
+      "sha256": "bce0e77a598c356154faa973bb572a0d240a9712ed1b26662cbc767d34672f8b"
+    },
+    {
+      "path": "src/digimon_rl/domain.py",
+      "sha256": "b1fe64a2306aa65ac1d60ba1319eac1c642b98c80284445fc25afa0be1d1ddfe"
+    },
+    {
+      "path": "src/digimon_rl/environment.py",
+      "sha256": "1a932ddaccbd12190bf6232464af4f2f6263f1063e798d24ad0fadc668a2d5b6"
+    },
+    {
+      "path": "src/digimon_rl/policy_io.py",
+      "sha256": "31c5ccdcbf87248b0702b6c926f7c4d996ccc53253f66f7bf4efca1698cfbfcd"
+    },
+    {
+      "path": "src/digimon_rl/techniques.py",
+      "sha256": "3095acf14ba53668e097f90b7f9b9e7dcffb2dd51703e9504ce88694c0cc2cbd"
+    }
+  ]
+}

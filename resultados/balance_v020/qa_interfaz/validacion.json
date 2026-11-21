@@ -1,0 +1,57 @@
+{
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "python": "3.12.14",
+  "pygame": "2.6.1",
+  "headless": true,
+  "checks": [
+    "F1/F2/F3, F4/F5/T/H/P y retorno sin modificar el estado",
+    "Siete acciones manuales: botones separados y dentro del panel",
+    "Clic transformado y lienzo completo a cuatro resoluciones",
+    "Entrada/salida de pantalla completa SDL",
+    "Aventuras DP/MC completas, finales, formas, laboratorio y seis diapositivas",
+    "Textos y botones dentro del lienzo lógico",
+    "Bucle de eventos SDL y cierre limpio"
+  ],
+  "screenshots": [
+    "01_inicio.png",
+    "02_mapa_manual.png",
+    "03_siete_acciones.png",
+    "04_forma_0.png",
+    "04_forma_1.png",
+    "04_forma_2.png",
+    "04_forma_3.png",
+    "05_laboratorio.png",
+    "06_resultados_0.png",
+    "06_resultados_1.png",
+    "06_resultados_2.png",
+    "06_resultados_3.png",
+    "07_presentacion_0.png",
+    "07_presentacion_1.png",
+    "07_presentacion_2.png",
+    "07_presentacion_3.png",
+    "07_presentacion_4.png",
+    "07_presentacion_5.png",
+    "08_final_dp.png",
+    "08_final_mc.png",
+    "09_victoria.png",
+    "09_derrota.png",
+    "10_ayuda.png",
+    "11_creditos.png"
+  ],
+  "episodes": [
+    {
+      "mode": "dp",
+      "turns": 14,
+      "outcome": "VICTORIA",
+      "reward": 158.0
+    },
+    {
+      "mode": "mc",
+      "turns": 13,
+      "outcome": "VICTORIA",
+      "reward": 167.0
+    }
+  ],
+  "video_driver": "dummy",
+  "status": "PASS"
+}

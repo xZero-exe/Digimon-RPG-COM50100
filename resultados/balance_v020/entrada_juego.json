@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "frames": 3,
+  "rules_version": "v0.20-balance-piedmon",
+  "inspector_episodes": 60000,
+  "dashboard": "0.20",
+  "native_windows": "pending"
+}

@@ -1,0 +1,197 @@
+{
+  "source": "https://github.com/SergioGranSol/digidex",
+  "supplied_by_user": "digidex-main.zip",
+  "scale": "x5",
+  "characters": {
+    "agumon": {
+      "local_path": "assets/digimon/agumon.png",
+      "origin_path": "resources/img/sprites/x5/agumon.png",
+      "pixels": [
+        125,
+        115
+      ],
+      "sha256": "21255b3c82bd09a4937b95d34d9b82129753fc1caa2829f0b8c46a25636e2d08"
+    },
+    "greymon": {
+      "local_path": "assets/digimon/greymon.png",
+      "origin_path": "resources/img/sprites/x5/greymon.png",
+      "pixels": [
+        225,
+        195
+      ],
+      "sha256": "4cbde5f2a67e739e46c6c3c3cc6f44d6c2ed797cfe0ce459a85b17e6d1ae6c04"
+    },
+    "betamon": {
+      "local_path": "assets/digimon/betamon.png",
+      "origin_path": "resources/img/sprites/x5/betamon.png",
+      "pixels": [
+        130,
+        115
+      ],
+      "sha256": "2b9589b4b6b91e36ef31b5651e12691f856124804c03459385d12231c5ace45b"
+    },
+    "goblimon": {
+      "local_path": "assets/digimon/goblimon.png",
+      "origin_path": "resources/img/sprites/x5/goblimon.png",
+      "pixels": [
+        170,
+        155
+      ],
+      "sha256": "9f83c3e0a8139fde81aadc3293d07868680f5dc031ae1099d87223b3bbee333c"
+    },
+    "ogremon": {
+      "local_path": "assets/digimon/ogremon.png",
+      "origin_path": "resources/img/sprites/x5/ogremon.png",
+      "pixels": [
+        215,
+        175
+      ],
+      "sha256": "79dde14bee64b7e5220d81c3f6618adeda60d2329e253ea31cfc82512d6d9617"
+    },
+    "devimon": {
+      "local_path": "assets/digimon/devimon.png",
+      "origin_path": "resources/img/sprites/x5/devimon.png",
+      "pixels": [
+        200,
+        190
+      ],
+      "sha256": "fb4ff64bd571fe28c74c6cc6ca5a07bb95cadf95fcfcbc0a2a11cfc1054def06"
+    },
+    "piedmon": {
+      "local_path": "assets/digimon/piedmon.png",
+      "origin_path": "resources/img/sprites/x5/piedmon.png",
+      "pixels": [
+        235,
+        250
+      ],
+      "sha256": "4c9a9deafab5036b0bd03460a67028ed701048b2275e6ceaeeae8e97d9ca6dbc"
+    },
+    "metalgreymon": {
+      "local_path": "assets/digimon/metalgreymon.png",
+      "origin_path": "resources/img/sprites/x5/metalgreymon.png",
+      "pixels": [
+        245,
+        255
+      ],
+      "sha256": "4add8a82e8c241f6f41a762e70e61378de94d753ba14759df0eee306b7b46f01"
+    },
+    "wargreymon": {
+      "local_path": "assets/digimon/wargreymon.png",
+      "origin_path": "resources/img/sprites/x5/wargreymon.png",
+      "pixels": [
+        280,
+        260
+      ],
+      "sha256": "fcf63ad99079a55bc881a9f4e99f871055edf7eae041739c3902aa76c5e866d6"
+    },
+    "andromon": {
+      "local_path": "assets/digimon/andromon.png",
+      "origin_path": "resources/img/sprites/x5/andromon.png",
+      "pixels": [
+        205,
+        195
+      ],
+      "sha256": "2e7e6edc54962199c02082601fe20d4558ae391ed9322b2e93d42cba6dd0eb2e"
+    },
+    "guardromon": {
+      "local_path": "assets/digimon/guardromon.png",
+      "origin_path": "resources/img/sprites/x5/guardromon.png",
+      "source_url": "https://raw.githubusercontent.com/SergioGranSol/digidex/main/resources/img/sprites/x5/guardromon.png",
+      "pixels": [
+        200,
+        160
+      ],
+      "sha256": "7d95c06dc40e46cb9450b7b02efbed5f825ab74e1b726991da26f73ed2b99b05",
+      "added_in": "0.21.1",
+      "canonical_reference": "https://digimon.net/reference_en/detail.php?directory_name=guardromon",
+      "retrieval_note": "Downloaded from the same Digidex repository; not supplied in the original user ZIP."
+    }
+  },
+  "additional_downloads": [
+    "guardromon"
+  ],
+  "publication": {
+    "status": "confirmed_by_project_owner",
+    "confirmed_on": "2026-11-21",
+    "source": "Explicit instruction from project owner in this conversation",
+    "scope": "Public academic Digimon RPG repository and complete delivery ZIP",
+    "credits": "CREDITOS.md",
+    "license_granted_by_this_manifest": false
+  },
+  "upstream_credits": {
+    "source": "https://github.com/SergioGranSol/digidex#creators",
+    "readme_blob_sha": "8ef4943315323be711a49dd627f19770d0273cc7",
+    "consulted_on": "2026-11-21",
+    "attribution_level": "collection; upstream README does not map individual PNGs to artists",
+    "creators": [
+      {
+        "name": "Zebub Al-Zemechiel (Giffactory)",
+        "url": "http://giffactory.joeyteel.com/tiny/index.html"
+      },
+      {
+        "name": "DragonRod342",
+        "url": "https://www.deviantart.com/dragonrod342"
+      },
+      {
+        "name": "SergioGranSol",
+        "url": "https://www.deviantart.com/sergiogransol"
+      },
+      {
+        "name": "Opdisk",
+        "url": "https://www.deviantart.com/opdisk"
+      },
+      {
+        "name": "Topaz66",
+        "url": "https://www.deviantart.com/topaz66"
+      },
+      {
+        "name": "Arcanin1412",
+        "url": "https://www.deviantart.com/arcanin1412"
+      },
+      {
+        "name": "Neroesaurus",
+        "url": "https://www.deviantart.com/neroesaurus"
+      },
+      {
+        "name": "Demo9ic",
+        "url": "https://www.deviantart.com/demo9ic"
+      },
+      {
+        "name": "Matykiller",
+        "url": "https://www.deviantart.com/matykiller"
+      },
+      {
+        "name": "Maxtyrannus",
+        "url": "https://www.deviantart.com/maxtyrannus"
+      },
+      {
+        "name": "ScorchedDragonStudio",
+        "url": "https://www.deviantart.com/scorcheddragonstudio"
+      },
+      {
+        "name": "Sharkmon",
+        "url": "https://www.deviantart.com/sharkmon"
+      },
+      {
+        "name": "Yggdrasil Library — colección de sprites",
+        "url": "https://blog.naver.com/tmfrl3316"
+      },
+      {
+        "name": "CadejoWhite",
+        "url": "https://dibujando.net/cadejowhite/galeria"
+      },
+      {
+        "name": "VictoryD",
+        "url": "https://twitter.com/_VictoryD_"
+      },
+      {
+        "name": "Extyrannomon",
+        "url": "https://twitter.com/extyrannomon"
+      },
+      {
+        "name": "Thousand_13",
+        "url": "https://twitter.com/thousand_13"
+      }
+    ]
+  }
+}

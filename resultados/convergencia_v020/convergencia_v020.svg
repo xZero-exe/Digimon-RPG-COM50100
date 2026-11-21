@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="1000" height="500">
+<rect width="100%" height="100%" fill="white"/>
+<text x="100" y="44" font-family="sans-serif" font-size="24" font-weight="bold" fill="#18202b">Convergencia: MC frente a Value Iteration</text>
+<text x="100" y="70" font-family="sans-serif" font-size="13" fill="#4e5762">Medias por semilla; barras verticales: ±1 desviación estándar (muestral)</text>
+<line x1="100" x2="940" y1="405.0" y2="405.0" stroke="#e0e3e8"/>
+<text x="86" y="409.0" font-size="13" text-anchor="end" fill="#555">0%</text>
+<line x1="100" x2="940" y1="331.2" y2="331.2" stroke="#e0e3e8"/>
+<text x="86" y="335.2" font-size="13" text-anchor="end" fill="#555">25%</text>
+<line x1="100" x2="940" y1="257.5" y2="257.5" stroke="#e0e3e8"/>
+<text x="86" y="261.5" font-size="13" text-anchor="end" fill="#555">50%</text>
+<line x1="100" x2="940" y1="183.8" y2="183.8" stroke="#e0e3e8"/>
+<text x="86" y="187.8" font-size="13" text-anchor="end" fill="#555">75%</text>
+<line x1="100" x2="940" y1="110.0" y2="110.0" stroke="#e0e3e8"/>
+<text x="86" y="114.0" font-size="13" text-anchor="end" fill="#555">100%</text>
+<text transform="translate(24 255) rotate(-90)" font-family="sans-serif" font-size="14">Tasa de victoria</text>
+<line x1="100" x2="940" y1="405" y2="405" stroke="#333"/>
+<text x="100.0" y="430" font-size="13" text-anchor="middle">500</text>
+<text x="164.6" y="430" font-size="13" text-anchor="middle">2,000</text>
+<text x="293.8" y="430" font-size="13" text-anchor="middle">5,000</text>
+<text x="509.2" y="430" font-size="13" text-anchor="middle">10,000</text>
+<text x="940.0" y="430" font-size="13" text-anchor="middle">20,000</text>
+<text x="515" y="463" font-family="sans-serif" font-size="14" text-anchor="middle">Episodios acumulados de entrenamiento Monte Carlo</text>
+<line x1="100" x2="940" y1="131.5" y2="131.5" stroke="#777" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="937" y="123.5" font-size="12" text-anchor="end" fill="#555">DP 92.7%</text>
+<line x1="100.0" y1="399.7" x2="100.0" y2="388.5" stroke="#222" stroke-width="1.7"/>
+<line x1="94.0" y1="399.7" x2="106.0" y2="399.7" stroke="#222"/>
+<line x1="94.0" y1="388.5" x2="106.0" y2="388.5" stroke="#222"/>
+<line x1="164.6" y1="345.0" x2="164.6" y2="309.2" stroke="#222" stroke-width="1.7"/>
+<line x1="158.6" y1="345.0" x2="170.6" y2="345.0" stroke="#222"/>
+<line x1="158.6" y1="309.2" x2="170.6" y2="309.2" stroke="#222"/>
+<line x1="293.8" y1="286.1" x2="293.8" y2="255.4" stroke="#222" stroke-width="1.7"/>
+<line x1="287.8" y1="286.1" x2="299.8" y2="286.1" stroke="#222"/>
+<line x1="287.8" y1="255.4" x2="299.8" y2="255.4" stroke="#222"/>
+<line x1="509.2" y1="231.6" x2="509.2" y2="214.3" stroke="#222" stroke-width="1.7"/>
+<line x1="503.2" y1="231.6" x2="515.2" y2="231.6" stroke="#222"/>
+<line x1="503.2" y1="214.3" x2="515.2" y2="214.3" stroke="#222"/>
+<line x1="940.0" y1="192.9" x2="940.0" y2="185.8" stroke="#222" stroke-width="1.7"/>
+<line x1="934.0" y1="192.9" x2="946.0" y2="192.9" stroke="#222"/>
+<line x1="934.0" y1="185.8" x2="946.0" y2="185.8" stroke="#222"/>
+<polyline fill="none" stroke="#1b2733" stroke-width="3" points="100.0,394.1 164.6,327.1 293.8,270.8 509.2,223.0 940.0,189.4"/>
+<circle cx="100.0" cy="394.1" r="5.5" fill="white" stroke="#1b2733" stroke-width="2.5"/>
+<text x="100.0" y="379.1" text-anchor="middle" font-size="12" fill="#18202b">3.7%</text>
+<circle cx="164.6" cy="327.1" r="5.5" fill="white" stroke="#1b2733" stroke-width="2.5"/>
+<text x="164.6" y="312.1" text-anchor="middle" font-size="12" fill="#18202b">26.4%</text>
+<circle cx="293.8" cy="270.8" r="5.5" fill="white" stroke="#1b2733" stroke-width="2.5"/>
+<text x="293.8" y="255.8" text-anchor="middle" font-size="12" fill="#18202b">45.5%</text>
+<circle cx="509.2" cy="223.0" r="5.5" fill="white" stroke="#1b2733" stroke-width="2.5"/>
+<text x="509.2" y="208.0" text-anchor="middle" font-size="12" fill="#18202b">61.7%</text>
+<circle cx="940.0" cy="189.4" r="5.5" fill="white" stroke="#1b2733" stroke-width="2.5"/>
+<text x="940.0" y="174.4" text-anchor="middle" font-size="12" fill="#18202b">73.1%</text>
+</svg>

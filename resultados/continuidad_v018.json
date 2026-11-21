@@ -1,0 +1,13 @@
+{
+  "baseline": "v0.17",
+  "unchanged_files": 523,
+  "changed_existing_files": [
+    "JUGAR_WINDOWS.bat",
+    "README.md",
+    "VALIDAR_WINDOWS.bat",
+    "pyproject.toml",
+    "src/digimon_rl/gui/app.py"
+  ],
+  "missing_files": [],
+  "engine_policies_previous_assets_combat_feedback_and_map_rules_byte_identical": true
+}

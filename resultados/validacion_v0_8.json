@@ -1,0 +1,56 @@
+{
+  "version": "0.8.0",
+  "seed": 42,
+  "mc_training_episodes": 90000,
+  "eval_episodes": 500,
+  "nominal_states": 395138,
+  "reachable_states": 48553,
+  "trained_states": 27216,
+  "dp_train_seconds": 42.556,
+  "mc_train_seconds": 55.363,
+  "dp_iterations": 34,
+  "dp_policy_states": 48553,
+  "mc_policy_states": 18427,
+  "dp_training_actions": 714,
+  "mc_training_actions": 252,
+  "dp": {
+    "episodes": 500,
+    "wins": 468,
+    "losses": 32,
+    "truncated": 0,
+    "win_rate": 0.936,
+    "mean_reward": 141.478,
+    "mean_discounted_return": 84.04423224400999,
+    "mean_steps": 13.652
+  },
+  "mc": {
+    "episodes": 500,
+    "wins": 437,
+    "losses": 63,
+    "truncated": 0,
+    "win_rate": 0.874,
+    "mean_reward": 124.206,
+    "mean_discounted_return": 70.7008742026972,
+    "mean_steps": 14.668
+  },
+  "dp_sample": {
+    "won": true,
+    "steps": 13,
+    "used_training": true,
+    "actions": [
+      "ruta_bosque",
+      "digievolucionar",
+      "atacar",
+      "buscar_recursos",
+      "ataque_especial",
+      "entrenar_habilidad",
+      "buscar_recursos",
+      "defender",
+      "digievolucionar",
+      "atacar",
+      "buscar_recursos",
+      "digievolucionar",
+      "atacar"
+    ]
+  }
+}
